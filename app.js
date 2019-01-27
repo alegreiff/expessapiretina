@@ -3,7 +3,7 @@ var express = require('express');
 var cors = require('cors')
 var app = express();
 app.use(cors({
-  "origin": "*, http://pollos.net",
+  "origin": "",
   "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
   "preflightContinue": false,
   "optionsSuccessStatus": 204
