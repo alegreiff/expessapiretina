@@ -3,9 +3,9 @@ var express = require('express');
 var cors = require('cors')
 var app = express();
 app.use(cors({
-  "origin": "",
+  "origin": "*",
   "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
-  "preflightContinue": true,
+  "preflightContinue": false,
   "optionsSuccessStatus": 204
 }))
 var bodyParser = require('body-parser');
