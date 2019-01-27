@@ -1,11 +1,16 @@
 //https://github.com/masfranzhuo/sequalize-express-SQLite
 var express = require('express');
 var app = express();
+var cors = require('cors')
+app.use(cors())
 var bodyParser = require('body-parser');
 var sqlite = require('sqlite3');
 var env = require('dotenv').load();
 var port = process.env.PORT || 8080;
 
+/*
+
+*/
 
 /*IMPORTAR*/
 const _PELICULAS = require('./data/filmes.json')
