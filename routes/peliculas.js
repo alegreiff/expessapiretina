@@ -27,7 +27,7 @@ var checkIDExist = function (req, res, next) {
             next();
         } else {
             //console.log('Book not found');
-            res.status(400).json('That film does not exists');
+            res.status(400).json('Puta vida. No está...');
         }
     });
 };
