@@ -57,7 +57,7 @@ router.get('/', function(req, res){
 });
 
 
-app.put('/:id', (req, res) => {
+router.put('/:id', (req, res) => {
   Pelicula.update({
     titulo: req.body.titulo,
   }, {where: {id: req.params.id} })
