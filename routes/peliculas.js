@@ -41,16 +41,7 @@ router.get('/:id', [checkIDInput, checkIDExist], function(req, res){
 
 router.get('/', function(req, res){
     Pelicula.findAll({
-      attributes: ['id','titulo', 'pais', 'year', 'genero', 'formato', 'duracion'],
-      include: [{
-        model: Fecha, as: 'temporadas',
-        attributes: ['entrada', 'salida']
-      },
-      {
-        model: Visita, as: 'visitas',
-        attributes: ['year', 'month', 'visitas']
-      }
-    ],
+      attributes: ['id','titulo'],
     }).then(peli => {
         res.status(200).json(peli);
     });
