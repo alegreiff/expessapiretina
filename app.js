@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 app.use((req, res, next) => {
-    
+
     res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
     res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
     res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
@@ -39,6 +39,7 @@ var Visita = require('./models').Visita;
 // routes
 var books = require('./routes/books');
 var peliculas = require('./routes/peliculas');
+var fechas = require('./routes/fechas');
 
 //Sync Database
 /*models.sequelize.sync({force: true})*/
