@@ -56,6 +56,23 @@ router.get('/', function(req, res){
     });
 });
 
+
+app.put('/:id', (req, res) => {
+  Pelicula.update({
+    titulo: req.body.titulo,
+  }, {where: {id: req.params.id} })
+      .then(rows => {
+        res.json({
+          message: 'Modificado'
+        })
+      })
+      .catch(error =>{
+        console.log(error)
+        res.status(404).send(error)
+      })
+})
+
+
 router.post('/', function(req, res){
     Pelicula.create({
       titulo: req.body.titulo,
