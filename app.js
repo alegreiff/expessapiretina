@@ -99,11 +99,12 @@ app.use(bodyParser.urlencoded({
 // register routes
 app.use('/books', books);
 app.use('/peliculas', peliculas);
+app.use('/fechas', fechas);
 
 // index path
 app.get('/', function(req, res){
     console.log('app listening on port: '+port);
-    res.send('cateando  express nodejs sqlite')
+    res.send('cateando  express nodejs sqlite + fechas')
 });
 
 app.listen(port, function(){
