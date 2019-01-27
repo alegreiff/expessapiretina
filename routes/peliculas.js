@@ -27,7 +27,7 @@ var checkIDExist = function (req, res, next) {
             next();
         } else {
             //console.log('Book not found');
-            res.status(400).json('Esa puta película la conocerá su madre');
+            res.status(400).json('No existe película con diho ID');
         }
     });
 };
@@ -41,7 +41,16 @@ router.get('/:id', [checkIDInput, checkIDExist], function(req, res){
 
 router.get('/', function(req, res){
     Pelicula.findAll({
-      attributes: ['id','titulo'],
+      attributes: ['id','titulo', 'pais', 'year', 'genero', 'formato', 'duracion'],
+      include: [{
+        model: Fecha, as: 'temporadas',
+        attributes: ['entrada', 'salida']
+      },
+      {
+        model: Visita, as: 'visitas',
+        attributes: ['year', 'month', 'visitas']
+      }
+    ],
     }).then(peli => {
         res.status(200).json(peli);
     });
