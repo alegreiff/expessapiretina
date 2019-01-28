@@ -36,7 +36,7 @@ router.get('/proximas', function(req, res){
     Fecha.findAll({
       where: {
         salida: {
-          [Op.gte]: moment().subtract(40, 'days').toDate()
+          [Op.gte]: moment().subtract(1, 'days').toDate()
         }
       }
     }).then(fecha => {
