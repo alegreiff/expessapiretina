@@ -1,5 +1,6 @@
 var express = require('express');
 var Fecha = require('../models').Fecha;
+var Pelicula = require('../models').Pelicula;
 var router = express.Router();
 const { Op } = require('sequelize')
 var moment = require('moment');
@@ -37,8 +38,12 @@ router.get('/proximas', function(req, res){
       where: {
         salida: {
           [Op.gte]: moment().subtract(1, 'days').toDate()
-        }
-      }
+        },
+      },
+      include: [{
+        model: Pelicula,
+        attributes: ['titulo']
+      }]
     }).then(fecha => {
         res.status(200).json(fecha);
     });

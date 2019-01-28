@@ -5,11 +5,6 @@ var Visita = require('../models').Visita;
 var router = express.Router();
 
 
-//RELACIONES ENTRE TABLAS
-Pelicula.hasMany(Fecha, {as: 'temporadas'})
-Pelicula.hasMany(Visita, {as: 'visitas'})
-
-
 // middleware
 var checkIDInput = function (req, res, next) {
     //console.log('Check ID input');

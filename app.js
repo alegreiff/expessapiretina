@@ -10,8 +10,6 @@ app.use((req, res, next) => {
     next();
 });
 
-
-
 var bodyParser = require('body-parser');
 var sqlite = require('sqlite3');
 var env = require('dotenv').load();
@@ -34,6 +32,11 @@ var models = require("./models");
 var Pelicula = require('./models').Pelicula;
 var Fecha = require('./models').Fecha;
 var Visita = require('./models').Visita;
+
+//RELACIONES ENTRE TABLAS
+Pelicula.hasMany(Fecha, {as: 'temporadas'})
+Pelicula.hasMany(Visita, {as: 'visitas'})
+Fecha.belongsTo(Pelicula)
 
 
 // routes
