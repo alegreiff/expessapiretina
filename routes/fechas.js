@@ -1,6 +1,8 @@
 var express = require('express');
 var Fecha = require('../models').Fecha;
 var router = express.Router();
+const { Op } = require('sequelize')
+var moment = require('moment');
 
 // middleware
 var checkIDInput = function (req, res, next) {
@@ -29,6 +31,20 @@ router.get('/', function(req, res){
         res.status(200).json(fecha);
     });
 });
+
+router.get('/proximas', function(req, res){
+    Fecha.findAll({
+      where: {
+        salida: {
+          [Op.gte]: moment().subtract(40, 'days').toDate()
+        }
+      }
+    }).then(fecha => {
+        res.status(200).json(fecha);
+    });
+});
+
+
 
 
 
