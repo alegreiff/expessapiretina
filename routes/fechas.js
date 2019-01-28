@@ -35,6 +35,7 @@ router.get('/', function(req, res){
 
 router.get('/proximas', function(req, res){
     Fecha.findAll({
+      attributes: ['PeliculaId','entrada', 'salida'],
       where: {
         salida: {
           [Op.gte]: moment().subtract(1, 'days').toDate()
