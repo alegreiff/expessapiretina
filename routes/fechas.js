@@ -40,7 +40,9 @@ var checkIDExist = function (req, res, next) {
 };
 
 router.get('/', function(req, res){
-    Fecha.findAll().then(fecha => {
+    Fecha.findAll({
+      attributes: ['PeliculaId','entrada', 'salida'],
+    }).then(fecha => {
         res.status(200).json(fecha);
     });
 });
@@ -91,6 +93,24 @@ router.get('/proximas', function(req, res){
         res.status(200).json(fecha);
     });
 });
+
+router.get('/proximas', function(req, res){
+    Fecha.findAll({
+      attributes: ['PeliculaId','entrada', 'salida'],
+      where: {
+        salida: {
+          [Op.gte]: moment().subtract(1, 'days').toDate()
+        },
+      },
+      include: [{
+        model: Pelicula,
+        attributes: ['titulo']
+      }]
+    }).then(fecha => {
+        res.status(200).json(fecha);
+    });
+});
+
 
 
 
