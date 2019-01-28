@@ -39,7 +39,7 @@ router.get('/', function(req, res){
       attributes: ['id','titulo', 'pais', 'year', 'genero', 'formato', 'duracion'],
       include: [{
         model: Fecha, as: 'temporadas',
-        attributes: ['entrada', 'salida']
+        attributes: ['entrada', 'salida', 'id']
       },
       {
         model: Visita, as: 'visitas',
