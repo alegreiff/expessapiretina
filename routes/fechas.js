@@ -98,7 +98,7 @@ router.get('/proximas', function(req, res){
     });
 });
 
-router.get('/proximas', function(req, res){
+/*router.get('/proximas', function(req, res){
     Fecha.findAll({
       attributes: ['PeliculaId','entrada', 'salida'],
       where: {
@@ -113,7 +113,7 @@ router.get('/proximas', function(req, res){
     }).then(fecha => {
         res.status(200).json(fecha);
     });
-});
+});*/
 
 
 
