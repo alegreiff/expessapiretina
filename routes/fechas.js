@@ -41,7 +41,7 @@ var checkIDExist = function (req, res, next) {
 
 router.get('/', function(req, res){
     Fecha.findAll({
-      attributes: ['PeliculaId','entrada', 'salida'],
+      attributes: ['id', 'PeliculaId','entrada', 'salida'],
       include: [{
         model: Pelicula,
         attributes: ['titulo']
