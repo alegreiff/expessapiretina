@@ -45,10 +45,10 @@ var peliculas = require('./routes/peliculas');
 var fechas = require('./routes/fechas');
 
 //Sync Database
-models.sequelize.sync({force: true})
-//models.sequelize.sync()
+//models.sequelize.sync({force: true})
+models.sequelize.sync()
 
-
+/*
   .then(() =>{
     Pelicula.bulkCreate(_PELICULAS)
     .then(Pelicula => {
@@ -81,7 +81,7 @@ models.sequelize.sync({force: true})
   })
 
 
-
+*/
 
 
 
