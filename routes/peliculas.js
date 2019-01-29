@@ -69,13 +69,22 @@ router.put('/:id', (req, res) => {
 
 
 router.post('/', function(req, res){
+  console.log(req)
     Pelicula.create({
       titulo: req.body.titulo,
       year: req.body.year,
       duracion: req.body.duracion,
       genero: req.body.genero,
       pais: req.body.pais,
-      formato: req.body.formato
+      formato: req.body.formato,
+      temporadas:
+      [{
+        entrada: req.body.temporadas[0].entrada,
+        salida: req.body.temporadas[0].salida
+      }]},{include: [{
+        model: Fecha,
+        as: 'temporadas'
+      }]
     }).then(pelicula => {
         res.status(200).json(pelicula);
     })
@@ -88,6 +97,35 @@ router.post('/', function(req, res){
         res.status(405).json('Error has occured');
     });
 });
+/*
+{
+	"titulo":	"Pollos locos",
+	"year":	2016,
+	"duracion":	25,
+	"genero":	"Documental",
+	"formato":	"Cortometraje",
+	"pais":	"Perú",
+	"temporadas": [{
+		"entrada": "2019-01-23",
+		"salida" :	"2019-02-28"
+	}]
+}
+*/
+/*
+Product.create({
+  id: 1,
+  title: 'Chair',
+  categories: [
+    {id: 1, name: 'Alpha'},
+    {id: 2, name: 'Beta'}
+  ]
+}, {
+  include: [{
+    model: Categories,
+    as: 'categories'
+  }]
+})
+*/
 
 
 /*
