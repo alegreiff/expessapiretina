@@ -78,10 +78,10 @@ router.post('/', function(req, res){
       pais: req.body.pais,
       formato: req.body.formato,
       temporadas:
-      [{
+      {
         entrada: req.body.temporadas[0].entrada,
         salida: req.body.temporadas[0].salida
-      }]},{include: [{
+      }},{include: [{
         model: Fecha,
         as: 'temporadas'
       }]
