@@ -23,7 +23,7 @@ var app = express()
 
 /*IMPORTAR*/
 const _PELICULAS = require('./data/filmes.json')
-const _FECHAX = require('./data/fechas1.json')
+const _FECHAX = require('./data/__fechas.json')
 const _VISITAS = require('./data/visitas.json')
 /* FIN IMPORTAR */
 // models

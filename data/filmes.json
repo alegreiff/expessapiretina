@@ -1,0 +1,2430 @@
+[{
+    "titulo": "Alguien mató algo",
+    "year": 1999,
+    "duracion": 27,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Antítesis",
+    "year": 2014,
+    "duracion": 16,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Bagatela",
+    "year": 2008,
+    "duracion": 74,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Carnitas",
+    "year": 2014,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Cilantro y perejil",
+    "year": 1997,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Conquistando el fuerte",
+    "year": 2014,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Venezuela"
+  },
+  {
+    "titulo": "Edificio Central",
+    "year": 2014,
+    "duracion": 12,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El bien esquivo",
+    "year": 2001,
+    "duracion": 138,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El imperio de la fortuna",
+    "year": 1986,
+    "duracion": 132,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "El lamento",
+    "year": 2014,
+    "duracion": 18,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "El secreto de Magdalena",
+    "year": 2015,
+    "duracion": 66,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "El tres de copas",
+    "year": 1986,
+    "duracion": 107,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "El último bolero",
+    "year": 2011,
+    "duracion": 91,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "El último paso",
+    "year": 2012,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "En el cuerpo equivocado",
+    "year": 2010,
+    "duracion": 53,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Espantapájaros",
+    "year": 2012,
+    "duracion": 53,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Este pueblo necesita un muerto",
+    "year": 2008,
+    "duracion": 48,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Guión",
+    "year": 2014,
+    "duracion": 9,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Jesús en el mundo maravilla",
+    "year": 2007,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Brasil"
+  },
+  {
+    "titulo": "La desazón suprema: retrato incesante de Fernando Vallejo",
+    "year": 2003,
+    "duracion": 90,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La Hortúa",
+    "year": 2011,
+    "duracion": 24,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La mansión de Araucaima",
+    "year": 1986,
+    "duracion": 86,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La pasión según Berenice",
+    "year": 1976,
+    "duracion": 101,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "La playa D.C.",
+    "year": 2012,
+    "duracion": 88,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La Sirga",
+    "year": 2012,
+    "duracion": 90,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La vida útil",
+    "year": 2010,
+    "duracion": 63,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Ligerita",
+    "year": 2003,
+    "duracion": 6,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Los colores de la montaña",
+    "year": 2011,
+    "duracion": 93,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Manchinery",
+    "year": 2012,
+    "duracion": 5,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "María Sabina",
+    "year": 1979,
+    "duracion": 81,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Más allá del mall",
+    "year": 2010,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Minuto 200",
+    "year": 2011,
+    "duracion": 19,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Miroslava",
+    "year": 1993,
+    "duracion": 87,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Miss Tacuarembó",
+    "year": 2010,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Ojos que no ven",
+    "year": 2003,
+    "duracion": 152,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Semillas del cambio",
+    "year": 2014,
+    "duracion": 42,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "Tarjeta roja",
+    "year": 2008,
+    "duracion": 93,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Waqayñan - Camino imaginario",
+    "year": 2011,
+    "duracion": 28,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "A estas alturas de la vida",
+    "year": 2011,
+    "duracion": 83,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Días de Santiago",
+    "year": 2004,
+    "duracion": 81,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El páramo",
+    "year": 2011,
+    "duracion": 108,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Fail",
+    "year": 2015,
+    "duracion": 7,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Ramona",
+    "year": 2014,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Rodri",
+    "year": 2012,
+    "duracion": 23,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Me gustan los estudiantes",
+    "year": 1968,
+    "duracion": 6,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Reus",
+    "year": 2011,
+    "duracion": 89,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Argentina y su fábrica de fútbol",
+    "year": 2007,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Argentina"
+  },
+  {
+    "titulo": "De cómo los niños pueden volar",
+    "year": 2008,
+    "duracion": 7,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "El circulo",
+    "year": 2008,
+    "duracion": 94,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "El inca, la boba y el hijo del ladrón",
+    "year": 2011,
+    "duracion": 101,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El último viaje con los hermanos",
+    "year": 2008,
+    "duracion": 54,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Querido Camilo",
+    "year": 2007,
+    "duracion": 58,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Costa Rica"
+  },
+  {
+    "titulo": "Rojo Red",
+    "year": 2008,
+    "duracion": 13,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Sed",
+    "year": 2011,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Una cita de amor",
+    "year": 1958,
+    "duracion": 88,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Ácratas",
+    "year": 2000,
+    "duracion": 72,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Mariana, Mariana",
+    "year": 1987,
+    "duracion": 85,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Migración",
+    "year": 2009,
+    "duracion": 25,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Navidad caribeña",
+    "year": 2001,
+    "duracion": 24,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Sofía y el terco",
+    "year": 2012,
+    "duracion": 82,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Un brinco pa allá",
+    "year": 2000,
+    "duracion": 20,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Alias la gringa",
+    "year": 1991,
+    "duracion": 96,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Buen viaje",
+    "year": 2008,
+    "duracion": 13,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Chocó",
+    "year": 2012,
+    "duracion": 80,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Chota",
+    "year": 2014,
+    "duracion": 66,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Descartes",
+    "year": 2009,
+    "duracion": 76,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "El lugar del hijo",
+    "year": 2013,
+    "duracion": 117,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Gajes del oficio",
+    "year": 2013,
+    "duracion": 12,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Hit",
+    "year": 2008,
+    "duracion": 80,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "La cerca",
+    "year": 2004,
+    "duracion": 21,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Overava",
+    "year": 2012,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Paraguay"
+  },
+  {
+    "titulo": "Por si no te vuelvo a ver",
+    "year": 1997,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Antes del fuego",
+    "year": 2015,
+    "duracion": 85,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Buen provecho",
+    "year": 2008,
+    "duracion": 8,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Días de vinilo",
+    "year": 2014,
+    "duracion": 119,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El último tren",
+    "year": 2002,
+    "duracion": 87,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Presos",
+    "year": 2016,
+    "duracion": 98,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Ruido rosa",
+    "year": 2015,
+    "duracion": 100,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Silencio en el paraiso",
+    "year": 2011,
+    "duracion": 93,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Sitio 53",
+    "year": 2010,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Chile"
+  },
+  {
+    "titulo": "Soraya, amor no es olvido",
+    "year": 2006,
+    "duracion": 53,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Un asunto de tierras",
+    "year": 2015,
+    "duracion": 79,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El viaje hacia el mar",
+    "year": 2003,
+    "duracion": 80,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Mi vanidad",
+    "year": 2013,
+    "duracion": 9,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Retrato peruano del Perú",
+    "year": 2013,
+    "duracion": 73,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Retratos en un mar de mentiras",
+    "year": 2010,
+    "duracion": 90,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Gertrudis Blues",
+    "year": 2002,
+    "duracion": 10,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Reino plástico",
+    "year": 2011,
+    "duracion": 24,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Y si te vi, no me acuerdo",
+    "year": 2011,
+    "duracion": 89,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Cachila",
+    "year": 2008,
+    "duracion": 69,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Llegó la hora",
+    "year": 1994,
+    "duracion": 8,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Tumaco Pacífico",
+    "year": 2008,
+    "duracion": 90,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El milagro de sal",
+    "year": 1958,
+    "duracion": 105,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La línea paterna",
+    "year": 1995,
+    "duracion": 85,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Juegos y rondas patrimoniales del Uruguay",
+    "year": 1966,
+    "duracion": 8,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Soy eterno",
+    "year": 2014,
+    "duracion": 5,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "E’çkwe quiere decir colibrí",
+    "year": 2011,
+    "duracion": 17,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El bella vista",
+    "year": 2012,
+    "duracion": 73,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "La pasión de María Elena",
+    "year": 2003,
+    "duracion": 76,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Beatriz González",
+    "year": 2010,
+    "duracion": 77,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Magnolia",
+    "year": 2011,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El árbol de la música",
+    "year": 1994,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Oscuros rinocerontes enjaulados... muy a la moda",
+    "year": 1990,
+    "duracion": 18,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Oda a la piña",
+    "year": 2008,
+    "duracion": 11,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Los minutos, las horas",
+    "year": 2009,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Filiberto",
+    "year": 2008,
+    "duracion": 11,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Los anfitriones",
+    "year": 2011,
+    "duracion": 16,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "El año del cerdo",
+    "year": 2007,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Desamparo",
+    "year": 2002,
+    "duracion": 90,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Las calles de mi ciudad",
+    "year": 2012,
+    "duracion": 6,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Música para después de dormir",
+    "year": 2013,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Oscar",
+    "year": 2016,
+    "duracion": 32,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Diario de piratas",
+    "year": 2012,
+    "duracion": 54,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "La roca perdida",
+    "year": 2014,
+    "duracion": 4,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Compacta y revolucionaria",
+    "year": 2011,
+    "duracion": 32,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "La casona",
+    "year": 2013,
+    "duracion": 24,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "La Chirola",
+    "year": 2008,
+    "duracion": 26,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "La despedida",
+    "year": 2014,
+    "duracion": 25,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Los que se quedaron",
+    "year": 1993,
+    "duracion": 27,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Pucha Vida",
+    "year": 2007,
+    "duracion": 12,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Si seguimos vivos",
+    "year": 2010,
+    "duracion": 23,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Cesó la horrible noche",
+    "year": 2014,
+    "duracion": 24,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La casta divina",
+    "year": 1976,
+    "duracion": 120,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Radio Belén",
+    "year": 1983,
+    "duracion": 12,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Ratas, ratones y rateros",
+    "year": 1998,
+    "duracion": 107,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Los Chipayas: vuelve Sebastiana",
+    "year": 1953,
+    "duracion": 27,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "En lo escondido",
+    "year": 2008,
+    "duracion": 78,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Los abrazos del río",
+    "year": 2010,
+    "duracion": 73,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "13 puertas",
+    "year": 2014,
+    "duracion": 70,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Despertar el polvo",
+    "year": 2013,
+    "duracion": 75,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "La Gorgona, historias fugadas",
+    "year": 2013,
+    "duracion": 73,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "San Antonio",
+    "year": 2011,
+    "duracion": 80,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "Demasiada agua",
+    "year": 2011,
+    "duracion": 12,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Sopla!",
+    "year": 2014,
+    "duracion": 30,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "C3M - cinemateca del tercer mundo",
+    "year": 2011,
+    "duracion": 61,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Los hongos",
+    "year": 2014,
+    "duracion": 103,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Alén",
+    "year": 2014,
+    "duracion": 25,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Carlota",
+    "year": 2016,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "El campeón de la muerte",
+    "year": 2014,
+    "duracion": 20,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Elisa ilusa",
+    "year": 2015,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Estrella del sur",
+    "year": 2013,
+    "duracion": 111,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Las cosas simples",
+    "year": 2015,
+    "duracion": 26,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Chile"
+  },
+  {
+    "titulo": "Más que palabras",
+    "year": 2015,
+    "duracion": 4,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Mojarra",
+    "year": 2011,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "La bala no mata",
+    "year": 2012,
+    "duracion": 55,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "El cultivo de la flor invisible",
+    "year": 2012,
+    "duracion": 84,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "D. F. Destino final",
+    "year": 2008,
+    "duracion": 110,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Ciudad crónica",
+    "year": 2006,
+    "duracion": 20,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Mientras llega el día",
+    "year": 2004,
+    "duracion": 100,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Noctiluca",
+    "year": 2015,
+    "duracion": 7,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Serpientes y escaleras",
+    "year": 1992,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Violencia",
+    "year": 2015,
+    "duracion": 79,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La cantuta en la boca del diablo",
+    "year": 2011,
+    "duracion": 90,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Poetas campesinos",
+    "year": 1980,
+    "duracion": 49,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Quijote",
+    "year": 2008,
+    "duracion": 80,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La rompecuellos",
+    "year": 2015,
+    "duracion": 71,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Kuychi Pucha",
+    "year": 2014,
+    "duracion": 9,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Lux Aeterna",
+    "year": 2013,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La selva inflada",
+    "year": 2016,
+    "duracion": 70,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La eterna noche de las doce lunas",
+    "year": 2013,
+    "duracion": 89,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El hombre muerto",
+    "year": 2009,
+    "duracion": 9,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Sangre y tierra - resistencia indígena del Norte del Cauca",
+    "year": 2016,
+    "duracion": 43,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Matrimonio Aymara",
+    "year": 2014,
+    "duracion": 25,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "Eclipse solar de 1938",
+    "year": 1938,
+    "duracion": 8,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Una Banda de Oruro",
+    "year": 2016,
+    "duracion": 57,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "Los soneros del Tesechoacán",
+    "year": 2007,
+    "duracion": 75,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Esa Música",
+    "year": 2014,
+    "duracion": 27,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El padre de Gardel",
+    "year": 2014,
+    "duracion": 78,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "La Banda Mocha",
+    "year": 2015,
+    "duracion": 103,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "El pescador de estrellas",
+    "year": 2017,
+    "duracion": 12,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El zorro enamorado de la luna",
+    "year": 2012,
+    "duracion": 3,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "La abuela grillo",
+    "year": 2009,
+    "duracion": 13,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Bolivia"
+  },
+  {
+    "titulo": "Los tres reyes magos",
+    "year": 1974,
+    "duracion": 86,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Mai, el gran cazador",
+    "year": 2012,
+    "duracion": 3,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Monito",
+    "year": 2015,
+    "duracion": 7,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Soberano papeleo",
+    "year": 2015,
+    "duracion": 3,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Carlitos",
+    "year": 2014,
+    "duracion": 71,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Cuando me toque a mi",
+    "year": 2008,
+    "duracion": 90,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "El otro cine",
+    "year": 2010,
+    "duracion": 26,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Niños de cine",
+    "year": 2015,
+    "duracion": 61,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Solecito",
+    "year": 2013,
+    "duracion": 20,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Vidas errantes",
+    "year": 1984,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "La matinée",
+    "year": 2006,
+    "duracion": 78,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "El dirigible",
+    "year": 1984,
+    "duracion": 85,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "3 Millones",
+    "year": 2011,
+    "duracion": 140,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Abuelos",
+    "year": 2010,
+    "duracion": 93,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Cuba, el valor de una utopía",
+    "year": 2006,
+    "duracion": 120,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Inés. Recuerdos de una vida",
+    "year": 2013,
+    "duracion": 72,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La velocidad de los Ceibos",
+    "year": 2008,
+    "duracion": 17,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Lucanamarca",
+    "year": 2008,
+    "duracion": 68,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Palabras mágicas (para romper un encantamiento)",
+    "year": 2012,
+    "duracion": 82,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Ruido",
+    "year": 2005,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Lluchu",
+    "year": 2016,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Sinfonía de Mercado",
+    "year": 2013,
+    "duracion": 27,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "A cada cerdo le llega su San Martín",
+    "year": 2007,
+    "duracion": 9,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Lía",
+    "year": 2012,
+    "duracion": 13,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "La bendita manía de contar",
+    "year": 2015,
+    "duracion": 29,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Alona",
+    "year": 2016,
+    "duracion": 13,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Cabeza de Vaca",
+    "year": 1989,
+    "duracion": 110,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Todo comenzó por el fin",
+    "year": 2015,
+    "duracion": 208,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "En la puta vida",
+    "year": 2001,
+    "duracion": 100,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Un secreto en la caja",
+    "year": 2016,
+    "duracion": 71,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Runan Caycu",
+    "year": 1973,
+    "duracion": 38,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Violeta se fue a los cielos",
+    "year": 2011,
+    "duracion": 110,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Chile"
+  },
+  {
+    "titulo": "Pelo malo",
+    "year": 2013,
+    "duracion": 93,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Venezuela"
+  },
+  {
+    "titulo": "El grill de César",
+    "year": 2013,
+    "duracion": 88,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "As hiper mulheres",
+    "year": 2012,
+    "duracion": 80,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Brasil"
+  },
+  {
+    "titulo": "As hiper mulheres (Portugués)",
+    "year": 2012,
+    "duracion": 80,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Brasil"
+  },
+  {
+    "titulo": "Sin título",
+    "year": 2015,
+    "duracion": 19,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Sin título. Segundo movimiento",
+    "year": 2016,
+    "duracion": 18,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Exiliados",
+    "year": 2011,
+    "duracion": 86,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "El primo del norte",
+    "year": 2017,
+    "duracion": 20,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Visa al paraíso",
+    "year": 2010,
+    "duracion": 108,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Añejo",
+    "year": 2014,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Aguacero",
+    "year": 2005,
+    "duracion": 6,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Pétalos",
+    "year": 2016,
+    "duracion": 8,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El modelo de Pickman",
+    "year": 2010,
+    "duracion": 11,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Gol",
+    "year": 2004,
+    "duracion": 16,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "El utilero",
+    "year": 2017,
+    "duracion": 24,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Mundialito",
+    "year": 2010,
+    "duracion": 72,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Cholo",
+    "year": 1972,
+    "duracion": 95,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Benjamín en tecnicolor",
+    "year": 2011,
+    "duracion": 27,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Fútbol, escuela de vida",
+    "year": 2013,
+    "duracion": 50,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Huellita",
+    "year": 2012,
+    "duracion": 10,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Burundanga",
+    "year": 2014,
+    "duracion": 26,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Matar a todos",
+    "year": 2007,
+    "duracion": 97,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Una mujer",
+    "year": 2016,
+    "duracion": 96,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Chamán, el último guerrero",
+    "year": 2016,
+    "duracion": 101,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Ciudad sin sombra",
+    "year": 2014,
+    "duracion": 110,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Destinos",
+    "year": 2016,
+    "duracion": 88,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Jericó, el infinito vuelo de los días",
+    "year": 2016,
+    "duracion": 78,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "No todo es vigilia",
+    "year": 2016,
+    "duracion": 98,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Sin mover los labios",
+    "year": 2017,
+    "duracion": 96,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Eso que llaman amor",
+    "year": 2016,
+    "duracion": 92,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Crónica del fin del mundo",
+    "year": 2013,
+    "duracion": 85,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Conversaciones II",
+    "year": 2007,
+    "duracion": 17,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El día menos pensado",
+    "year": 2004,
+    "duracion": 11,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Yaku Wiki",
+    "year": 2009,
+    "duracion": 12,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Las Bromelias",
+    "year": 2013,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Pariente",
+    "year": 2016,
+    "duracion": 115,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Pizarro",
+    "year": 2016,
+    "duracion": 82,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "The invisibles",
+    "year": 2014,
+    "duracion": 7,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Home - El país de la ilusión",
+    "year": 2016,
+    "duracion": 85,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Gente de bien",
+    "year": 2015,
+    "duracion": 87,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Paciente",
+    "year": 2016,
+    "duracion": 72,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Shui",
+    "year": 2012,
+    "duracion": 11,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Flores para el soldado",
+    "year": 2008,
+    "duracion": 80,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "La Jaula",
+    "year": 2016,
+    "duracion": 17,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Monarca",
+    "year": 2011,
+    "duracion": 8,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Vogulys",
+    "year": 2016,
+    "duracion": 54,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "7 Muros",
+    "year": 2016,
+    "duracion": 55,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Un día como tantos",
+    "year": 2014,
+    "duracion": 12,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Campo Santo",
+    "year": 2016,
+    "duracion": 11,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Circo, maroma y máscara",
+    "year": 2018,
+    "duracion": 18,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Feliz día",
+    "year": 2016,
+    "duracion": 6,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Vuelve",
+    "year": 2015,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Doris",
+    "year": 2016,
+    "duracion": 17,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Restaurant",
+    "year": 2018,
+    "duracion": 15,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Olor a Mercado",
+    "year": 2018,
+    "duracion": 12,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "El ocaso de las diosas",
+    "year": 2016,
+    "duracion": 53,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Palos y risas",
+    "year": 2016,
+    "duracion": 50,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Amazona",
+    "year": 2016,
+    "duracion": 82,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Don Ca",
+    "year": 2013,
+    "duracion": 90,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Los de siempre",
+    "year": 2016,
+    "duracion": 51,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Los invencibles Shuaras del Alto Amazonas",
+    "year": 1926,
+    "duracion": 17,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Fiesta del Centenario",
+    "year": 1944,
+    "duracion": 22,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Pequeños cineastas",
+    "year": 2017,
+    "duracion": 10,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Odisea Micro 2001",
+    "year": 2016,
+    "duracion": 10,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Las escaleras",
+    "year": 2017,
+    "duracion": 11,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "La visión de Arturo",
+    "year": 2017,
+    "duracion": 11,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Gallina vieja hace un buen caldo",
+    "year": 2017,
+    "duracion": 10,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "16:9",
+    "year": 2016,
+    "duracion": 8,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "El rincón de las vírgenes",
+    "year": 1972,
+    "duracion": 93,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Garras de oro",
+    "year": 1927,
+    "duracion": 55,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "María del desierto",
+    "year": 1982,
+    "duracion": 13,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Noqa Kani",
+    "year": 2017,
+    "duracion": 3,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Alma provinciana",
+    "year": 1926,
+    "duracion": 121,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "A través de la pantalla, canción de vida, muerte y perdón",
+    "year": 2015,
+    "duracion": 78,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El Regreso del Vampiro",
+    "year": 2011,
+    "duracion": 7,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Irma",
+    "year": 2017,
+    "duracion": 6,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "El invento",
+    "year": 2012,
+    "duracion": 22,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El casamiento",
+    "year": 2012,
+    "duracion": 71,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Una noche sin luna",
+    "year": 2014,
+    "duracion": 80,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Cartitas",
+    "year": 2017,
+    "duracion": 52,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "El armadillo fronterizo",
+    "year": 2009,
+    "duracion": 9,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "México"
+  },
+  {
+    "titulo": "Anna",
+    "year": 2016,
+    "duracion": 96,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Aislados",
+    "year": 2016,
+    "duracion": 73,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Frontera",
+    "year": 2017,
+    "duracion": 8,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "La Señal",
+    "year": 2016,
+    "duracion": 94,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Todos Somos Los nadie",
+    "year": 2016,
+    "duracion": 84,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "My Way or the Highway",
+    "year": 2017,
+    "duracion": 70,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Los viajes del viento",
+    "year": 2009,
+    "duracion": 117,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "En El Taller",
+    "year": 2018,
+    "duracion": 90,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Apuntes en la orilla",
+    "year": 2017,
+    "duracion": 13,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Duelo",
+    "year": 2016,
+    "duracion": 14,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Verde Olivo",
+    "year": 2017,
+    "duracion": 12,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Lecciones de Tai chi",
+    "year": 2017,
+    "duracion": 13,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Mataperros",
+    "year": 2015,
+    "duracion": 13,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "Quizá mañana",
+    "year": 2016,
+    "duracion": 13,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "El autómata",
+    "pais": "Cuba",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 13
+  },
+  {
+    "titulo": "El ébano de la canción",
+    "pais": "Cuba",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 11
+  }, {
+    "titulo": "Emma",
+    "pais": "Uruguay",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15
+  }, {
+    "titulo": "Anonimata",
+    "pais": "Colombia",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 17
+  }, {
+    "titulo": "El cuarto de los huesos",
+    "pais": "México",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 60
+  }
+]
