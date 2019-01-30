@@ -60,7 +60,7 @@ models.sequelize.sync({force: true})
   })
   .then(() =>{
     Fecha.bulkCreate(_FECHAX)
-    .then(Pelicula => {
+    .then(Fecha => {
       console.log('FECHAS OK')
     })
     .catch(error => {
