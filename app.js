@@ -45,6 +45,7 @@ var peliculas = require('./routes/peliculas');
 var fechas = require('./routes/fechas');
 
 //Sync Database
+
 models.sequelize.sync({force: true})
 //models.sequelize.sync()
 
