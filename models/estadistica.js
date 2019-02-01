@@ -5,8 +5,8 @@ module.exports = function(sequelize, Sequalize) {
         sesiones: Sequalize.INTEGER,
         usuarios_analytics: Sequalize.INTEGER,
         duracion_media: Sequalize.INTEGER,
-        rebote: Sequalize.INTEGER,
-        nuevas_sesiones: Sequalize.INTEGER,
+        rebote: Sequalize.FLOAT,
+        nuevas_sesiones: Sequalize.FLOAT,
         usuarios_wp: Sequalize.INTEGER,
         visitas_paginas: Sequalize.INTEGER
       });

@@ -1,7 +1,7 @@
 module.exports = function(sequelize, Sequalize) {
     var GeneroSchema = sequelize.define("Genero", {
-        hombres: Sequalize.INTEGER,
-        mujeres: Sequalize.INTEGER
+        hombres: Sequalize.FLOAT,
+        mujeres: Sequalize.FLOAT
       },{
         freezeTableName: true
     });

@@ -1,11 +1,11 @@
 module.exports = function(sequelize, Sequalize) {
     var EdadSchema = sequelize.define("Edad", {
-        g1: Sequalize.INTEGER,
-        g2: Sequalize.INTEGER,
-        g3: Sequalize.INTEGER,
-        g4: Sequalize.INTEGER,
-        g5: Sequalize.INTEGER,
-        g6: Sequalize.INTEGER
+        g1: Sequalize.FLOAT,
+        g2: Sequalize.FLOAT,
+        g3: Sequalize.FLOAT,
+        g4: Sequalize.FLOAT,
+        g5: Sequalize.FLOAT,
+        g6: Sequalize.FLOAT
 
       },{
         freezeTableName: true

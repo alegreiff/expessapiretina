@@ -12,7 +12,7 @@ router.get('/', function(req, res){
       attributes: ['id', 'mes', 'year', 'sesiones', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
       include: [{
         model: Edad, as: 'edad',
-        attributes: ['id', 'hombres', 'mujeres']
+        attributes: ['id', 'g1', 'g2', 'g3', 'g4', 'g5', 'g6']
       },
       {
         model: Adquisicion, as: 'adquisicion',
@@ -20,7 +20,7 @@ router.get('/', function(req, res){
       },
       {
         model: Genero, as: 'genero',
-        attributes: ['id', 'g1', 'g2', 'g3', 'g4', 'g5', 'g6']
+        attributes: ['id', 'hombres', 'mujeres']
       },
       {
         model: Tecnologia, as: 'tecnologia',
