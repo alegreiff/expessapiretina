@@ -6,6 +6,34 @@ var Genero = require('../models').Genero;
 var Tecnologia = require('../models').Tecnologia;
 var router = express.Router();
 
+
+router.get('/', function(req, res){
+    Estadistica.findAll({
+      attributes: ['id', 'mes', 'year', 'sesiones', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
+      include: [{
+        model: Edad, as: 'edad',
+        attributes: ['id', 'hombres', 'mujeres']
+      },
+      {
+        model: Adquisicion, as: 'adquisicion',
+        attributes: ['id', 'directa', 'social', 'organica', 'referida']
+      },
+      {
+        model: Genero, as: 'genero',
+        attributes: ['id', 'g1', 'g2', 'g3', 'g4', 'g5', 'g6']
+      },
+      {
+        model: Tecnologia, as: 'tecnologia',
+        attributes: ['id', 'escritorio', 'movil', 'tablet']
+      }
+    ],
+  }).then(estadistica => {
+        res.status(200).json(estadistica);
+    });
+});
+
+
+
 router.post('/', function(req, res){
   console.log(req)
     Estadistica.create({
