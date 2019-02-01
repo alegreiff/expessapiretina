@@ -9,7 +9,7 @@ var router = express.Router();
 
 router.get('/', function(req, res){
     Estadistica.findAll({
-      attributes: ['id', 'mes', 'year', 'sesiones', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
+      attributes: ['id', 'mes', 'year', 'sesiones', 'kaltura', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
       include: [{
         model: Edad, as: 'edad',
         attributes: ['g1', 'g2', 'g3', 'g4', 'g5', 'g6']

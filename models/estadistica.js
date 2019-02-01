@@ -4,6 +4,7 @@ module.exports = function(sequelize, Sequalize) {
         year: Sequalize.INTEGER,
         sesiones: Sequalize.INTEGER,
         usuarios_analytics: Sequalize.INTEGER,
+        kaltura: Sequalize.INTEGER,
         duracion_media: Sequalize.INTEGER,
         rebote: Sequalize.FLOAT,
         nuevas_sesiones: Sequalize.FLOAT,
