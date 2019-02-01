@@ -1,0 +1,1125 @@
+[
+    {
+        "mes": 3,
+        "year": 2016,
+        "sesiones": 19241,
+        "usuarios_analytics": 12091,
+        "duracion_media": 257,
+        "rebote": 45.14,
+        "nuevas_sesiones": 62.84,
+        "usuarios_wp": 4183,
+        "visitas_paginas": 72311,
+        "edad": [{
+            "g1": 16.85,
+            "g2": 37.03,
+            "g3": 19.82,
+            "g4": 10.48,
+            "g5": 9.26,
+            "g6": 6.56
+        }],
+        "genero": [{
+            "hombres": 57.77,
+            "mujeres": 42.23
+        }],
+        "tecnologia": [{
+            "escritorio": 74.43,
+            "movil": 19.06,
+            "tablet": 6.51
+        }],
+        "adquisicion": [{
+            "directa": 6407,
+            "organica": 5331,
+            "social": 3845,
+            "referida": 3658
+        }]
+    }, {
+        "mes": 4,
+        "year": 2016,
+        "sesiones": 16553,
+        "usuarios_analytics": 10372,
+        "duracion_media": 273,
+        "rebote": 46.47,
+        "nuevas_sesiones": 57.23,
+        "usuarios_wp": 2018,
+        "visitas_paginas": 59601,
+        "edad": [{
+            "g1": 19.64,
+            "g2": 41.49,
+            "g3": 18.13,
+            "g4": 8.77,
+            "g5": 7.46,
+            "g6": 4.5
+        }],
+        "genero": [{
+            "hombres": 59.46,
+            "mujeres": 40.54
+        }],
+        "tecnologia": [{
+            "escritorio": 76.46,
+            "movil": 17.4,
+            "tablet": 6.13
+        }],
+        "adquisicion": [{
+            "directa": 4779,
+            "organica": 5075,
+            "social": 3373,
+            "referida": 3326
+        }]
+    }, {
+        "mes": 5,
+        "year": 2016,
+        "sesiones": 11872,
+        "usuarios_analytics": 7316,
+        "duracion_media": 257,
+        "rebote": 51.82,
+        "nuevas_sesiones": 52.27,
+        "usuarios_wp": 1127,
+        "visitas_paginas": 42533,
+        "edad": [{
+            "g1": 18.78,
+            "g2": 39.18,
+            "g3": 20.23,
+            "g4": 9.72,
+            "g5": 6.93,
+            "g6": 5.17
+        }],
+        "genero": [{
+            "hombres": 60.75,
+            "mujeres": 39.25
+        }],
+        "tecnologia": [{
+            "escritorio": 76.56,
+            "movil": 17.53,
+            "tablet": 5.91
+        }],
+        "adquisicion": [{
+            "directa": 3556,
+            "organica": 3809,
+            "social": 2792,
+            "referida": 1715
+        }]
+    }, {
+        "mes": 6,
+        "year": 2016,
+        "sesiones": 8937,
+        "usuarios_analytics": 5606,
+        "duracion_media": 250,
+        "rebote": 52.49,
+        "nuevas_sesiones": 53.23,
+        "usuarios_wp": 954,
+        "visitas_paginas": 31550,
+        "edad": [{
+            "g1": 19.57,
+            "g2": 42.66,
+            "g3": 19,
+            "g4": 8.14,
+            "g5": 7.06,
+            "g6": 3.57
+        }],
+        "genero": [{
+            "hombres": 56.68,
+            "mujeres": 43.32
+        }],
+        "tecnologia": [{
+            "escritorio": 78.72,
+            "movil": 16.58,
+            "tablet": 4.7
+        }],
+        "adquisicion": [{
+            "directa": 2461,
+            "organica": 2789,
+            "social": 1923,
+            "referida": 1764
+        }]
+    }, {
+        "mes": 7,
+        "year": 2016,
+        "sesiones": 8602,
+        "usuarios_analytics": 5367,
+        "duracion_media": 273,
+        "rebote": 49.47,
+        "nuevas_sesiones": 52.56,
+        "usuarios_wp": 798,
+        "visitas_paginas": 31516,
+        "edad": [{
+            "g1": 18.49,
+            "g2": 41.55,
+            "g3": 18.02,
+            "g4": 8.96,
+            "g5": 8.17,
+            "g6": 4.81
+        }],
+        "genero": [{
+            "hombres": 56.52,
+            "mujeres": 43.48
+        }],
+        "tecnologia": [{
+            "escritorio": 77.19,
+            "movil": 18.15,
+            "tablet": 4.66
+        }],
+        "adquisicion": [{
+            "directa": 2625,
+            "organica": 3343,
+            "social": 1490,
+            "referida": 1144
+        }]
+    }, {
+        "mes": 8,
+        "year": 2016,
+        "sesiones": 38434,
+        "usuarios_analytics": 26204,
+        "duracion_media": 224,
+        "rebote": 52.05,
+        "nuevas_sesiones": 65.83,
+        "usuarios_wp": 5055,
+        "visitas_paginas": 124781,
+        "edad": [{
+            "g1": 18.27,
+            "g2": 41.9,
+            "g3": 17.97,
+            "g4": 10.87,
+            "g5": 7.72,
+            "g6": 3.27
+        }],
+        "genero": [{
+            "hombres": 54.13,
+            "mujeres": 45.87
+        }],
+        "tecnologia": [{
+            "escritorio": 69.63,
+            "movil": 26.11,
+            "tablet": 4.25
+        }],
+        "adquisicion": [{
+            "directa": 8367,
+            "organica": 8234,
+            "social": 7805,
+            "referida": 14005
+        }]
+    }, {
+        "mes": 9,
+        "year": 2016,
+        "sesiones": 19396,
+        "usuarios_analytics": 11489,
+        "duracion_media": 262,
+        "rebote": 50.85,
+        "nuevas_sesiones": 50.31,
+        "usuarios_wp": 2228,
+        "visitas_paginas": 66480,
+        "edad": [{
+            "g1": 20.05,
+            "g2": 37.77,
+            "g3": 16.43,
+            "g4": 9.87,
+            "g5": 10.24,
+            "g6": 5.64
+        }],
+        "genero": [{
+            "hombres": 55.04,
+            "mujeres": 44.96
+        }],
+        "tecnologia": [{
+            "escritorio": 71.51,
+            "movil": 22.28,
+            "tablet": 6.21
+        }],
+        "adquisicion": [{
+            "directa": 6000,
+            "organica": 6837,
+            "social": 3464,
+            "referida": 3093
+        }]
+    }, {
+        "mes": 10,
+        "year": 2016,
+        "sesiones": 33255,
+        "usuarios_analytics": 22922,
+        "duracion_media": 379,
+        "rebote": 48.52,
+        "nuevas_sesiones": 64.68,
+        "usuarios_wp": 3150,
+        "visitas_paginas": 92377,
+        "edad": [{
+            "g1": 26.02,
+            "g2": 39.46,
+            "g3": 15.51,
+            "g4": 8.06,
+            "g5": 6.73,
+            "g6": 4.23
+        }],
+        "genero": [{
+            "hombres": 56.2,
+            "mujeres": 43.8
+        }],
+        "tecnologia": [{
+            "escritorio": 70.91,
+            "movil": 25.14,
+            "tablet": 3.96
+        }],
+        "adquisicion": [{
+            "directa": 6569,
+            "organica": 7927,
+            "social": 4789,
+            "referida": 13970
+        }]
+    }, {
+        "mes": 11,
+        "year": 2016,
+        "sesiones": 21163,
+        "usuarios_analytics": 12762,
+        "duracion_media": 549,
+        "rebote": 40.56,
+        "nuevas_sesiones": 52.27,
+        "usuarios_wp": 1628,
+        "visitas_paginas": 64150,
+        "edad": [{
+            "g1": 20.83,
+            "g2": 34.99,
+            "g3": 16.01,
+            "g4": 9.52,
+            "g5": 11.52,
+            "g6": 7.12
+        }],
+        "genero": [{
+            "hombres": 55.1,
+            "mujeres": 44.9
+        }],
+        "tecnologia": [{
+            "escritorio": 75.02,
+            "movil": 20.37,
+            "tablet": 4.61
+        }],
+        "adquisicion": [{
+            "directa": 5351,
+            "organica": 6795,
+            "social": 3050,
+            "referida": 5967
+        }]
+    }, {
+        "mes": 12,
+        "year": 2016,
+        "sesiones": 17885,
+        "usuarios_analytics": 12130,
+        "duracion_media": 434,
+        "rebote": 45.27,
+        "nuevas_sesiones": 59.74,
+        "usuarios_wp": 918,
+        "visitas_paginas": 47984,
+        "edad": [{
+            "g1": 21.29,
+            "g2": 38,
+            "g3": 19.03,
+            "g4": 8.32,
+            "g5": 8.34,
+            "g6": 5.03
+        }],
+        "genero": [{
+            "hombres": 57.02,
+            "mujeres": 42.98
+        }],
+        "tecnologia": [{
+            "escritorio": 65.35,
+            "movil": 30.75,
+            "tablet": 3.91
+        }],
+        "adquisicion": [{
+            "directa": 3556,
+            "organica": 4725,
+            "social": 5631,
+            "referida": 3973
+        }]
+    }, {
+        "mes": 1,
+        "year": 2017,
+        "sesiones": 12523,
+        "usuarios_analytics": 8060,
+        "duracion_media": 503,
+        "rebote": 45.17,
+        "nuevas_sesiones": 55.43,
+        "usuarios_wp": 750,
+        "visitas_paginas": 36997,
+        "edad": [{
+            "g1": 24.99,
+            "g2": 41.64,
+            "g3": 15.43,
+            "g4": 7.71,
+            "g5": 7.29,
+            "g6": 2.93
+        }],
+        "genero": [{
+            "hombres": 56.12,
+            "mujeres": 43.88
+        }],
+        "tecnologia": [{
+            "escritorio": 77.82,
+            "movil": 13.89,
+            "tablet": 3.79
+        }],
+        "adquisicion": [{
+            "directa": 2575,
+            "organica": 4651,
+            "social": 1968,
+            "referida": 3329
+        }]
+    }, {
+        "mes": 2,
+        "year": 2017,
+        "sesiones": 11785,
+        "usuarios_analytics": 7678,
+        "duracion_media": 469,
+        "rebote": 44.17,
+        "nuevas_sesiones": 54.93,
+        "usuarios_wp": 671,
+        "visitas_paginas": 33960,
+        "edad": [{
+            "g1": 25.31,
+            "g2": 41.35,
+            "g3": 14.52,
+            "g4": 8.03,
+            "g5": 6.9,
+            "g6": 3.87
+        }],
+        "genero": [{
+            "hombres": 56.42,
+            "mujeres": 43.58
+        }],
+        "tecnologia": [{
+            "escritorio": 76.66,
+            "movil": 20.33,
+            "tablet": 3.01
+        }],
+        "adquisicion": [{
+            "directa": 2435,
+            "organica": 4607,
+            "social": 1611,
+            "referida": 3132
+        }]
+    }, {
+        "mes": 3,
+        "year": 2017,
+        "sesiones": 16582,
+        "usuarios_analytics": 10168,
+        "duracion_media": 484,
+        "rebote": 44.58,
+        "nuevas_sesiones": 56.69,
+        "usuarios_wp": 997,
+        "visitas_paginas": 48240,
+        "edad": [{
+            "g1": 22.99,
+            "g2": 43.44,
+            "g3": 14.48,
+            "g4": 8.26,
+            "g5": 6.73,
+            "g6": 4.1
+        }],
+        "genero": [{
+            "hombres": 55.5,
+            "mujeres": 44.5
+        }],
+        "tecnologia": [{
+            "escritorio": 76.15,
+            "movil": 19.73,
+            "tablet": 4.12
+        }],
+        "adquisicion": [{
+            "directa": 3415,
+            "organica": 6516,
+            "social": 2572,
+            "referida": 4079
+        }]
+    }, {
+        "mes": 4,
+        "year": 2017,
+        "sesiones": 16897,
+        "usuarios_analytics": 10941,
+        "duracion_media": 522,
+        "rebote": 44.06,
+        "nuevas_sesiones": 57.18,
+        "usuarios_wp": 1027,
+        "visitas_paginas": 49792,
+        "edad": [{
+            "g1": 25.91,
+            "g2": 42.43,
+            "g3": 14.89,
+            "g4": 7,
+            "g5": 5.74,
+            "g6": 4.03
+        }],
+        "genero": [{
+            "hombres": 55.43,
+            "mujeres": 44.57
+        }],
+        "tecnologia": [{
+            "escritorio": 76.59,
+            "movil": 19.19,
+            "tablet": 4.22
+        }],
+        "adquisicion": [{
+            "directa": 3559,
+            "organica": 6339,
+            "social": 2669,
+            "referida": 4330
+        }]
+    }, {
+        "mes": 5,
+        "year": 2017,
+        "sesiones": 25831,
+        "usuarios_analytics": 17663,
+        "duracion_media": 429,
+        "rebote": 49.16,
+        "nuevas_sesiones": 63.21,
+        "usuarios_wp": 1695,
+        "visitas_paginas": 66201,
+        "edad": [{
+            "g1": 21.97,
+            "g2": 39.76,
+            "g3": 17.77,
+            "g4": 10.02,
+            "g5": 7,
+            "g6": 3.47
+        }],
+        "genero": [{
+            "hombres": 51.93,
+            "mujeres": 48.07
+        }],
+        "tecnologia": [{
+            "escritorio": 65.27,
+            "movil": 31.64,
+            "tablet": 3.1
+        }],
+        "adquisicion": [{
+            "directa": 4637,
+            "organica": 7672,
+            "social": 7843,
+            "referida": 5679
+        }]
+    }, {
+        "mes": 6,
+        "year": 2017,
+        "sesiones": 20437,
+        "usuarios_analytics": 13326,
+        "duracion_media": 487,
+        "rebote": 44.45,
+        "nuevas_sesiones": 58.63,
+        "usuarios_wp": 1271,
+        "visitas_paginas": 56911,
+        "edad": [{
+            "g1": 23.2,
+            "g2": 41.85,
+            "g3": 16.81,
+            "g4": 7.37,
+            "g5": 6.51,
+            "g6": 4.26
+        }],
+        "genero": [{
+            "hombres": 56.78,
+            "mujeres": 42.92
+        }],
+        "tecnologia": [{
+            "escritorio": 72.26,
+            "movil": 24.4,
+            "tablet": 3.35
+        }],
+        "adquisicion": [{
+            "directa": 3949,
+            "organica": 7479,
+            "social": 3182,
+            "referida": 5827
+        }]
+    }, {
+        "mes": 7,
+        "year": 2017,
+        "sesiones": 17432,
+        "usuarios_analytics": 11117,
+        "duracion_media": 530,
+        "rebote": 43.34,
+        "nuevas_sesiones": 56.48,
+        "usuarios_wp": 951,
+        "visitas_paginas": 50172,
+        "edad": [{
+            "g1": 26.18,
+            "g2": 41.32,
+            "g3": 15.06,
+            "g4": 6.62,
+            "g5": 6.3,
+            "g6": 4.53
+        }],
+        "genero": [{
+            "hombres": 52.92,
+            "mujeres": 47.08
+        }],
+        "tecnologia": [{
+            "escritorio": 78.65,
+            "movil": 18.44,
+            "tablet": 2.91
+        }],
+        "adquisicion": [{
+            "directa": 3264,
+            "organica": 7240,
+            "social": 2142,
+            "referida": 4786
+        }]
+    }, {
+        "mes": 8,
+        "year": 2017,
+        "sesiones": 19876,
+        "usuarios_analytics": 12585,
+        "duracion_media": 582,
+        "rebote": 42.26,
+        "nuevas_sesiones": 57.28,
+        "usuarios_wp": 1313,
+        "visitas_paginas": 60533,
+        "edad": [{
+            "g1": 26.38,
+            "g2": 40.77,
+            "g3": 16.04,
+            "g4": 7.01,
+            "g5": 5.98,
+            "g6": 3.84
+        }],
+        "genero": [{
+            "hombres": 54.01,
+            "mujeres": 45.99
+        }],
+        "tecnologia": [{
+            "escritorio": 76.51,
+            "movil": 19.93,
+            "tablet": 3.56
+        }],
+        "adquisicion": [{
+            "directa": 3615,
+            "organica": 8787,
+            "social": 2247,
+            "referida": 5227
+        }]
+    }, {
+        "mes": 9,
+        "year": 2017,
+        "sesiones": 19398,
+        "usuarios_analytics": 12382,
+        "duracion_media": 557,
+        "rebote": 43.31,
+        "nuevas_sesiones": 56.93,
+        "usuarios_wp": 1123,
+        "visitas_paginas": 58966,
+        "edad": [{
+            "g1": 29.28,
+            "g2": 38.83,
+            "g3": 15.05,
+            "g4": 7.78,
+            "g5": 6.11,
+            "g6": 2.95
+        }],
+        "genero": [{
+            "hombres": 53.22,
+            "mujeres": 46.78
+        }],
+        "tecnologia": [{
+            "escritorio": 74.62,
+            "movil": 22.36,
+            "tablet": 3.03
+        }],
+        "adquisicion": [{
+            "directa": 3344,
+            "organica": 9294,
+            "social": 1931,
+            "referida": 4829
+        }]
+    }, {
+        "mes": 10,
+        "year": 2017,
+        "sesiones": 20053,
+        "usuarios_analytics": 12901,
+        "duracion_media": 559,
+        "rebote": 43.29,
+        "nuevas_sesiones": 56.99,
+        "usuarios_wp": 1178,
+        "visitas_paginas": 59477,
+        "edad": [{
+            "g1": 30.46,
+            "g2": 39.06,
+            "g3": 15.62,
+            "g4": 7.28,
+            "g5": 5.39,
+            "g6": 3.74
+        }],
+        "genero": [{
+            "hombres": 51.63,
+            "mujeres": 48.37
+        }],
+        "tecnologia": [{
+            "escritorio": 73.92,
+            "movil": 22.74,
+            "tablet": 3.34
+        }],
+        "adquisicion": [{
+            "directa": 3648,
+            "organica": 9584,
+            "social": 1654,
+            "referida": 5167
+        }]
+    }, {
+        "mes": 11,
+        "year": 2017,
+        "sesiones": 18765,
+        "usuarios_analytics": 12032,
+        "duracion_media": 562,
+        "rebote": 44.89,
+        "nuevas_sesiones": 56.99,
+        "usuarios_wp": 1081,
+        "visitas_paginas": 53950,
+        "edad": [{
+            "g1": 27.29,
+            "g2": 39.3,
+            "g3": 14.58,
+            "g4": 7.52,
+            "g5": 7.15,
+            "g6": 4.17
+        }],
+        "genero": [{
+            "hombres": 51.99,
+            "mujeres": 48.01
+        }],
+        "tecnologia": [{
+            "escritorio": 73.15,
+            "movil": 23.03,
+            "tablet": 3.83
+        }],
+        "adquisicion": [{
+            "directa": 3424,
+            "organica": 8890,
+            "social": 2048,
+            "referida": 4403
+        }]
+    }, {
+        "mes": 12,
+        "year": 2017,
+        "sesiones": 22124,
+        "usuarios_analytics": 14064,
+        "duracion_media": 522,
+        "rebote": 42.83,
+        "nuevas_sesiones": 58,
+        "usuarios_wp": 1709,
+        "visitas_paginas": 65157,
+        "edad": [{
+            "g1": 23.72,
+            "g2": 46.28,
+            "g3": 16.01,
+            "g4": 7.08,
+            "g5": 4.46,
+            "g6": 2.45
+        }],
+        "genero": [{
+            "hombres": 58.77,
+            "mujeres": 41.23
+        }],
+        "tecnologia": [{
+            "escritorio": 66.85,
+            "movil": 29.35,
+            "tablet": 3.79
+        }],
+        "adquisicion": [{
+            "directa": 3856,
+            "organica": 8137,
+            "social": 5236,
+            "referida": 4894
+        }]
+    }, {
+        "mes": 1,
+        "year": 2018,
+        "sesiones": 17146,
+        "usuarios_analytics": 11225,
+        "duracion_media": 522,
+        "rebote": 43.98,
+        "nuevas_sesiones": 58.38,
+        "usuarios_wp": 1050,
+        "visitas_paginas": 54051,
+        "edad": [{
+            "g1": 25.82,
+            "g2": 43.8,
+            "g3": 15.2,
+            "g4": 7.23,
+            "g5": 5.14,
+            "g6": 2.83
+        }],
+        "genero": [{
+            "hombres": 51.82,
+            "mujeres": 48.18
+        }],
+        "tecnologia": [{
+            "escritorio": 69.08,
+            "movil": 27.7,
+            "tablet": 3.22
+        }],
+        "adquisicion": [{
+            "directa": 2642,
+            "organica": 8941,
+            "social": 1887,
+            "referida": 3676
+        }]
+    }, {
+        "mes": 2,
+        "year": 2018,
+        "sesiones": 17118,
+        "usuarios_analytics": 11009,
+        "duracion_media": 513,
+        "rebote": 43.64,
+        "nuevas_sesiones": 57.21,
+        "usuarios_wp": 1017,
+        "visitas_paginas": 55591,
+        "edad": [{
+            "g1": 30.77,
+            "g2": 39.35,
+            "g3": 14.37,
+            "g4": 6.76,
+            "g5": 5.56,
+            "g6": 3.18
+        }],
+        "genero": [{
+            "hombres": 52.24,
+            "mujeres": 47.76
+        }],
+        "tecnologia": [{
+            "escritorio": 72.57,
+            "movil": 24.57,
+            "tablet": 2.86
+        }],
+        "adquisicion": [{
+            "directa": 2593,
+            "organica": 9460,
+            "social": 1180,
+            "referida": 3885
+        }]
+    }, {
+        "mes": 3,
+        "year": 2018,
+        "sesiones": 28321,
+        "usuarios_analytics": 16693,
+        "duracion_media": 558,
+        "rebote": 40.34,
+        "nuevas_sesiones": 53.07,
+        "usuarios_wp": 1787,
+        "visitas_paginas": 85640,
+        "edad": [{
+            "g1": 26.82,
+            "g2": 42.99,
+            "g3": 13.77,
+            "g4": 6.97,
+            "g5": 5.23,
+            "g6": 4.23
+        }],
+        "genero": [{
+            "hombres": 53.78,
+            "mujeres": 46.22
+        }],
+        "tecnologia": [{
+            "escritorio": 73.65,
+            "movil": 23.1,
+            "tablet": 3.25
+        }],
+        "adquisicion": [{
+            "directa": 4764,
+            "organica": 12817,
+            "social": 3457,
+            "referida": 7282
+        }]
+    }, {
+        "mes": 4,
+        "year": 2018,
+        "sesiones": 26677,
+        "usuarios_analytics": 16602,
+        "duracion_media": 534,
+        "rebote": 43.22,
+        "nuevas_sesiones": 54.87,
+        "usuarios_wp": 1579,
+        "visitas_paginas": 78607,
+        "edad": [{
+            "g1": 28.85,
+            "g2": 41.14,
+            "g3": 13.76,
+            "g4": 7.13,
+            "g5": 5.21,
+            "g6": 3.91
+        }],
+        "genero": [{
+            "hombres": 49.77,
+            "mujeres": 50.23
+        }],
+        "tecnologia": [{
+            "escritorio": 74.09,
+            "movil": 22.98,
+            "tablet": 2.93
+        }],
+        "adquisicion": [{
+            "directa": 4532,
+            "organica": 13611,
+            "social": 2000,
+            "referida": 6534
+        }]
+    }, {
+        "mes": 5,
+        "year": 2018,
+        "sesiones": 24191,
+        "usuarios_analytics": 15750,
+        "duracion_media": 464,
+        "rebote": 47.03,
+        "nuevas_sesiones": 57.68,
+        "usuarios_wp": 1071,
+        "visitas_paginas": 67922,
+        "edad": [{
+            "g1": 28.77,
+            "g2": 40.8,
+            "g3": 14.89,
+            "g4": 6.61,
+            "g5": 4.99,
+            "g6": 3.94
+        }],
+        "genero": [{
+            "hombres": 49.48,
+            "mujeres": 50.52
+        }],
+        "tecnologia": [{
+            "escritorio": 70.83,
+            "movil": 24.92,
+            "tablet": 4.25
+        }],
+        "adquisicion": [{
+            "directa": 4118,
+            "organica": 13796,
+            "social": 1322,
+            "referida": 4955
+        }]
+    }, {
+        "mes": 6,
+        "year": 2018,
+        "sesiones": 23707,
+        "usuarios_analytics": 15931,
+        "duracion_media": 450,
+        "rebote": 48.49,
+        "nuevas_sesiones": 60.18,
+        "usuarios_wp": 1086,
+        "visitas_paginas": 67590,
+        "edad": [{
+            "g1": 26.35,
+            "g2": 42.68,
+            "g3": 15.28,
+            "g4": 6.28,
+            "g5": 6.11,
+            "g6": 3.3
+        }],
+        "genero": [{
+            "hombres": 50.94,
+            "mujeres": 49.06
+        }],
+        "tecnologia": [{
+            "escritorio": 67.09,
+            "movil": 26.72,
+            "tablet": 6.19
+        }],
+        "adquisicion": [{
+            "directa": 4153,
+            "organica": 13522,
+            "social": 1468,
+            "referida": 4563
+        }]
+    }, {
+        "mes": 7,
+        "year": 2018,
+        "sesiones": 35243,
+        "usuarios_analytics": 21645,
+        "duracion_media": 522,
+        "rebote": 43.55,
+        "nuevas_sesiones": 55.81,
+        "usuarios_wp": 2030,
+        "visitas_paginas": 107241,
+        "edad": [{
+            "g1": 21.45,
+            "g2": 39.78,
+            "g3": 16.06,
+            "g4": 8.39,
+            "g5": 8.29,
+            "g6": 6.04
+        }],
+        "genero": [{
+            "hombres": 52.72,
+            "mujeres": 47.28
+        }],
+        "tecnologia": [{
+            "escritorio": 57.88,
+            "movil": 22.72,
+            "tablet": 19.4
+        }],
+        "adquisicion": [{
+            "directa": 10499,
+            "organica": 15042,
+            "social": 2844,
+            "referida": 6857
+        }]
+    }, {
+        "mes": 8,
+        "year": 2018,
+        "sesiones": 42309,
+        "usuarios_analytics": 25321,
+        "duracion_media": 528,
+        "rebote": 44.02,
+        "nuevas_sesiones": 52.27,
+        "usuarios_wp": 2152,
+        "visitas_paginas": 123441,
+        "edad": [{
+            "g1": 26.56,
+            "g2": 42.18,
+            "g3": 12.71,
+            "g4": 7.2,
+            "g5": 6.35,
+            "g6": 5.01
+        }],
+        "genero": [{
+            "hombres": 52.06,
+            "mujeres": 47.94
+        }],
+        "tecnologia": [{
+            "escritorio": 65.16,
+            "movil": 21.51,
+            "tablet": 13.33
+        }],
+        "adquisicion": [{
+            "directa": 9912,
+            "organica": 21099,
+            "social": 2531,
+            "referida": 8767
+        }]
+    }, {
+        "mes": 9,
+        "year": 2018,
+        "sesiones": 355604,
+        "usuarios_analytics": 208760,
+        "duracion_media": 482,
+        "rebote": 40.51,
+        "nuevas_sesiones": 57.38,
+        "usuarios_wp": 41299,
+        "visitas_paginas": 1111965,
+        "edad": [{
+            "g1": 19.47,
+            "g2": 50.48,
+            "g3": 15.48,
+            "g4": 6.76,
+            "g5": 4.83,
+            "g6": 2.98
+        }],
+        "genero": [{
+            "hombres": 51.83,
+            "mujeres": 48.17
+        }],
+        "tecnologia": [{
+            "escritorio": 49.78,
+            "movil": 46.19,
+            "tablet": 4.03
+        }],
+        "adquisicion": [{
+            "directa": 45290,
+            "organica": 210454,
+            "social": 36930,
+            "referida": 62930
+        }]
+    }, {
+        "mes": 10,
+        "year": 2018,
+        "sesiones": 94868,
+        "usuarios_analytics": 52280,
+        "duracion_media": 515,
+        "rebote": 44.24,
+        "nuevas_sesiones": 42.37,
+        "usuarios_wp": 5622,
+        "visitas_paginas": 277282,
+        "edad": [{
+            "g1": 24.4,
+            "g2": 44.89,
+            "g3": 13.84,
+            "g4": 7.11,
+            "g5": 5.99,
+            "g6": 3.78
+        }],
+        "genero": [{
+            "hombres": 51.32,
+            "mujeres": 48.68
+        }],
+        "tecnologia": [{
+            "escritorio": 63.95,
+            "movil": 28.57,
+            "tablet": 8.48
+        }],
+        "adquisicion": [{
+            "directa": 18290,
+            "organica": 49699,
+            "social": 6872,
+            "referida": 20007
+        }]
+    }, {
+        "mes": 11,
+        "year": 2018,
+        "sesiones": 77308,
+        "usuarios_analytics": 51269,
+        "duracion_media": 404,
+        "rebote": 54.63,
+        "nuevas_sesiones": 55.48,
+        "usuarios_wp": 3055,
+        "visitas_paginas": 194217,
+        "edad": [{
+            "g1": 26.47,
+            "g2": 42.77,
+            "g3": 14.01,
+            "g4": 7.1,
+            "g5": 5.68,
+            "g6": 3.97
+        }],
+        "genero": [{
+            "hombres": 53.9,
+            "mujeres": 46.1
+        }],
+        "tecnologia": [{
+            "escritorio": 64.26,
+            "movil": 25.97,
+            "tablet": 9.77
+        }],
+        "adquisicion": [{
+            "directa": 13212,
+            "organica": 48447,
+            "social": 3327,
+            "referida": 12322
+        }]
+    }, {
+        "mes": 12,
+        "year": 2018,
+        "sesiones": 56746,
+        "usuarios_analytics": 31816,
+        "duracion_media": 587,
+        "rebote": 40.27,
+        "nuevas_sesiones": 43.45,
+        "usuarios_wp": 3229,
+        "visitas_paginas": 166600,
+        "edad": [{
+            "g1": 21.98,
+            "g2": 46,
+            "g3": 14.78,
+            "g4": 7.03,
+            "g5": 5.8,
+            "g6": 4.41
+        }],
+        "genero": [{
+            "hombres": 51.44,
+            "mujeres": 48.56
+        }],
+        "tecnologia": [{
+            "escritorio": 62.89,
+            "movil": 26.57,
+            "tablet": 10.54
+        }],
+        "adquisicion": [{
+            "directa": 11750,
+            "organica": 27460,
+            "social": 4769,
+            "referida": 12767
+        }]
+    }
+]

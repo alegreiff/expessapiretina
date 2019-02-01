@@ -25,6 +25,11 @@ var app = express()
 const _PELICULAS = require('./data/filmes.json')
 const _FECHAX = require('./data/__fechas.json')
 const _VISITAS = require('./data/visitas.json')
+const _ESTADISTICAS = require('./data/EEstadisticas.json')
+const _EDAD = require('./data/Edad.json')
+const _ADQUISICION = require('./data/Adquisicion.json')
+const _GENERO = require('./data/Genero.json')
+const _TECNOLOGIA = require('./data/Tecnologia.json')
 /* FIN IMPORTAR */
 // models
 var models = require("./models");
@@ -32,17 +37,34 @@ var models = require("./models");
 var Pelicula = require('./models').Pelicula;
 var Fecha = require('./models').Fecha;
 var Visita = require('./models').Visita;
+var Estadistica = require('./models').Estadistica;
+var Edad = require('./models').Edad;
+var Adquisicion = require('./models').Adquisicion;
+var Genero = require('./models').Genero;
+var Tecnologia = require('./models').Tecnologia;
+
 
 //RELACIONES ENTRE TABLAS
 Pelicula.hasMany(Fecha, {as: 'temporadas'})
 Pelicula.hasMany(Visita, {as: 'visitas'})
 Fecha.belongsTo(Pelicula)
+//
+Estadistica.hasMany(Edad, {as: 'edad'})
+Estadistica.hasMany(Genero, {as: 'genero'})
+Estadistica.hasMany(Adquisicion, {as: 'adquisicion'})
+Estadistica.hasMany(Tecnologia, {as: 'tecnologia'})
+
+Edad.belongsTo(Estadistica)
+Adquisicion.belongsTo(Estadistica)
+Genero.belongsTo(Estadistica)
+Tecnologia.belongsTo(Estadistica)
 
 
 // routes
 var books = require('./routes/books');
 var peliculas = require('./routes/peliculas');
 var fechas = require('./routes/fechas');
+var estadisticas = require('./routes/estadisticas');
 
 //Sync Database
 
@@ -77,13 +99,64 @@ models.sequelize.sync({force: true})
       console.log(error)
     })
   })
-  .catch(function (error) {
-    console.log(error)
+
+  .then(() =>{
+    Estadistica.bulkCreate(_ESTADISTICAS)
+    .then(Estadistica => {
+      console.log('ESTADISTICAS OK OK')
+    })
+    .catch(error => {
+      console.log(error)
+    })
+  })
+
+  .then(() =>{
+    Edad.bulkCreate(_EDAD)
+    .then(Edad => {
+      console.log('EDAD OK OK')
+    })
+    .catch(error => {
+      console.log(error)
+    })
+  })
+
+  .then(() =>{
+    Adquisicion.bulkCreate(_ADQUISICION)
+    .then(Adquisicion => {
+      console.log('Adquisicion OK OK')
+    })
+    .catch(error => {
+      console.log(error)
+    })
+  })
+
+  .then(() =>{
+    Genero.bulkCreate(_GENERO)
+    .then(Genero => {
+      console.log('Genero OK OK')
+    })
+    .catch(error => {
+      console.log(error)
+    })
+  })
+
+  .then(() =>{
+    Tecnologia.bulkCreate(_TECNOLOGIA)
+    .then(Tecnologia => {
+      console.log('Tecnologia OK OK')
+    })
+    .catch(error => {
+      console.log(error)
+    })
   })
 
 
 
 
+
+  .catch(function (error) {
+    console.log(error)
+  })
 
 
 
@@ -104,6 +177,7 @@ app.use(bodyParser.urlencoded({
 app.use('/books', books);
 app.use('/peliculas', peliculas);
 app.use('/fechas', fechas);
+app.use('/estadisticas', estadisticas);
 
 // index path
 app.get('/', function(req, res){

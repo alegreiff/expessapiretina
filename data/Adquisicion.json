@@ -1,0 +1,273 @@
+[{
+    "EstadisticaId": "1",
+    "directa": "6407",
+    "id": "1",
+    "organica": "5331",
+    "referida": "3658",
+    "social": "3845"
+  },
+  {
+    "EstadisticaId": "2",
+    "directa": "4779",
+    "id": "2",
+    "organica": "5075",
+    "referida": "3326",
+    "social": "3373"
+  },
+  {
+    "EstadisticaId": "3",
+    "directa": "3556",
+    "id": "3",
+    "organica": "3809",
+    "referida": "1715",
+    "social": "2792"
+  },
+  {
+    "EstadisticaId": "4",
+    "directa": "2461",
+    "id": "4",
+    "organica": "2789",
+    "referida": "1764",
+    "social": "1923"
+  },
+  {
+    "EstadisticaId": "5",
+    "directa": "2625",
+    "id": "5",
+    "organica": "3343",
+    "referida": "1144",
+    "social": "1490"
+  },
+  {
+    "EstadisticaId": "6",
+    "directa": "8367",
+    "id": "6",
+    "organica": "8234",
+    "referida": "14005",
+    "social": "7805"
+  },
+  {
+    "EstadisticaId": "7",
+    "directa": "6000",
+    "id": "7",
+    "organica": "6837",
+    "referida": "3093",
+    "social": "3464"
+  },
+  {
+    "EstadisticaId": "8",
+    "directa": "6569",
+    "id": "8",
+    "organica": "7927",
+    "referida": "13970",
+    "social": "4789"
+  },
+  {
+    "EstadisticaId": "9",
+    "directa": "5351",
+    "id": "9",
+    "organica": "6795",
+    "referida": "5967",
+    "social": "3050"
+  },
+  {
+    "EstadisticaId": "10",
+    "directa": "3556",
+    "id": "10",
+    "organica": "4725",
+    "referida": "3973",
+    "social": "5631"
+  },
+  {
+    "EstadisticaId": "11",
+    "directa": "2575",
+    "id": "11",
+    "organica": "4651",
+    "referida": "3329",
+    "social": "1968"
+  },
+  {
+    "EstadisticaId": "12",
+    "directa": "2435",
+    "id": "12",
+    "organica": "4607",
+    "referida": "3132",
+    "social": "1611"
+  },
+  {
+    "EstadisticaId": "13",
+    "directa": "3415",
+    "id": "13",
+    "organica": "6516",
+    "referida": "4079",
+    "social": "2572"
+  },
+  {
+    "EstadisticaId": "14",
+    "directa": "3559",
+    "id": "14",
+    "organica": "6339",
+    "referida": "4330",
+    "social": "2669"
+  },
+  {
+    "EstadisticaId": "15",
+    "directa": "4637",
+    "id": "15",
+    "organica": "7672",
+    "referida": "5679",
+    "social": "7843"
+  },
+  {
+    "EstadisticaId": "16",
+    "directa": "3949",
+    "id": "16",
+    "organica": "7479",
+    "referida": "5827",
+    "social": "3182"
+  },
+  {
+    "EstadisticaId": "17",
+    "directa": "3264",
+    "id": "17",
+    "organica": "7240",
+    "referida": "4786",
+    "social": "2142"
+  },
+  {
+    "EstadisticaId": "18",
+    "directa": "3615",
+    "id": "18",
+    "organica": "8787",
+    "referida": "5227",
+    "social": "2247"
+  },
+  {
+    "EstadisticaId": "19",
+    "directa": "3344",
+    "id": "19",
+    "organica": "9294",
+    "referida": "4829",
+    "social": "1931"
+  },
+  {
+    "EstadisticaId": "20",
+    "directa": "3648",
+    "id": "20",
+    "organica": "9584",
+    "referida": "5167",
+    "social": "1654"
+  },
+  {
+    "EstadisticaId": "21",
+    "directa": "3424",
+    "id": "21",
+    "organica": "8890",
+    "referida": "4403",
+    "social": "2048"
+  },
+  {
+    "EstadisticaId": "22",
+    "directa": "3856",
+    "id": "22",
+    "organica": "8137",
+    "referida": "4894",
+    "social": "5236"
+  },
+  {
+    "EstadisticaId": "23",
+    "directa": "2642",
+    "id": "23",
+    "organica": "8941",
+    "referida": "3676",
+    "social": "1887"
+  },
+  {
+    "EstadisticaId": "24",
+    "directa": "2593",
+    "id": "24",
+    "organica": "9460",
+    "referida": "3885",
+    "social": "1180"
+  },
+  {
+    "EstadisticaId": "25",
+    "directa": "4764",
+    "id": "25",
+    "organica": "12817",
+    "referida": "7282",
+    "social": "3457"
+  },
+  {
+    "EstadisticaId": "26",
+    "directa": "4532",
+    "id": "26",
+    "organica": "13611",
+    "referida": "6534",
+    "social": "2000"
+  },
+  {
+    "EstadisticaId": "27",
+    "directa": "4118",
+    "id": "27",
+    "organica": "13796",
+    "referida": "4955",
+    "social": "1322"
+  },
+  {
+    "EstadisticaId": "28",
+    "directa": "4153",
+    "id": "28",
+    "organica": "13522",
+    "referida": "4563",
+    "social": "1468"
+  },
+  {
+    "EstadisticaId": "29",
+    "directa": "10499",
+    "id": "29",
+    "organica": "15042",
+    "referida": "6857",
+    "social": "2844"
+  },
+  {
+    "EstadisticaId": "30",
+    "directa": "9912",
+    "id": "30",
+    "organica": "21099",
+    "referida": "8767",
+    "social": "2531"
+  },
+  {
+    "EstadisticaId": "31",
+    "directa": "45290",
+    "id": "31",
+    "organica": "210454",
+    "referida": "62930",
+    "social": "36930"
+  },
+  {
+    "EstadisticaId": "32",
+    "directa": "18290",
+    "id": "32",
+    "organica": "49699",
+    "referida": "20007",
+    "social": "6872"
+  },
+  {
+    "EstadisticaId": "33",
+    "directa": "13212",
+    "id": "33",
+    "organica": "48447",
+    "referida": "12322",
+    "social": "3327"
+  },
+  {
+    "EstadisticaId": "34",
+    "directa": "11750",
+    "id": "34",
+    "organica": "27460",
+    "referida": "12767",
+    "social": "4769"
+  }
+]
