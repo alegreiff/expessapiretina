@@ -405,5 +405,17 @@
     "visitas_paginas": "166600",
     "year": "2018",
     "kaltura": "12661"
+  },
+  {
+    "duracion_media": "100",
+    "mes": "1",
+    "nuevas_sesiones": "50",
+    "rebote": "50",
+    "sesiones": "100",
+    "usuarios_analytics": "100",
+    "usuarios_wp": "100",
+    "visitas_paginas": "100",
+    "year": "2019",
+    "kaltura": "23144"
   }
 ]
