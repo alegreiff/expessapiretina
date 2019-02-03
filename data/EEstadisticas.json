@@ -407,14 +407,14 @@
     "kaltura": "12661"
   },
   {
-    "duracion_media": "100",
+    "duracion_media": "432",
     "mes": "1",
-    "nuevas_sesiones": "50",
-    "rebote": "50",
-    "sesiones": "100",
-    "usuarios_analytics": "100",
-    "usuarios_wp": "100",
-    "visitas_paginas": "100",
+    "nuevas_sesiones": "57.53",
+    "rebote": "42.60",
+    "sesiones": "130.764",
+    "usuarios_analytics": "81735",
+    "usuarios_wp": "1000",
+    "visitas_paginas": "394808",
     "year": "2019",
     "kaltura": "23144"
   }
