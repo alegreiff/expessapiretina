@@ -2426,5 +2426,12 @@
     "genero": "Documental",
     "formato": "Largometraje",
     "duracion": 60
+  },  {
+    "titulo": "Sola",
+    "pais": "Ecuador",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 16
   }
 ]
