@@ -1817,5 +1817,10 @@
     "PeliculaId": 304,
     "entrada": "2019-01-24",
     "salida": null
+  }, {
+    "id": 305,
+    "PeliculaId": 305,
+    "entrada": "2019-01-31",
+    "salida": null
   }
 ]
