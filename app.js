@@ -30,6 +30,8 @@ const _EDAD = require('./data/Edad.json')
 const _ADQUISICION = require('./data/Adquisicion.json')
 const _GENERO = require('./data/Genero.json')
 const _TECNOLOGIA = require('./data/Tecnologia.json')
+const _PAIS = require('./data/paises.json')
+
 /* FIN IMPORTAR */
 // models
 var models = require("./models");
@@ -42,6 +44,7 @@ var Edad = require('./models').Edad;
 var Adquisicion = require('./models').Adquisicion;
 var Genero = require('./models').Genero;
 var Tecnologia = require('./models').Tecnologia;
+var Pais = require('./models').Pais;
 
 
 //RELACIONES ENTRE TABLAS
@@ -65,6 +68,7 @@ var books = require('./routes/books');
 var peliculas = require('./routes/peliculas');
 var fechas = require('./routes/fechas');
 var estadisticas = require('./routes/estadisticas');
+var paises = require('./routes/paises');
 
 //Sync Database
 
@@ -150,7 +154,15 @@ models.sequelize.sync({force: true})
     })
   })
 
-
+  .then(() =>{
+    Pais.bulkCreate(_PAIS)
+    .then(Pais => {
+      console.log('PAIS OKA')
+    })
+    .catch(error => {
+      console.log(error)
+    })
+  })
 
 
 
@@ -178,6 +190,7 @@ app.use('/books', books);
 app.use('/peliculas', peliculas);
 app.use('/fechas', fechas);
 app.use('/estadisticas', estadisticas);
+app.use('/paises', paises);
 
 // index path
 app.get('/', function(req, res){
