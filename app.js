@@ -6,7 +6,6 @@ app.use(compression());
 
 
 var admin = require("firebase-admin");
-
 var serviceAccount = require("./firebase.json");
 
 /* admin.initializeApp({
@@ -15,16 +14,15 @@ var serviceAccount = require("./firebase.json");
 }); */
 
 // Import the package
-var  autoriza = require('express-firebase-auth');
+/* var  autoriza = require('express-firebase-auth');
 
-// Initialize the firebase auth
 const firebaseAuth = autoriza.createFirebaseAuth({
   serviceAccount,
   ignoredUrls: [
     '/ignore'
   ]
 });
-app.use(firebaseAuth);
+app.use(firebaseAuth); */
 
 
 app.use((req, res, next) => {
