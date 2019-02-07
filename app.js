@@ -5,6 +5,28 @@ var app = express();
 app.use(compression());
 
 
+var admin = require("firebase-admin");
+
+var serviceAccount = require("./firebase.json");
+
+/* admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: "https://estadisticasretina.firebaseio.com"
+}); */
+
+// Import the package
+var  autoriza = require('express-firebase-auth');
+
+// Initialize the firebase auth
+const firebaseAuth = autoriza.createFirebaseAuth({
+  serviceAccount,
+  ignoredUrls: [
+    '/ignore'
+  ]
+});
+app.use(firebaseAuth);
+
+
 app.use((req, res, next) => {
 
     res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
@@ -75,10 +97,10 @@ var paises = require('./routes/paises');
 
 //Sync Database
 
-models.sequelize.sync({force: true})
-//models.sequelize.sync()
+//models.sequelize.sync({force: true})
+models.sequelize.sync()
 
-
+/*
   .then(() =>{
     Pelicula.bulkCreate(_PELICULAS)
     .then(Pelicula => {
@@ -172,7 +194,7 @@ models.sequelize.sync({force: true})
   .catch(function (error) {
     console.log(error)
   })
-
+*/
 
 
 
