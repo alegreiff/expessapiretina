@@ -8,18 +8,6 @@ var router = express.Router();
 
 
 
-var admin = require("firebase-admin");
-var serviceAccount = require("../firebase.json");
-
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://estadisticasretina.firebaseio.com"
-});
-const firebaseMW= require('firebase-express-middleware');
- 
-router.use('/firebase', firebaseMW.auth);
-router.use('/', firebaseMW.auth);
-
 router.get('/', function(req, res){
     Estadistica.findAll({
       attributes: ['id', 'mes', 'year', 'sesiones', 'kaltura', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
