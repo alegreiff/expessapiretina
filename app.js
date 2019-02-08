@@ -4,7 +4,7 @@ var express = require('express');
 var cors = require('cors')
 var app = express();
 
-var whitelist = ['http://localhost:3000', 'http://pollos.net']
+var whitelist = ['*']
 var corsOptions = {
   origin: function (origin, callback) {
     if (whitelist.indexOf(origin) !== -1) {
