@@ -1,30 +1,17 @@
 //https://github.com/masfranzhuo/sequalize-express-SQLite
 const compression = require('compression');
 var express = require('express');
-var cors = require('cors')
 var app = express();
-
-var whitelist = ['http://localhost:3000', 'http://example2.com']
-var corsOptions = {
-  origin: function (origin, callback) {
-    if (whitelist.indexOf(origin) !== -1) {
-      callback(null, true)
-    } else {
-      callback(new Error('Not allowed by CORS'))
-    }
-  }
-}
-app.use(cors())
 app.use(compression());
 
 
-/*app.use((req, res, next) => {
+app.use((req, res, next) => {
 
     res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
     res.header('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, DELETE');
     res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
     next();
-});*/
+});
 
 var bodyParser = require('body-parser');
 var sqlite = require('sqlite3');
