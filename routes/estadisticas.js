@@ -6,8 +6,6 @@ var Genero = require('../models').Genero;
 var Tecnologia = require('../models').Tecnologia;
 var router = express.Router();
 
-var admin = require('firebase-admin');
-
 var admin = require("firebase-admin");
 
 var serviceAccount = require("../firebase.json");
