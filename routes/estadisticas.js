@@ -6,8 +6,45 @@ var Genero = require('../models').Genero;
 var Tecnologia = require('../models').Tecnologia;
 var router = express.Router();
 
+var admin = require('firebase-admin');
 
-router.get('/', function(req, res){
+var admin = require("firebase-admin");
+
+var serviceAccount = require("../firebase.json");
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: "https://estadisticasretina.firebaseio.com"
+});
+
+
+/*
+admin.auth().verifyIdToken(idToken)
+  .then(function(decodedToken) {
+    var uid = decodedToken.uid;
+    // ...
+  }).catch(function(error) {
+    // Handle error
+  });
+
+*/
+
+/* req.headers.authorization */
+var checkAUTH = function (req, res, next) {
+  console.log(req.headers.authorization)
+  let token = req.headers.authorization.split(' ')[1];
+  admin.auth().verifyIdToken(token)
+  .then(function(decodedToken) {
+    //var uid = decodedToken.uid;
+    next()
+  }).catch(function(error) {
+    res.status(400).json('NO AUTH FOR OLD MEN');
+  });  
+  
+};
+
+
+router.get('/', [checkAUTH], function(req, res){
     Estadistica.findAll({
       attributes: ['id', 'mes', 'year', 'sesiones', 'kaltura', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
       include: [{
