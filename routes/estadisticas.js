@@ -42,7 +42,8 @@ var checkAUTH = function (req, res, next) {
 };
 
 
-router.get('/', [checkAUTH], function(req, res){
+//router.get('/', [checkAUTH], function(req, res){
+router.get('/', function(req, res){
     Estadistica.findAll({
       attributes: ['id', 'mes', 'year', 'sesiones', 'kaltura', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
       include: [{
