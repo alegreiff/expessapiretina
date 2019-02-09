@@ -66,9 +66,12 @@ router.put('/:id', (req, res) => {
         res.status(404).send(error)
       })
 })
+const cors = require('cors')
 
-
-router.post('/', function(req, res){
+const corsOptions = {
+  origin: 'http://localhost:3006'
+}
+router.post('/', cors(corsOptions), function(req, res){
   console.log(req)
     Pelicula.create({
       titulo: req.body.titulo,
