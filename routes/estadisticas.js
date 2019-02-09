@@ -10,6 +10,13 @@ var admin = require("firebase-admin");
 
 var serviceAccount = require("../firebase.json");
 
+const cors = require('cors')
+
+const corsOptions = {
+  origin: 'http://localhost:3000'
+}
+
+
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://estadisticasretina.firebaseio.com"
@@ -43,7 +50,7 @@ var checkAUTH = function (req, res, next) {
 
 
 //router.get('/', [checkAUTH], function(req, res){
-router.get('/', function(req, res){
+router.get('/', cors(corsOptions), function(req, res){
     Estadistica.findAll({
       attributes: ['id', 'mes', 'year', 'sesiones', 'kaltura', 'usuarios_analytics','duracion_media','rebote','nuevas_sesiones','usuarios_wp','visitas_paginas'],
       include: [{
