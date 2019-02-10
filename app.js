@@ -3,12 +3,8 @@ const compression = require('compression');
 var express = require('express');
 var cors = require('cors')
 var app = express();
-
-
 app.use(cors())
 app.use(compression());
-
-
 /*app.use((req, res, next) => {
 
     res.header('Access-Control-Allow-Headers', 'Authorization, X-API-KEY, Origin, X-Requested-With, Content-Type, Accept, Access-Control-Allow-Request-Method');
@@ -16,12 +12,10 @@ app.use(compression());
     res.header('Allow', 'GET, POST, OPTIONS, PUT, DELETE');
     next();
 });*/
-
 var bodyParser = require('body-parser');
 var sqlite = require('sqlite3');
 var env = require('dotenv').load();
 var port = process.env.PORT || 8080;
-
 /*
 var express = require('express')
 var cors = require('cors')
