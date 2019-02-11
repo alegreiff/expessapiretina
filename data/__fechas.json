@@ -1827,5 +1827,10 @@
     "PeliculaId": 82,
     "entrada": "2019-02-07",
     "salida": null
-  }
+  },{
+    "id": 307,
+    "PeliculaId": 109,
+    "entrada": "2018-09-27",
+    "salida": ""
+  },
 ]
