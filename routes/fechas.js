@@ -52,6 +52,7 @@ router.get('/', function(req, res){
 });
 
 /*
+JAIME
 router.put('/:id', [checkIDInput, checkIDExist], function(req, res){
     //console.log('Update book by id');
     Book.update({
