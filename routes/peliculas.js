@@ -69,7 +69,7 @@ router.put('/:id', (req, res) => {
 const cors = require('cors')
 
 const corsOptions = {
-  origin: ['http://localhost:8000', '192.168.1.121:8000']
+  origin: ['http://localhost:8000', '192.168.1.121:8000', 'dev.inforetinalatina.org']
 }
 router.post('/', cors(corsOptions), function(req, res){
   console.log(req)

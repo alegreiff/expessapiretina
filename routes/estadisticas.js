@@ -13,7 +13,7 @@ var serviceAccount = require("../firebase.json");
 const cors = require('cors')
 
 const corsOptions = {
-  origin: 'http://localhost:3006'
+  origin: ['http://localhost:3006', 'dev.inforetinalatina.org']
 }
 
 
