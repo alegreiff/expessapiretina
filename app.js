@@ -75,7 +75,7 @@ var paises = require('./routes/paises');
 models.sequelize.sync({force: true})
 //models.sequelize.sync()
 
-//INICIO DEL COMENTARIO OFFICIAL
+//INICIO DEL COMENTARIO Jaime de Greiff
   .then(() =>{
     Pelicula.bulkCreate(_PELICULAS)
     .then(Pelicula => {
