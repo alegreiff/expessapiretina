@@ -73,7 +73,7 @@ var paises = require('./routes/paises');
 //Sync Database
 
 models.sequelize.sync({force: true})
-models.sequelize.sync()
+//models.sequelize.sync()
 
 
   .then(() =>{
