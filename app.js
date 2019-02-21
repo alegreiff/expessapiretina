@@ -75,7 +75,7 @@ var paises = require('./routes/paises');
 models.sequelize.sync({force: true})
 //models.sequelize.sync()
 
-//INICIO
+//INICIO DEL COMENTARIO
   .then(() =>{
     Pelicula.bulkCreate(_PELICULAS)
     .then(Pelicula => {
@@ -164,7 +164,9 @@ models.sequelize.sync({force: true})
     })
   })
 
-//FIN
+
+//FIN DEL COMENTARIO
+
 
   .catch(function (error) {
     console.log(error)
