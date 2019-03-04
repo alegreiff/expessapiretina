@@ -1,4 +1,5 @@
-[{
+[
+  {
     "PeliculaId": 1,
     "entrada": "2016-03-04",
     "salida": "2017-12-07"
@@ -1497,39 +1498,48 @@
     "PeliculaId": 300,
     "entrada": "2019-01-03",
     "salida": null
-  }, {
+  },
+  {
     "PeliculaId": 301,
     "entrada": "2019-01-03",
     "salida": null
-  }, {
+  },
+  {
     "PeliculaId": 302,
     "entrada": "2019-01-10",
     "salida": null
-  }, {
+  },
+  {
     "PeliculaId": 303,
     "entrada": "2019-01-17",
     "salida": null
-  }, {
+  },
+  {
     "PeliculaId": 304,
     "entrada": "2019-01-24",
     "salida": null
-  }, {
+  },
+  {
     "PeliculaId": 305,
     "entrada": "2019-01-31",
     "salida": null
-  }, {
+  },
+  {
     "PeliculaId": 82,
     "entrada": "2019-02-07",
     "salida": null
-  },{
+  },
+  {
     "PeliculaId": 109,
     "entrada": "2018-09-27",
     "salida": null
-  },{
+  },
+  {
     "PeliculaId": 100,
     "entrada": "2018-09-27",
     "salida": null
-  },{
+  },
+  {
     "PeliculaId": 169,
     "entrada": "2019-01-15",
     "salida": null
@@ -1537,6 +1547,16 @@
   {
     "PeliculaId": 162,
     "entrada": "2018-02-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 127,
+    "entrada": "2019-03-01",
+    "salida": null
+  },
+  {
+    "PeliculaId": 128,
+    "entrada": "2019-03-01",
     "salida": null
   }
 ]
