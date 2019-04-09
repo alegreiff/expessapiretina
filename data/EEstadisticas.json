@@ -418,5 +418,29 @@
     "visitas_paginas": "394808",
     "year": "2019",
     "kaltura": "23144"
+  },
+  {
+    "duracion_media": "511",
+    "mes": "2",
+    "nuevas_sesiones": "49.09",
+    "rebote": "43.02",
+    "sesiones": "57075",
+    "usuarios_analytics": "34683",
+    "usuarios_wp": "3622",
+    "visitas_paginas": "172393",
+    "year": "2019",
+    "kaltura": "12258"
+  },
+  {
+    "duracion_media": "528",
+    "mes": "3",
+    "nuevas_sesiones": "50.67",
+    "rebote": "41.98",
+    "sesiones": "64352",
+    "usuarios_analytics": "39168",
+    "usuarios_wp": "3706",
+    "visitas_paginas": "192757",
+    "year": "2019",
+    "kaltura": "13840"
   }
 ]

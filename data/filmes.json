@@ -2495,5 +2495,61 @@
     "genero": "Ficción",
     "formato": "Cortometraje",
     "duracion": 21
+  },
+  {
+    "titulo": "Betty",
+    "pais": "Uruguay",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 6
+  },
+  {
+    "titulo": "Sin título. Tercer movimiento",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 14
+  },
+  {
+    "titulo": "Tu sangre",
+    "pais": "Ecuador",
+    "year": 2005,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 71
+  },
+  {
+    "titulo": "M1",
+    "pais": "México",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 75
+  },
+  {
+    "titulo": "Down With Music",
+    "pais": "Guatemala",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 14
+  },
+  {
+    "titulo": "Rekonstrukcija",
+    "pais": "Colombia",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 23
+  },
+  {
+    "titulo": "Chicama",
+    "pais": "Perú",
+    "year": 2012,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 75
   }
 ]

@@ -70,6 +70,7 @@ var peliculas = require('./routes/peliculas');
 var fechas = require('./routes/fechas');
 var estadisticas = require('./routes/estadisticas');
 var paises = require('./routes/paises');
+var visitas = require('./routes/visitas');
 
 //Sync Database
 
@@ -194,6 +195,7 @@ app.use('/peliculas', peliculas);
 app.use('/fechas', fechas);
 app.use('/estadisticas', estadisticas);
 app.use('/paises', paises);
+app.use('/visitx', visitas);
 
 // index path
 app.get('/', function(req, res){

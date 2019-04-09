@@ -617,7 +617,7 @@
   {
     "PeliculaId": 124,
     "entrada": "2017-03-03",
-    "salida": null
+    "salida": "2019-03-15"
   },
   {
     "PeliculaId": 125,
@@ -1595,4 +1595,50 @@
     "entrada": "2019-03-12",
     "salida": null
   }
+
+
+
+
+  ,
+  {
+    "PeliculaId": 313,
+    "entrada": "2019-03-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 314,
+    "entrada": "2019-03-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 315,
+    "entrada": "2019-03-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 316,
+    "entrada": "2019-03-20",
+    "salida": "2019-03-25"
+  },
+  {
+    "PeliculaId": 317,
+    "entrada": "2019-03-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 318,
+    "entrada": "2019-03-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 319,
+    "entrada": "2019-03-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 124,
+    "entrada": "2017-03-27",
+    "salida": null
+  }
+
 ]

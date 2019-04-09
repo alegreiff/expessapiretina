@@ -25,8 +25,8 @@ var checkIDExist = function (req, res, next) {
 };
 
 router.get('/', function(req, res){
-    Pelicula.findAll().then(peli => {
-        res.status(200).json(peli);
+    Visita.findAll().then(visita => {
+        res.status(200).json(visita);
     });
 });
 
