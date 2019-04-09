@@ -25,7 +25,9 @@ var checkIDExist = function (req, res, next) {
 };
 
 router.get('/', function(req, res){
-    Visita.findAll().then(visita => {
+    Visita.findAll({
+        attributes: ['id','year', 'month']
+    }).then(visita => {
         res.status(200).json(visita);
     });
 });
