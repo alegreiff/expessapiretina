@@ -25,9 +25,9 @@ var checkIDExist = function (req, res, next) {
 };
 
 router.get('/', function(req, res){
-    Visita.findAll({
+    Visita.findOne({
         attributes: ['id','year', 'month'],
-        limit: 2,
+        /* limit: 2, */
         order: [
             ['year', 'DESC'],
             ['month', 'DESC'],
