@@ -24,9 +24,9 @@ var checkIDExist = function (req, res, next) {
     });
 };
 
-router.get('/', function(req, res){
+router.get('/max', function(req, res){
     Visita.findOne({
-        attributes: ['id','year', 'month'],
+        attributes: ['year', 'month'],
         /* limit: 2, */
         order: [
             ['year', 'DESC'],
@@ -37,6 +37,17 @@ router.get('/', function(req, res){
     });
 });
 
-
+router.get('/min', function(req, res){
+    Visita.findOne({
+        attributes: ['year', 'month'],
+        /* limit: 2, */
+        order: [
+            ['year', 'ASC'],
+            ['month', 'ASC'],
+        ]
+    }).then(visita => {
+        res.status(200).json(visita);
+    });
+});
 
 module.exports = router;
