@@ -1,4 +1,5 @@
-[{
+[
+  {
     "EstadisticaId": "1",
     "hombres": "57.77",
     "id": "1",
@@ -201,10 +202,83 @@
     "hombres": "51.44",
     "id": "34",
     "mujeres": "48.56"
-  }, {
+  },
+  {
     "EstadisticaId": "35",
     "hombres": "51.9",
     "id": "35",
     "mujeres": "48.1"
+  },
+  {
+    "EstadisticaId": "36",
+    "hombres": "51.35",
+    "id": "36",
+    "mujeres": "48.65"
+  },
+  {
+    "EstadisticaId": "37",
+    "hombres": "50.53",
+    "id": "37",
+    "mujeres": "49.47"
+  },
+  {
+    "EstadisticaId": "38",
+    "hombres": "50.82",
+    "id": "38",
+    "mujeres": "49.18"
+  },
+  {
+    "EstadisticaId": "39",
+    "hombres": "50.91",
+    "id": "39",
+    "mujeres": "49.09"
+  },
+  {
+    "EstadisticaId": "40",
+    "hombres": "51.71",
+    "id": "40",
+    "mujeres": "48.29"
+  },
+  {
+    "EstadisticaId": "41",
+    "hombres": "50.38",
+    "id": "41",
+    "mujeres": "49.62"
+  },
+  {
+    "EstadisticaId": "42",
+    "hombres": "52.74",
+    "id": "42",
+    "mujeres": "47.26"
+  },
+  {
+    "EstadisticaId": "43",
+    "hombres": "51.56",
+    "id": "43",
+    "mujeres": "48.44"
+  },
+  {
+    "EstadisticaId": "44",
+    "hombres": "55.25",
+    "id": "44",
+    "mujeres": "47.75"
+  },
+  {
+    "EstadisticaId": "45",
+    "hombres": "51.26",
+    "id": "45",
+    "mujeres": "48.74"
+  },
+  {
+    "EstadisticaId": "46",
+    "hombres": "54.65",
+    "id": "46",
+    "mujeres": "45.35"
+  },
+  {
+    "EstadisticaId": "47",
+    "hombres": "44.71",
+    "id": "47",
+    "mujeres": "55.29"
   }
 ]

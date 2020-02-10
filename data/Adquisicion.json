@@ -1,4 +1,5 @@
-[{
+[
+  {
     "EstadisticaId": "1",
     "directa": "6407",
     "id": "1",
@@ -277,5 +278,101 @@
     "organica": "79680",
     "referida": "22413",
     "social": "11796"
+  },
+  {
+    "EstadisticaId": "36",
+    "directa": "10292",
+    "id": "36",
+    "organica": "31205",
+    "referida": "12125",
+    "social": "3453"
+  },
+  {
+    "EstadisticaId": "37",
+    "directa": "12137",
+    "id": "37",
+    "organica": "33685",
+    "referida": "14418",
+    "social": "4112"
+  },
+  {
+    "EstadisticaId": "38",
+    "directa": "11768",
+    "id": "38",
+    "organica": "27926",
+    "referida": "10774",
+    "social": "3300"
+  },
+  {
+    "EstadisticaId": "39",
+    "directa": "10887",
+    "id": "39",
+    "organica": "32480",
+    "referida": "10688",
+    "social": "2968"
+  },
+  {
+    "EstadisticaId": "40",
+    "directa": "15293",
+    "id": "40",
+    "organica": "37010",
+    "referida": "14734",
+    "social": "9194"
+  },
+  {
+    "EstadisticaId": "41",
+    "directa": "11801",
+    "id": "41",
+    "organica": "26950",
+    "referida": "9683",
+    "social": "3373"
+  },
+  {
+    "EstadisticaId": "42",
+    "directa": "21712",
+    "id": "42",
+    "organica": "42883",
+    "referida": "22652",
+    "social": "6214"
+  },
+  {
+    "EstadisticaId": "43",
+    "directa": "23416",
+    "id": "43",
+    "organica": "106937",
+    "referida": "30830",
+    "social": "13375"
+  },
+  {
+    "EstadisticaId": "44",
+    "directa": "19086",
+    "id": "44",
+    "organica": "47008",
+    "referida": "20389",
+    "social": "7708"
+  },
+  {
+    "EstadisticaId": "45",
+    "directa": "13926",
+    "id": "45",
+    "organica": "34996",
+    "referida": "12952",
+    "social": "3941"
+  },
+  {
+    "EstadisticaId": "46",
+    "directa": "20853",
+    "id": "46",
+    "organica": "30210",
+    "referida": "19025",
+    "social": "4314"
+  },
+  {
+    "EstadisticaId": "47",
+    "directa": "16734",
+    "id": "47",
+    "organica": "31466",
+    "referida": "11749",
+    "social": "3448"
   }
 ]

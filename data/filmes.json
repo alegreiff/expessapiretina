@@ -2551,5 +2551,895 @@
     "genero": "Ficción",
     "formato": "Largometraje",
     "duracion": 75
+  },
+  {
+    "titulo": "El hombre y el mar",
+    "pais": "República Dominicana",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 11
+  },
+  {
+    "titulo": "La fiera",
+    "pais": "República Dominicana",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 14
+  },
+  {
+    "titulo": "Un 9 de abril...",
+    "pais": "Colombia",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 15
+  },
+
+  {
+    "titulo": "Industrializado",
+    "pais": "República Dominicana",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 4
+  },
+  {
+    "titulo": "Inoa",
+    "pais": "República Dominicana",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 11
+  },
+  {
+    "titulo": "Las Toninas van al este",
+    "pais": "Uruguay",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 84
+  },
+  {
+    "titulo": "Dolores",
+    "pais": "Colombia",
+    "year": 2009,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15
+  },
+  {
+    "titulo": "Chela y Mariela",
+    "pais": "República Dominicana",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 11
+  },
+  {
+    "titulo": "La sagrada familia",
+    "pais": "República Dominicana",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 9
+  },
+  {
+    "titulo": "Mañana a esta hora",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 85
+  },
+  {
+    "titulo": "Quijotes negros",
+    "pais": "Ecuador",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 75
+  },
+  {
+    "titulo": "Ariel",
+    "pais": "República Dominicana",
+    "year": 2019,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 11
+  },
+  {
+    "titulo": "Gente de mar y viento",
+    "pais": "México",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 80
+  },
+  {
+    "titulo": "Avant",
+    "pais": "Uruguay",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 95
+  },
+  {
+    "titulo": "Los Retratos",
+    "pais": "Colombia",
+    "year": 2012,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15
+  },
+  {
+    "titulo": "Microbús",
+    "pais": "Perú",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 44
+  },
+  {
+    "titulo": "Sol Negro",
+    "pais": "Colombia",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 43
+  },
+  {
+    "titulo": "Nana",
+    "pais": "Bolivia",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 66
+  },
+  {
+    "titulo": "Los mejores temas",
+    "pais": "México",
+    "year": 2012,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 103
+  },
+  {
+    "titulo": "Mar cerrado",
+    "pais": "Ecuador",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 25
+  },
+  {
+    "titulo": "El corral y el viento",
+    "pais": "Bolivia",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 55
+  },
+  {
+    "titulo": "El palacio",
+    "pais": "México",
+    "year": 2013,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 37
+  },
+  {
+    "titulo": "Verano de Goliat",
+    "pais": "México",
+    "year": 2010,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 76
+  },
+  {
+    "titulo": "A punto de despegar",
+    "pais": "Perú",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 86
+  },
+  {
+    "titulo": "Los perros de amundsen",
+    "pais": "Cuba",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 27
+  },
+  {
+    "titulo": "Variaciones",
+    "pais": "Uruguay",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 8
+  },
+  {
+    "titulo": "3pies",
+    "pais": "Colombia",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 14
+  },
+  {
+    "titulo": "Andrea",
+    "pais": "Colombia",
+    "year": 2019,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 16
+  },
+  {
+    "titulo": "Elena",
+    "pais": "Colombia",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 18
+  },
+  {
+    "titulo": "Montañas",
+    "pais": "Colombia",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 22
+  },
+  {
+    "titulo": "Porfía",
+    "pais": "Colombia",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 23
+  },
+  {
+    "titulo": "Tierra al viento",
+    "pais": "Colombia",
+    "year": 2019,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 17
+  },
+  {
+    "titulo": "Zapatillas",
+    "pais": "Colombia",
+    "year": 2019,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 16
+  },
+  {
+    "titulo": "El hombre nuevo",
+    "pais": "Uruguay",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 79
+  },
+  {
+    "titulo": "Océano sólido",
+    "pais": "Ecuador",
+    "year": 2012,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 26
+  },
+  {
+    "titulo": "Tierra caliente",
+    "pais": "Colombia",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 22
+  },
+  {
+    "titulo": "Soy tan feliz",
+    "pais": "Colombia",
+    "year": 2011,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15
+  },
+  {
+    "titulo": "Rincón de Darwin",
+    "pais": "Uruguay",
+    "year": 2013,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 80
+  },
+  {
+    "titulo": "Bajo la niebla",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 41
+  },
+  {
+    "titulo": "Irina",
+    "pais": "Uruguay",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 16
+  },
+  {
+    "titulo": "Viaje a Tombuctu",
+    "pais": "Perú",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 100
+  },
+  {
+    "titulo": "Ruta de la luna",
+    "pais": "Ecuador",
+    "year": 2012,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 78
+  },
+  {
+    "titulo": "El rey negro",
+    "pais": "Bolivia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 68
+  },
+  {
+    "titulo": "Parque Lenin",
+    "pais": "México",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 77
+  },
+  {
+    "titulo": "Bogotá Blues",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 95
+  },
+  {
+    "titulo": "Café (cantos de humo)",
+    "pais": "México",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 81
+  },
+  {
+    "titulo": "El silencio del río",
+    "pais": "Colombia",
+    "year": 2019,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 76
+  },
+  {
+    "titulo": "Niñas de Uchituu",
+    "pais": "Colombia",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 28
+  },
+  {
+    "titulo": "Domingo Violeta",
+    "pais": "Ecuador",
+    "year": 2010,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 19
+  },
+  {
+    "titulo": "Quehuaya",
+    "pais": "Bolivia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 20
+  },
+  {
+    "titulo": "La defensa del Dragón",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 82
+  },
+  {
+    "titulo": "Niños caminantes del Chocó",
+    "pais": "Colombia",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 25
+  },
+  {
+    "titulo": "X QUINIENTOS (X-500)",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 108
+  },
+  {
+    "titulo": "Preso",
+    "pais": "Uruguay",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 92
+  },
+  {
+    "titulo": "Señorita María, la falda de la montaña",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 91
+  },
+  {
+    "titulo": "Andaki, camino de vida",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 92
+  },
+  {
+    "titulo": "La tierra del agua",
+    "pais": "Colombia",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 54
+  },
+  {
+    "titulo": "Tierra brillante",
+    "pais": "México",
+    "year": 2011,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 91
+  },
+  {
+    "titulo": "Chiribiquete, videografía de expedición al centro del mundo",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 82
+  },
+  {
+    "titulo": "La clara y oscura",
+    "pais": "Ecuador",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 44
+  },
+  {
+    "titulo": "Instantes de campaña",
+    "pais": "Ecuador",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 52
+  },
+  {
+    "titulo": "Vichada, la custodia de la vida",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 52
+  },
+  {
+    "titulo": "Río de pájaros pintados",
+    "pais": "Uruguay",
+    "year": 2009,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 59
+  },
+  {
+    "titulo": "Todo es un fragmento",
+    "pais": "Colombia",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 56
+  },
+  {
+    "titulo": "Purús – Manu: latidos de la selva",
+    "pais": "Perú",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 51
+  },
+  {
+    "titulo": "La tierra y la sombra",
+    "pais": "Colombia",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 98
+  },
+  {
+    "titulo": "La sangre y la lluvia",
+    "pais": "Colombia",
+    "year": 2009,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 110
+  },
+  {
+    "titulo": "Alucardos, retrato de un vampiro",
+    "pais": "México",
+    "year": 2011,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 89
+  },
+  {
+    "titulo": "México Bárbaro",
+    "pais": "México",
+    "year": 2010,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 84
+  },
+  {
+    "titulo": "La luz en el cerro",
+    "pais": "Perú",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 85
+  },
+  {
+    "titulo": "Réquiem NN",
+    "pais": "Colombia",
+    "year": 2013,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 68
+  },
+  {
+    "titulo": "Nadia",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15
+  },
+  {
+    "titulo": "El dia de la cabra",
+    "pais": "Colombia",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 76
+  },
+  {
+    "titulo": "Augusto San Miguel ha muerto ayer",
+    "pais": "Ecuador",
+    "year": 2003,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 45
+  },
+  {
+    "titulo": "¡Volveremos a las montañas!",
+    "pais": "Argentina",
+    "year": 2012,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 55
+  },
+  {
+    "titulo": "Las crónicas de Boldman",
+    "pais": "Uruguay",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 10
+  },
+  {
+    "titulo": "Gordo, calvo y bajito",
+    "year": 2012,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 98,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El libro de Lila",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 76,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El candidato",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 54,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Arriba muchachada",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 58,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "La revolución de Juan Escopeta",
+    "year": 2011,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 93,
+    "pais": "México"
+  },
+  {
+    "titulo": "Nuestra película",
+    "year": 1993,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 95,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Animal indireto",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 50,
+    "pais": "Brasil"
+  },
+  {
+    "titulo": "Criszamver",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 77,
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Los extraños presagios de León Prozak",
+    "year": 2010,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 66,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Hola mar",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 24,
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Anina",
+    "year": 2013,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 79,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Camino del agua",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 9,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Humilis",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 3,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Por amor",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 3,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Santa Elena en bus",
+    "year": 2012,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 65,
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "Mateo",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 86,
+    "pais": "Colombia"
+  },
+
+  {
+    "titulo": "Infierno o Paraíso",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 96,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Canicas de cuento",
+    "year": 2012,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 12,
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "La secta de los insectos",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 10,
+    "pais": "México"
+  },
+  {
+    "titulo": "Gina",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 10,
+    "pais": "México"
+  },
+  {
+    "titulo": "7ún3l",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 13,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Esos lugares existen",
+    "year": 2019,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 5,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Migrante",
+    "year": 2019,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 6,
+    "pais": "Argentina"
+  },
+  {
+    "titulo": "El viaje del Acordeón",
+    "year": 2013,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 79,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "María T-Ta",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 14,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Como lágrimas en la lluvia",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 16,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Sardón",
+    "year": 2015,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 9,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El Peñón",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 52,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "M.A.M.O.N. (Monitor Against Mexicans Over Nationwide)",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 6,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Tacarcuna",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 65,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Cita con la trocha",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 78,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "La mujer del padre",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 95,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Ser o no ser",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 53,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Tesoros en la frontera",
+    "year": 2014,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 25,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "La casa de la vida",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 80,
+    "pais": "Colombia"
   }
 ]

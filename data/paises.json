@@ -18959,12 +18959,7 @@
     "mes": 2,
     "year": 2019
   },
-  {
-    "pais": "(not set)",
-    "sesiones": 40,
-    "mes": 2,
-    "year": 2019
-  },
+
   {
     "pais": "Australia",
     "sesiones": 38,
@@ -19601,12 +19596,7 @@
     "mes": 3,
     "year": 2019
   },
-  {
-    "pais": "(not set)",
-    "sesiones": 66,
-    "mes": 3,
-    "year": 2019
-  },
+
   {
     "pais": "Australia",
     "sesiones": 62,
@@ -20116,5 +20106,5374 @@
     "sesiones": 1,
     "mes": 3,
     "year": 2019
-  }
+  },
+
+  {
+    "pais": "Colombia",
+    "sesiones": 25797,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 5207,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 4254,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 3740,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 2786,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 2552,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1619,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 1385,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 1032,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1023,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 793,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 775,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 330,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 254,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 177,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 158,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 146,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Guatemala",
+    "sesiones": 139,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 134,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 117,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 100,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 96,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 89,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 87,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 71,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 60,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 50,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 50,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 48,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 47,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 47,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 47,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 43,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 40,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 38,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 38,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 37,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 33,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 26,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 24,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 21,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 19,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 15,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 12,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 12,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 10,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 10,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 10,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 10,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 9,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 7,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Cambodia",
+    "sesiones": 7,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 6,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 6,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 6,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 5,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 5,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 5,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Gabon",
+    "sesiones": 4,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 4,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Azerbaijan",
+    "sesiones": 3,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Bahamas",
+    "sesiones": 3,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 3,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 3,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 3,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 3,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Jamaica",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Lithuania",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Moldova",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Uzbekistan",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 2,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Belize",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Georgia",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "French Guiana",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Montenegro",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Macedonia (FYROM)",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Myanmar (Burma)",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Martinique",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Nigeria",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Oman",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Slovakia",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Togo",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Tunisia",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Trinidad & Tobago",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Uganda",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Yemen",
+    "sesiones": 1,
+    "mes": 4,
+    "year": 2019
+  },
+  {
+    "pais": "Colombia",
+    "sesiones": 25614,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 5754,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 5742,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 5027,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 3261,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 2989,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 1272,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1231,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1179,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 1136,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 664,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 308,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 277,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 255,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 210,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Guatemala",
+    "sesiones": 192,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 182,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 164,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 128,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 128,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 115,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 105,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 94,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 86,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 67,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 55,
+    "mes": 5,
+    "year": 2019
+  },
+
+  {
+    "pais": "Hong Kong",
+    "sesiones": 51,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 51,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 49,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 48,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 43,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 39,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 34,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 33,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 28,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 23,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 22,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Luxembourg",
+    "sesiones": 21,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 19,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 15,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 13,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 13,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 12,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 11,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 11,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 10,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 10,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 8,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Martinique",
+    "sesiones": 8,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 7,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 7,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 7,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 7,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Bangladesh",
+    "sesiones": 6,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 6,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 6,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 6,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 6,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 6,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 5,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Guadeloupe",
+    "sesiones": 5,
+    "mes": 5,
+    "year": 2019
+  },
+
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 5,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 5,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Zimbabwe",
+    "sesiones": 5,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 4,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Bulgaria",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "French Guiana",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Trinidad & Tobago",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 3,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Azerbaijan",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Belarus",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Curaçao",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Ethiopia",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Haiti",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Senegal",
+    "sesiones": 2,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Andorra",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Albania",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Benin",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+
+  {
+    "pais": "Côte d’Ivoire",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Guyana",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Jordan",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Kuwait",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Malta",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Oman",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Qatar",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Seychelles",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Slovakia",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Sierra Leone",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Kosovo",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 1,
+    "mes": 5,
+    "year": 2019
+  },
+  {
+    "pais": "Colombia",
+    "sesiones": 34328,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 8164,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 8008,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 5687,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 5024,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 3739,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 1877,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1770,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 1620,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1173,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 897,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 450,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 343,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 290,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 268,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 200,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 199,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 188,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 187,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Guatemala",
+    "sesiones": 176,
+    "mes": 6,
+    "year": 2019
+  },
+
+  {
+    "pais": "Italy",
+    "sesiones": 147,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 130,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 107,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 88,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 78,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 76,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 58,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 58,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 57,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 43,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 40,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 40,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 36,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 32,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 31,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 28,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 28,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 26,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 23,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 20,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 18,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 18,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 16,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 15,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 14,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 14,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 12,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 12,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 11,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Malta",
+    "sesiones": 10,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 9,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 9,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 8,
+    "mes": 6,
+    "year": 2019
+  },
+
+  {
+    "pais": "Taiwan",
+    "sesiones": 8,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 7,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 7,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Sri Lanka",
+    "sesiones": 7,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 7,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 7,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 6,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 6,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Western Sahara",
+    "sesiones": 6,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 6,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 6,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Pakistan",
+    "sesiones": 5,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Curaçao",
+    "sesiones": 4,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 4,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Cambodia",
+    "sesiones": 4,
+    "mes": 6,
+    "year": 2019
+  },
+
+  {
+    "pais": "Belize",
+    "sesiones": 3,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 3,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 3,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Uganda",
+    "sesiones": 3,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 3,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 3,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Azerbaijan",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Bermuda",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Bahamas",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Jordan",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Lithuania",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Trinidad & Tobago",
+    "sesiones": 2,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Bulgaria",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Belarus",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Côte d’Ivoire",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Georgia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Guadeloupe",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Iraq",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Kenya",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Kuwait",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Luxembourg",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Latvia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Monaco",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Mongolia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "New Caledonia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Oman",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Palestine",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Réunion",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Senegal",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Tunisia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Mayotte",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Zambia",
+    "sesiones": 1,
+    "mes": 6,
+    "year": 2019
+  },
+  {
+    "pais": "Colombia",
+    "sesiones": 23124,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 7320,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 4509,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 3826,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 2952,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 2756,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1087,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1046,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 1037,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 971,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 641,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 227,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 199,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 186,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 173,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 163,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Guatemala",
+    "sesiones": 162,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 145,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 118,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 114,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 83,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 72,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 62,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 49,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 47,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 44,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 42,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 40,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 39,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 34,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 31,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 31,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 30,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 29,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 23,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 18,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 17,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 17,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 16,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 16,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 15,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 14,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 12,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 12,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 12,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 9,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 9,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 8,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 8,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 7,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 7,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 6,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 6,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 5,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 5,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Belize",
+    "sesiones": 4,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Guyana",
+    "sesiones": 4,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 4,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 4,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 3,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Lebanon",
+    "sesiones": 3,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 3,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 3,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 3,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 3,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Andorra",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Angola",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Bangladesh",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Gibraltar",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Libya",
+    "sesiones": 2,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Azerbaijan",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Bulgaria",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Congo - Kinshasa",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Côte d’Ivoire",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Cameroon",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Curaçao",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Western Sahara",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+
+  {
+    "pais": "French Guiana",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Iraq",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Kuwait",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Cayman Islands",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Sri Lanka",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Moldova",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Myanmar (Burma)",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Malta",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Nigeria",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Qatar",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Seychelles",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Uganda",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Uzbekistan",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Kosovo",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 1,
+    "mes": 7,
+    "year": 2019
+  },
+  {
+    "pais": "Colombia",
+    "sesiones": 54458,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 7740,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 5660,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 4119,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 4076,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 2899,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 2753,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 1703,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1611,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 1567,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1542,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 565,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 505,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 504,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 370,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 274,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 236,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 233,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 217,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 195,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 168,
+    "mes": 8,
+    "year": 2019
+  },
+
+  {
+    "pais": "Guatemala",
+    "sesiones": 142,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 136,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 134,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 117,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 107,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 101,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 80,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 79,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 72,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 69,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 63,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 62,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 61,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 53,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 52,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 40,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 37,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 34,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 31,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 27,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 25,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Slovakia",
+    "sesiones": 24,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 23,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 21,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 19,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 18,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 18,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 15,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 13,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 13,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 12,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Cayman Islands",
+    "sesiones": 11,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Senegal",
+    "sesiones": 11,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Mozambique",
+    "sesiones": 10,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 9,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 8,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Kenya",
+    "sesiones": 8,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 8,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 7,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 7,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Bulgaria",
+    "sesiones": 6,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 6,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 6,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 6,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 5,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 5,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Jamaica",
+    "sesiones": 5,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Luxembourg",
+    "sesiones": 5,
+    "mes": 8,
+    "year": 2019
+  },
+
+  {
+    "pais": "Tunisia",
+    "sesiones": 5,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 5,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Belarus",
+    "sesiones": 4,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 4,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Haiti",
+    "sesiones": 4,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 4,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "New Caledonia",
+    "sesiones": 4,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 3,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Cyprus",
+    "sesiones": 3,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 3,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Nigeria",
+    "sesiones": 3,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 3,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 3,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Belize",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Curaçao",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Georgia",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Guadeloupe",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Guyana",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Iraq",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Lithuania",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Malta",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Qatar",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Tanzania",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Uganda",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 2,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Andorra",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Bangladesh",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Bahamas",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Congo - Kinshasa",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Côte d’Ivoire",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Cape Verde",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Faroe Islands",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "French Guiana",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Jordan",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Lebanon",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Sri Lanka",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Latvia",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Martinique",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Sint Maarten",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Togo",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Uzbekistan",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Kosovo",
+    "sesiones": 1,
+    "mes": 8,
+    "year": 2019
+  },
+  {
+    "pais": "Colombia",
+    "sesiones": 64208,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 37957,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 15618,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 9456,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 8495,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 8295,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 5445,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 4188,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 2988,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 2971,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 2557,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 1463,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 1073,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Guatemala",
+    "sesiones": 1073,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 893,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 818,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 790,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 620,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 476,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 409,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 364,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 357,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 345,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 273,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 238,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 223,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 198,
+    "mes": 9,
+    "year": 2019
+  },
+
+  {
+    "pais": "Switzerland",
+    "sesiones": 188,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 156,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 147,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 139,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 131,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 116,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 104,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 67,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 63,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 62,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 60,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 55,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 53,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 52,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 50,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 42,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 41,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 41,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 37,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 34,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 34,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 28,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 24,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 21,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 21,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 20,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Malta",
+    "sesiones": 19,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 19,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 15,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 15,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 15,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 14,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 14,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 13,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 13,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Andorra",
+    "sesiones": 12,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 12,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Luxembourg",
+    "sesiones": 12,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Albania",
+    "sesiones": 10,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 10,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 10,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 9,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Slovakia",
+    "sesiones": 9,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Bulgaria",
+    "sesiones": 8,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 8,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Mozambique",
+    "sesiones": 8,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 8,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 8,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 7,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Haiti",
+    "sesiones": 7,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Nigeria",
+    "sesiones": 7,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Curaçao",
+    "sesiones": 5,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Sri Lanka",
+    "sesiones": 5,
+    "mes": 9,
+    "year": 2019
+  },
+
+  {
+    "pais": "Réunion",
+    "sesiones": 5,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Senegal",
+    "sesiones": 5,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Bahamas",
+    "sesiones": 4,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Georgia",
+    "sesiones": 4,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Moldova",
+    "sesiones": 4,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Qatar",
+    "sesiones": 4,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Belize",
+    "sesiones": 3,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 3,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Guadeloupe",
+    "sesiones": 3,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Lebanon",
+    "sesiones": 3,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 3,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Trinidad & Tobago",
+    "sesiones": 3,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Cyprus",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "French Guiana",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Guyana",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Jordan",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Kenya",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Cayman Islands",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Latvia",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Martinique",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Suriname",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Tunisia",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Kosovo",
+    "sesiones": 2,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Angola",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Bangladesh",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Belarus",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Congo - Kinshasa",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Cameroon",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+
+  {
+    "pais": "Faroe Islands",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Grenada",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+
+  {
+    "pais": "Equatorial Guinea",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Iraq",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Lithuania",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Madagascar",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Mali",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Myanmar (Burma)",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Mongolia",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Niger",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Palestine",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Sint Maarten",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Togo",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Uganda",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Uzbekistan",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Zambia",
+    "sesiones": 1,
+    "mes": 9,
+    "year": 2019
+  },
+  {
+    "pais": "Colombia",
+    "sesiones": 41672,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 10436,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 9633,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 9505,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 5291,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 3486,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 2806,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 2121,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1939,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1819,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 1531,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 572,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 447,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 428,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 412,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 298,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 282,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Guatemala",
+    "sesiones": 247,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 202,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 180,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 160,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 134,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 130,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 128,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 125,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 117,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 113,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 112,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 93,
+    "mes": 10,
+    "year": 2019
+  },
+
+  {
+    "pais": "Belgium",
+    "sesiones": 89,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 78,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 56,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 56,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 51,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 50,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 41,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 38,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 37,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 35,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 32,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 32,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 25,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 24,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 24,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 19,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 17,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 16,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 15,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 14,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 12,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 12,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 12,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 11,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 10,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 10,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 10,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 9,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 9,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 9,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 8,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 8,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Luxembourg",
+    "sesiones": 8,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 8,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 8,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 6,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 6,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Cambodia",
+    "sesiones": 5,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 5,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 5,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Ethiopia",
+    "sesiones": 4,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Kenya",
+    "sesiones": 4,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Lebanon",
+    "sesiones": 4,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Andorra",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Armenia",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Azerbaijan",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Belarus",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Guyana",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Qatar",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Slovakia",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Trinidad & Tobago",
+    "sesiones": 3,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Barbados",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Belize",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Djibouti",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Guadeloupe",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Iraq",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Kuwait",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Laos",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Latvia",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+
+  {
+    "pais": "Senegal",
+    "sesiones": 2,
+    "mes": 10,
+    "year": 2019
+  },
+
+  {
+    "pais": "Bulgaria",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Cuba",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Ghana",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Equatorial Guinea",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Lithuania",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Montenegro",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "St. Martin",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Madagascar",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Myanmar (Burma)",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+
+  {
+    "pais": "Malta",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Mozambique",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Nepal",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Oman",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Pakistan",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Réunion",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Tunisia",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+  {
+    "pais": "Yemen",
+    "sesiones": 1,
+    "mes": 10,
+    "year": 2019
+  },
+
+  {
+    "pais": "Colombia",
+    "sesiones": 28461,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Uruguay",
+    "sesiones": 7178,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Mexico",
+    "sesiones": 6529,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Peru",
+    "sesiones": 6153,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Argentina",
+    "sesiones": 4397,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Ecuador",
+    "sesiones": 2706,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "United States",
+    "sesiones": 1786,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Bolivia",
+    "sesiones": 1495,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Brazil",
+    "sesiones": 1284,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Spain",
+    "sesiones": 1237,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Chile",
+    "sesiones": 1209,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "France",
+    "sesiones": 381,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Germany",
+    "sesiones": 269,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Venezuela",
+    "sesiones": 264,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Canada",
+    "sesiones": 239,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Costa Rica",
+    "sesiones": 233,
+    "mes": 11,
+    "year": 2019
+  },
+
+  {
+    "pais": "Guatemala",
+    "sesiones": 203,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "United Kingdom",
+    "sesiones": 170,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Italy",
+    "sesiones": 150,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Dominican Republic",
+    "sesiones": 134,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Panama",
+    "sesiones": 128,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Netherlands",
+    "sesiones": 117,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Paraguay",
+    "sesiones": 99,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "El Salvador",
+    "sesiones": 87,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Australia",
+    "sesiones": 79,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Switzerland",
+    "sesiones": 79,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Puerto Rico",
+    "sesiones": 76,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Honduras",
+    "sesiones": 57,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Sweden",
+    "sesiones": 57,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Belgium",
+    "sesiones": 50,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Portugal",
+    "sesiones": 44,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Japan",
+    "sesiones": 40,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Denmark",
+    "sesiones": 33,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Ukraine",
+    "sesiones": 33,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Austria",
+    "sesiones": 32,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Nicaragua",
+    "sesiones": 31,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Russia",
+    "sesiones": 29,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Ireland",
+    "sesiones": 27,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Turkey",
+    "sesiones": 18,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "China",
+    "sesiones": 17,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Norway",
+    "sesiones": 17,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "United Arab Emirates",
+    "sesiones": 13,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Finland",
+    "sesiones": 13,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Poland",
+    "sesiones": 13,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Philippines",
+    "sesiones": 12,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Czechia",
+    "sesiones": 10,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Israel",
+    "sesiones": 10,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "India",
+    "sesiones": 10,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "New Zealand",
+    "sesiones": 10,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Belize",
+    "sesiones": 9,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Bulgaria",
+    "sesiones": 8,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "South Korea",
+    "sesiones": 8,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Romania",
+    "sesiones": 8,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Estonia",
+    "sesiones": 7,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Malta",
+    "sesiones": 7,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Egypt",
+    "sesiones": 6,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Indonesia",
+    "sesiones": 6,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Guyana",
+    "sesiones": 5,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Croatia",
+    "sesiones": 5,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Iceland",
+    "sesiones": 5,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Morocco",
+    "sesiones": 5,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Saudi Arabia",
+    "sesiones": 5,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Vietnam",
+    "sesiones": 5,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Aruba",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Greece",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Hungary",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Malaysia",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Singapore",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Slovenia",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Slovakia",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Taiwan",
+    "sesiones": 4,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Algeria",
+    "sesiones": 3,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Ghana",
+    "sesiones": 3,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Kazakhstan",
+    "sesiones": 3,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Lebanon",
+    "sesiones": 3,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Pakistan",
+    "sesiones": 3,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Trinidad & Tobago",
+    "sesiones": 3,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Bosnia & Herzegovina",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Kenya",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Sri Lanka",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Palestine",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Serbia",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Thailand",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Tunisia",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Kosovo",
+    "sesiones": 2,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Andorra",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Antigua & Barbuda",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Armenia",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Barbados",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Congo - Kinshasa",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Hong Kong",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Jamaica",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Kuwait",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Luxembourg",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Montenegro",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Mauritania",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Réunion",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+
+  {
+    "pais": "Tajikistan",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Turkmenistan",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "Uzbekistan",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  {
+    "pais": "South Africa",
+    "sesiones": 1,
+    "mes": 11,
+    "year": 2019
+  },
+  { "pais": "Colombia", "sesiones": 30416, "mes": 12, "year": 2019 },
+  { "pais": "Brazil", "sesiones": 11403, "mes": 12, "year": 2019 },
+  { "pais": "Uruguay", "sesiones": 5665, "mes": 12, "year": 2019 },
+  { "pais": "Mexico", "sesiones": 5481, "mes": 12, "year": 2019 },
+  { "pais": "Peru", "sesiones": 4586, "mes": 12, "year": 2019 },
+  { "pais": "Argentina", "sesiones": 3819, "mes": 12, "year": 2019 },
+  { "pais": "Ecuador", "sesiones": 2786, "mes": 12, "year": 2019 },
+  { "pais": "United States", "sesiones": 2516, "mes": 12, "year": 2019 },
+  { "pais": "Spain", "sesiones": 1295, "mes": 12, "year": 2019 },
+  { "pais": "Chile", "sesiones": 1253, "mes": 12, "year": 2019 },
+  { "pais": "Bolivia", "sesiones": 629, "mes": 12, "year": 2019 },
+  { "pais": "France", "sesiones": 497, "mes": 12, "year": 2019 },
+  { "pais": "Germany", "sesiones": 418, "mes": 12, "year": 2019 },
+  { "pais": "Canada", "sesiones": 308, "mes": 12, "year": 2019 },
+  { "pais": "Costa Rica", "sesiones": 272, "mes": 12, "year": 2019 },
+  { "pais": "Portugal", "sesiones": 260, "mes": 12, "year": 2019 },
+  { "pais": "Guatemala", "sesiones": 225, "mes": 12, "year": 2019 },
+  { "pais": "United Kingdom", "sesiones": 224, "mes": 12, "year": 2019 },
+  { "pais": "Venezuela", "sesiones": 218, "mes": 12, "year": 2019 },
+  { "pais": "Italy", "sesiones": 198, "mes": 12, "year": 2019 },
+  { "pais": "Panama", "sesiones": 186, "mes": 12, "year": 2019 },
+  { "pais": "Switzerland", "sesiones": 129, "mes": 12, "year": 2019 },
+  { "pais": "Australia", "sesiones": 119, "mes": 12, "year": 2019 },
+  { "pais": "Netherlands", "sesiones": 119, "mes": 12, "year": 2019 },
+  { "pais": "Puerto Rico", "sesiones": 117, "mes": 12, "year": 2019 },
+  { "pais": "Dominican Republic", "sesiones": 112, "mes": 12, "year": 2019 },
+  { "pais": "Paraguay", "sesiones": 94, "mes": 12, "year": 2019 },
+  { "pais": "Sweden", "sesiones": 90, "mes": 12, "year": 2019 },
+  { "pais": "El Salvador", "sesiones": 82, "mes": 12, "year": 2019 },
+  { "pais": "Belgium", "sesiones": 72, "mes": 12, "year": 2019 },
+  { "pais": "Nicaragua", "sesiones": 64, "mes": 12, "year": 2019 },
+  { "pais": "Japan", "sesiones": 55, "mes": 12, "year": 2019 },
+  { "pais": "Ukraine", "sesiones": 54, "mes": 12, "year": 2019 },
+  { "pais": "Honduras", "sesiones": 52, "mes": 12, "year": 2019 },
+  { "pais": "Poland", "sesiones": 45, "mes": 12, "year": 2019 },
+  { "pais": "Czechia", "sesiones": 35, "mes": 12, "year": 2019 },
+  { "pais": "Ireland", "sesiones": 34, "mes": 12, "year": 2019 },
+  { "pais": "Austria", "sesiones": 33, "mes": 12, "year": 2019 },
+  { "pais": "China", "sesiones": 27, "mes": 12, "year": 2019 },
+  { "pais": "Denmark", "sesiones": 26, "mes": 12, "year": 2019 },
+  { "pais": "Russia", "sesiones": 24, "mes": 12, "year": 2019 },
+  { "pais": "Finland", "sesiones": 20, "mes": 12, "year": 2019 },
+  { "pais": "Israel", "sesiones": 19, "mes": 12, "year": 2019 },
+  { "pais": "New Zealand", "sesiones": 19, "mes": 12, "year": 2019 },
+  { "pais": "India", "sesiones": 18, "mes": 12, "year": 2019 },
+  { "pais": "Norway", "sesiones": 16, "mes": 12, "year": 2019 },
+  { "pais": "Turkey", "sesiones": 16, "mes": 12, "year": 2019 },
+  { "pais": "Trinidad & Tobago", "sesiones": 16, "mes": 12, "year": 2019 },
+  { "pais": "United Arab Emirates", "sesiones": 13, "mes": 12, "year": 2019 },
+  { "pais": "Malta", "sesiones": 11, "mes": 12, "year": 2019 },
+  { "pais": "South Korea", "sesiones": 10, "mes": 12, "year": 2019 },
+  { "pais": "Romania", "sesiones": 10, "mes": 12, "year": 2019 },
+  { "pais": "Greece", "sesiones": 9, "mes": 12, "year": 2019 },
+  { "pais": "Bulgaria", "sesiones": 7, "mes": 12, "year": 2019 },
+  { "pais": "Croatia", "sesiones": 7, "mes": 12, "year": 2019 },
+  { "pais": "Philippines", "sesiones": 7, "mes": 12, "year": 2019 },
+  { "pais": "Thailand", "sesiones": 7, "mes": 12, "year": 2019 },
+  { "pais": "Vietnam", "sesiones": 7, "mes": 12, "year": 2019 },
+  { "pais": "Hungary", "sesiones": 6, "mes": 12, "year": 2019 },
+  { "pais": "Kenya", "sesiones": 6, "mes": 12, "year": 2019 },
+  { "pais": "Morocco", "sesiones": 6, "mes": 12, "year": 2019 },
+  { "pais": "Saudi Arabia", "sesiones": 6, "mes": 12, "year": 2019 },
+  { "pais": "Angola", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Cyprus", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Guadeloupe", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Pakistan", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Réunion", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Serbia", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Slovenia", "sesiones": 5, "mes": 12, "year": 2019 },
+  { "pais": "Estonia", "sesiones": 4, "mes": 12, "year": 2019 },
+  { "pais": "Indonesia", "sesiones": 4, "mes": 12, "year": 2019 },
+  { "pais": "Malaysia", "sesiones": 4, "mes": 12, "year": 2019 },
+  { "pais": "Qatar", "sesiones": 4, "mes": 12, "year": 2019 },
+  { "pais": "Singapore", "sesiones": 4, "mes": 12, "year": 2019 },
+  { "pais": "Uganda", "sesiones": 4, "mes": 12, "year": 2019 },
+  { "pais": "Lebanon", "sesiones": 3, "mes": 12, "year": 2019 },
+  { "pais": "Lithuania", "sesiones": 3, "mes": 12, "year": 2019 },
+  { "pais": "Mozambique", "sesiones": 3, "mes": 12, "year": 2019 },
+  { "pais": "Slovakia", "sesiones": 3, "mes": 12, "year": 2019 },
+  { "pais": "Andorra", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Egypt", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Georgia", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Ghana", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Hong Kong", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Iceland", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Jordan", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Kuwait", "sesiones": 2, "mes": 12, "year": 2019 },
+
+  { "pais": "Myanmar (Burma)", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Martinique", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Oman", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Tunisia", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Taiwan", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "South Africa", "sesiones": 2, "mes": 12, "year": 2019 },
+  { "pais": "Anguilla", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Bosnia & Herzegovina", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Bermuda", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Belize", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Congo - Kinshasa", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Curaçao", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Algeria", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "French Guiana", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Equatorial Guinea", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Haiti", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Iraq", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Cayman Islands", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "St. Lucia", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Sri Lanka", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Luxembourg", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Libya", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Moldova", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Madagascar", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Mali", "sesiones": 1, "mes": 12, "year": 2019 },
+
+  { "pais": "Nigeria", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Palestine", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Senegal", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Sint Maarten", "sesiones": 1, "mes": 12, "year": 2019 },
+  { "pais": "Kosovo", "sesiones": 1, "mes": 12, "year": 2019 },
+
+  { "pais": "Colombia", "sesiones": 23420, "mes": 1, "year": 2020 },
+  { "pais": "Mexico", "sesiones": 6147, "mes": 1, "year": 2020 },
+  { "pais": "Uruguay", "sesiones": 5545, "mes": 1, "year": 2020 },
+  { "pais": "Ecuador", "sesiones": 4607, "mes": 1, "year": 2020 },
+  { "pais": "Brazil", "sesiones": 4535, "mes": 1, "year": 2020 },
+  { "pais": "Peru", "sesiones": 4406, "mes": 1, "year": 2020 },
+  { "pais": "Argentina", "sesiones": 3818, "mes": 1, "year": 2020 },
+  { "pais": "United States", "sesiones": 3765, "mes": 1, "year": 2020 },
+  { "pais": "Chile", "sesiones": 1339, "mes": 1, "year": 2020 },
+  { "pais": "Spain", "sesiones": 1141, "mes": 1, "year": 2020 },
+  { "pais": "Bolivia", "sesiones": 665, "mes": 1, "year": 2020 },
+  { "pais": "France", "sesiones": 386, "mes": 1, "year": 2020 },
+  { "pais": "Germany", "sesiones": 319, "mes": 1, "year": 2020 },
+  { "pais": "(not set)", "sesiones": 315, "mes": 1, "year": 2020 },
+  { "pais": "Costa Rica", "sesiones": 278, "mes": 1, "year": 2020 },
+  { "pais": "Canada", "sesiones": 221, "mes": 1, "year": 2020 },
+  { "pais": "Guatemala", "sesiones": 194, "mes": 1, "year": 2020 },
+  { "pais": "Venezuela", "sesiones": 191, "mes": 1, "year": 2020 },
+  { "pais": "Dominican Republic", "sesiones": 172, "mes": 1, "year": 2020 },
+  { "pais": "Italy", "sesiones": 162, "mes": 1, "year": 2020 },
+  { "pais": "United Kingdom", "sesiones": 157, "mes": 1, "year": 2020 },
+  { "pais": "Portugal", "sesiones": 143, "mes": 1, "year": 2020 },
+  { "pais": "Netherlands", "sesiones": 118, "mes": 1, "year": 2020 },
+  { "pais": "Switzerland", "sesiones": 117, "mes": 1, "year": 2020 },
+  { "pais": "Panama", "sesiones": 108, "mes": 1, "year": 2020 },
+  { "pais": "El Salvador", "sesiones": 98, "mes": 1, "year": 2020 },
+  { "pais": "Paraguay", "sesiones": 97, "mes": 1, "year": 2020 },
+  { "pais": "Australia", "sesiones": 93, "mes": 1, "year": 2020 },
+  { "pais": "Honduras", "sesiones": 66, "mes": 1, "year": 2020 },
+  { "pais": "Nicaragua", "sesiones": 66, "mes": 1, "year": 2020 },
+  { "pais": "Belgium", "sesiones": 65, "mes": 1, "year": 2020 },
+  { "pais": "Ukraine", "sesiones": 62, "mes": 1, "year": 2020 },
+  { "pais": "Sweden", "sesiones": 53, "mes": 1, "year": 2020 },
+  { "pais": "Puerto Rico", "sesiones": 50, "mes": 1, "year": 2020 },
+  { "pais": "Austria", "sesiones": 43, "mes": 1, "year": 2020 },
+  { "pais": "Russia", "sesiones": 40, "mes": 1, "year": 2020 },
+  { "pais": "Poland", "sesiones": 32, "mes": 1, "year": 2020 },
+  { "pais": "New Zealand", "sesiones": 26, "mes": 1, "year": 2020 },
+  { "pais": "Japan", "sesiones": 25, "mes": 1, "year": 2020 },
+  { "pais": "Norway", "sesiones": 20, "mes": 1, "year": 2020 },
+  { "pais": "Indonesia", "sesiones": 19, "mes": 1, "year": 2020 },
+  { "pais": "Denmark", "sesiones": 18, "mes": 1, "year": 2020 },
+  { "pais": "China", "sesiones": 17, "mes": 1, "year": 2020 },
+  { "pais": "Israel", "sesiones": 16, "mes": 1, "year": 2020 },
+  { "pais": "Finland", "sesiones": 15, "mes": 1, "year": 2020 },
+  { "pais": "Hungary", "sesiones": 15, "mes": 1, "year": 2020 },
+  { "pais": "Czechia", "sesiones": 13, "mes": 1, "year": 2020 },
+  { "pais": "Greece", "sesiones": 12, "mes": 1, "year": 2020 },
+  { "pais": "India", "sesiones": 12, "mes": 1, "year": 2020 },
+  { "pais": "Ireland", "sesiones": 11, "mes": 1, "year": 2020 },
+  { "pais": "South Korea", "sesiones": 11, "mes": 1, "year": 2020 },
+  { "pais": "Turkey", "sesiones": 10, "mes": 1, "year": 2020 },
+  { "pais": "United Arab Emirates", "sesiones": 9, "mes": 1, "year": 2020 },
+  { "pais": "Morocco", "sesiones": 8, "mes": 1, "year": 2020 },
+  { "pais": "Cyprus", "sesiones": 7, "mes": 1, "year": 2020 },
+  { "pais": "Estonia", "sesiones": 7, "mes": 1, "year": 2020 },
+  { "pais": "Philippines", "sesiones": 7, "mes": 1, "year": 2020 },
+  { "pais": "Algeria", "sesiones": 6, "mes": 1, "year": 2020 },
+  { "pais": "Slovenia", "sesiones": 5, "mes": 1, "year": 2020 },
+  { "pais": "Vietnam", "sesiones": 5, "mes": 1, "year": 2020 },
+  { "pais": "Aruba", "sesiones": 4, "mes": 1, "year": 2020 },
+  { "pais": "Hong Kong", "sesiones": 4, "mes": 1, "year": 2020 },
+  { "pais": "Serbia", "sesiones": 4, "mes": 1, "year": 2020 },
+  { "pais": "Andorra", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Bulgaria", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Dominica", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Croatia", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Palestine", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Slovakia", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Suriname", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Tunisia", "sesiones": 3, "mes": 1, "year": 2020 },
+  { "pais": "Angola", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Côte d’Ivoire", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Egypt", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Gibraltar", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Guadeloupe", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Jordan", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Kenya", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Luxembourg", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Malaysia", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Oman", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Pakistan", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Romania", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Singapore", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Senegal", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Sint Maarten", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Thailand", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Trinidad & Tobago", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Taiwan", "sesiones": 2, "mes": 1, "year": 2020 },
+  { "pais": "Albania", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Azerbaijan", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Bermuda", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Bahamas", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Belize", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Congo - Kinshasa", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Curaçao", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Western Sahara", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Ethiopia", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Georgia", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Guyana", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Iraq", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Cambodia", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Lebanon", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Libya", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Moldova", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Montenegro", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Malta", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Nigeria", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Saudi Arabia", "sesiones": 1, "mes": 1, "year": 2020 },
+  { "pais": "Uzbekistan", "sesiones": 1, "mes": 1, "year": 2020 }
 ]
