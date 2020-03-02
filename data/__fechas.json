@@ -2236,13 +2236,11 @@
   { "PeliculaId": 429, "entrada": "2020-01-28,", "salida": null },
   { "PeliculaId": 430, "entrada": "2020-01-31,", "salida": null },
   {
-    "id": 431,
     "PeliculaId": 431,
     "entrada": "2020-02-14",
     "salida": null
   },
   {
-    "id": 432,
     "PeliculaId": 432,
     "entrada": "2020-02-21",
     "salida": null
