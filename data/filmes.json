@@ -3441,5 +3441,21 @@
     "formato": "Largometraje",
     "duracion": 80,
     "pais": "Colombia"
+  },
+  {
+    "titulo": "La última trinchera",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 18,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Zanahoria",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 101,
+    "pais": "Uruguay"
   }
 ]
