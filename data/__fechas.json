@@ -147,7 +147,7 @@
   {
     "PeliculaId": 30,
     "entrada": "2016-03-04",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 31,
@@ -357,7 +357,7 @@
   {
     "PeliculaId": 72,
     "entrada": "2016-07-15",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 73,
@@ -492,7 +492,7 @@
   {
     "PeliculaId": 99,
     "entrada": "2016-11-17",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 100,
@@ -557,7 +557,7 @@
   {
     "PeliculaId": 112,
     "entrada": "2016-12-14",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 113,
@@ -567,7 +567,7 @@
   {
     "PeliculaId": 114,
     "entrada": "2017-02-02",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 115,
@@ -767,7 +767,7 @@
   {
     "PeliculaId": 154,
     "entrada": "2017-07-13",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 155,
@@ -827,7 +827,7 @@
   {
     "PeliculaId": 166,
     "entrada": "2017-08-11",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 167,
@@ -997,7 +997,7 @@
   {
     "PeliculaId": 200,
     "entrada": "2018-03-09",
-    "salida": null
+    "salida": "2020-03-10"
   },
   {
     "PeliculaId": 201,
@@ -1112,7 +1112,7 @@
   {
     "PeliculaId": 223,
     "entrada": "2018-06-29",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 224,
@@ -1322,12 +1322,12 @@
   {
     "PeliculaId": 265,
     "entrada": "2018-10-04",
-    "salida": null
+    "salida": "2020-03-08"
   },
   {
     "PeliculaId": 266,
     "entrada": "2018-10-04",
-    "salida": null
+    "salida": "2020-03-31"
   },
   {
     "PeliculaId": 267,
@@ -1588,7 +1588,7 @@
   {
     "PeliculaId": 311,
     "entrada": "2019-03-10",
-    "salida": null
+    "salida": "2020-03-10"
   },
   {
     "PeliculaId": 312,
