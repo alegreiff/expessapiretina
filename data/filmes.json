@@ -3457,5 +3457,77 @@
     "formato": "Largometraje",
     "duracion": 101,
     "pais": "Uruguay"
+  },
+  {
+    "titulo": "Conversaciones I",
+    "year": 2005,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 7,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Cóndores no entierran todos los días",
+    "year": 1984,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 90,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Rodrigo D. No futuro",
+    "year": 1990,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 93,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El baño del papa",
+    "year": 2007,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 99,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Mr. Blue Footed Booby",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 3,
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "78 revoluciones",
+    "year": 2017,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 53,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Perro Guardián",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 89,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El cementerio se alumbra",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 15,
+    "pais": "Cuba"
+  },
+  {
+    "titulo": "El Edén",
+    "year": 2016,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 20,
+    "pais": "Colombia"
   }
 ]
