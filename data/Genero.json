@@ -292,5 +292,11 @@
     "hombres": "44.13",
     "id": "49",
     "mujeres": "55.87"
+  },
+  {
+    "EstadisticaId": "50",
+    "hombres": "42.69",
+    "id": "50",
+    "mujeres": "57.13"
   }
 ]
