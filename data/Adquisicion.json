@@ -390,5 +390,21 @@
     "organica": "125446",
     "referida": "77358",
     "social": "43245"
+  },
+  {
+    "EstadisticaId": "50",
+    "directa": "82592",
+    "id": "50",
+    "organica": "155311",
+    "referida": "102910",
+    "social": "39077"
+  },
+  {
+    "EstadisticaId": "51",
+    "directa": "54492",
+    "id": "51",
+    "organica": "94333",
+    "referida": "51761",
+    "social": "15907"
   }
 ]

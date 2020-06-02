@@ -3625,5 +3625,150 @@
     "formato": "Largometraje",
     "duracion": 94,
     "pais": "Uruguay"
+  },
+
+  {
+    "titulo": "La cuadrilla Herrada",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 6,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Paraíso",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 26,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El tren deja dos pueblos",
+    "year": 2016,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 9,
+    "pais": "Ecuador"
+  },
+  {
+    "titulo": "La carta",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 18,
+    "pais": "México"
+  },
+  {
+    "titulo": "Rehje",
+    "year": 2009,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 68,
+    "pais": "México"
+  },
+  {
+    "titulo": "Jacinta",
+    "year": 2008,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 9,
+    "pais": "México"
+  },
+  {
+    "titulo": "Artigas - La Redota",
+    "year": 2011,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 115,
+    "pais": "Uruguay"
+  },
+  {
+    "titulo": "Entre-tenimiento",
+    "year": 2017,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 13,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Madrigueras",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 23,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "El Hincha",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 8,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Se venden conejos",
+    "year": 2015,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 18,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Naranjas",
+    "year": 2014,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "El río de las tumbas",
+    "year": 1965,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 88,
+    "pais": "Colombia"
+  },
+  {
+    "titulo": "Responso para un abrazo. Tras la huella de un poeta",
+    "year": 2013,
+    "genero": "Documental",
+    "formato": "Largometraje",
+    "duracion": 74,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Ellos",
+    "year": 2018,
+    "genero": "Documental",
+    "formato": "Cortometraje",
+    "duracion": 20,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "Toda una vida",
+    "year": 2018,
+    "genero": "Ficción",
+    "formato": "Cortometraje",
+    "duracion": 15,
+    "pais": "Perú"
+  },
+  {
+    "titulo": "La Guerra Santa",
+    "year": 1979,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 101,
+    "pais": "México"
+  },
+  {
+    "titulo": "Cuartelazo",
+    "year": 1976,
+    "genero": "Ficción",
+    "formato": "Largometraje",
+    "duracion": 110,
+    "pais": "México"
   }
 ]
