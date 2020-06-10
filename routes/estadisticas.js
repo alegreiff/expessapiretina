@@ -92,7 +92,7 @@ router.get("/", cors(corsOptions), function(req, res) {
 });
 
 router.post("/", function(req, res) {
-  console.log(req);
+  /* console.log(req); */
   Estadistica.create(
     {
       mes: req.body.mes,

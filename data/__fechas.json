@@ -2133,90 +2133,90 @@
   },
   {
     "PeliculaId": 397,
-    "entrada": "2019-11-07,",
+    "entrada": "2019-11-07",
     "salida": "2019-11-13"
   },
   {
     "PeliculaId": 398,
-    "entrada": "2019-11-08,",
+    "entrada": "2019-11-08",
     "salida": null
   },
   {
     "PeliculaId": 399,
-    "entrada": "2019-11-08,",
+    "entrada": "2019-11-08",
     "salida": null
   },
   {
     "PeliculaId": 400,
-    "entrada": "2019-11-13,",
+    "entrada": "2019-11-13",
     "salida": "2019-12-06"
   },
   {
     "PeliculaId": 401,
-    "entrada": "2019-11-13,",
+    "entrada": "2019-11-13",
     "salida": "2019-11-20"
   },
   {
     "PeliculaId": 402,
-    "entrada": "2019-11-13,",
+    "entrada": "2019-11-13",
     "salida": "2019-11-21"
   },
   {
     "PeliculaId": 403,
-    "entrada": "2019-11-13,",
+    "entrada": "2019-11-13",
     "salida": "2019-12-13"
   },
   {
     "PeliculaId": 404,
-    "entrada": "2019-11-14,",
+    "entrada": "2019-11-14",
     "salida": "2019-11-20"
   },
   {
     "PeliculaId": 405,
-    "entrada": "2019-11-18,",
+    "entrada": "2019-11-18",
     "salida": "2020-02-02"
   },
   {
     "PeliculaId": 406,
-    "entrada": "2019-11-19,",
+    "entrada": "2019-11-19",
     "salida": null
   },
   {
     "PeliculaId": 407,
-    "entrada": "2019-11-21,",
+    "entrada": "2019-11-21",
     "salida": null
   },
   {
     "PeliculaId": 408,
-    "entrada": "2019-11-25,",
+    "entrada": "2019-11-25",
     "salida": null
   },
   {
     "PeliculaId": 409,
-    "entrada": "2019-11-25,",
+    "entrada": "2019-11-25",
     "salida": null
   },
   {
     "PeliculaId": 410,
-    "entrada": "2019-11-28,",
+    "entrada": "2019-11-28",
     "salida": "2020-02-02"
   },
   {
     "PeliculaId": 411,
-    "entrada": "2019-11-28,",
+    "entrada": "2019-11-28",
     "salida": "2019-12-04"
   },
-  { "PeliculaId": 412, "entrada": "2019-12-05,", "salida": "2019-12-18" },
-  { "PeliculaId": 413, "entrada": "2019-12-09,", "salida": null },
-  { "PeliculaId": 414, "entrada": "2019-12-10,", "salida": "2019-12-31" },
-  { "PeliculaId": 415, "entrada": "2019-12-10,", "salida": "2019-12-31" },
-  { "PeliculaId": 416, "entrada": "2019-12-12,", "salida": "2019-12-18" },
-  { "PeliculaId": 417, "entrada": "2019-12-17,", "salida": null },
-  { "PeliculaId": 418, "entrada": "2019-12-18,", "salida": null },
-  { "PeliculaId": 419, "entrada": "2019-12-19,", "salida": "2019-12-27" },
-  { "PeliculaId": 420, "entrada": "2019-12-23,", "salida": null },
-  { "PeliculaId": 421, "entrada": "2019-12-23,", "salida": null },
-  { "PeliculaId": 422, "entrada": "2019-12-30,", "salida": null },
+  { "PeliculaId": 412, "entrada": "2019-12-05", "salida": "2019-12-18" },
+  { "PeliculaId": 413, "entrada": "2019-12-09", "salida": null },
+  { "PeliculaId": 414, "entrada": "2019-12-10", "salida": "2019-12-31" },
+  { "PeliculaId": 415, "entrada": "2019-12-10", "salida": "2019-12-31" },
+  { "PeliculaId": 416, "entrada": "2019-12-12", "salida": "2019-12-18" },
+  { "PeliculaId": 417, "entrada": "2019-12-17", "salida": null },
+  { "PeliculaId": 418, "entrada": "2019-12-18", "salida": null },
+  { "PeliculaId": 419, "entrada": "2019-12-19", "salida": "2019-12-27" },
+  { "PeliculaId": 420, "entrada": "2019-12-23", "salida": null },
+  { "PeliculaId": 421, "entrada": "2019-12-23", "salida": null },
+  { "PeliculaId": 422, "entrada": "2019-12-30", "salida": null },
   {
     "PeliculaId": 107,
     "entrada": "2019-12-06",
@@ -2227,14 +2227,14 @@
     "entrada": "2019-12-06",
     "salida": null
   },
-  { "PeliculaId": 423, "entrada": "2020-01-02,", "salida": null },
-  { "PeliculaId": 424, "entrada": "2020-01-07,", "salida": null },
-  { "PeliculaId": 425, "entrada": "2020-01-09,", "salida": null },
-  { "PeliculaId": 426, "entrada": "2020-01-16,", "salida": null },
-  { "PeliculaId": 427, "entrada": "2020-01-21,", "salida": null },
-  { "PeliculaId": 428, "entrada": "2020-01-24,", "salida": null },
-  { "PeliculaId": 429, "entrada": "2020-01-28,", "salida": null },
-  { "PeliculaId": 430, "entrada": "2020-01-31,", "salida": null },
+  { "PeliculaId": 423, "entrada": "2020-01-02", "salida": null },
+  { "PeliculaId": 424, "entrada": "2020-01-07", "salida": null },
+  { "PeliculaId": 425, "entrada": "2020-01-09", "salida": null },
+  { "PeliculaId": 426, "entrada": "2020-01-16", "salida": null },
+  { "PeliculaId": 427, "entrada": "2020-01-21", "salida": null },
+  { "PeliculaId": 428, "entrada": "2020-01-24", "salida": null },
+  { "PeliculaId": 429, "entrada": "2020-01-28", "salida": null },
+  { "PeliculaId": 430, "entrada": "2020-01-31", "salida": null },
   {
     "PeliculaId": 431,
     "entrada": "2020-02-14",
@@ -2272,7 +2272,7 @@
   },
   {
     "PeliculaId": 397,
-    "entrada": "2020-03-29,",
+    "entrada": "2020-03-29",
     "salida": "2020-04-20"
   },
   {
@@ -2280,7 +2280,7 @@
     "entrada": "2020-03-17",
     "salida": "2020-03-31"
   },
-  { "PeliculaId": 433, "entrada": "2020-03-5", "salida": null },
+  { "PeliculaId": 433, "entrada": "2020-03-05", "salida": null },
   { "PeliculaId": 434, "entrada": "2020-03-10", "salida": "2020-04-10" },
   { "PeliculaId": 435, "entrada": "2020-03-11", "salida": "2020-04-22" },
   { "PeliculaId": 436, "entrada": "2020-03-13", "salida": null },
