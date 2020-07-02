@@ -25752,7 +25752,7 @@
   { "pais": "Panama", "sesiones": 540, "mes": 4, "year": 2020 },
   { "pais": "El Salvador", "sesiones": 513, "mes": 4, "year": 2020 },
   { "pais": "Guatemala", "sesiones": 509, "mes": 4, "year": 2020 },
-  { "pais": "(not set)", "sesiones": 391, "mes": 4, "year": 2020 },
+  
   { "pais": "Switzerland", "sesiones": 380, "mes": 4, "year": 2020 },
   { "pais": "Netherlands", "sesiones": 363, "mes": 4, "year": 2020 },
   { "pais": "Belgium", "sesiones": 261, "mes": 4, "year": 2020 },
@@ -25898,7 +25898,7 @@
   { "pais": "Honduras", "sesiones": 196, "mes": 5, "year": 2020 },
   { "pais": "Belgium", "sesiones": 184, "mes": 5, "year": 2020 },
   { "pais": "Puerto Rico", "sesiones": 182, "mes": 5, "year": 2020 },
-  { "pais": "(not set)", "sesiones": 169, "mes": 5, "year": 2020 },
+  
   { "pais": "Portugal", "sesiones": 163, "mes": 5, "year": 2020 },
   { "pais": "Switzerland", "sesiones": 157, "mes": 5, "year": 2020 },
   { "pais": "Nicaragua", "sesiones": 148, "mes": 5, "year": 2020 },
@@ -26004,8 +26004,9 @@
   { "pais": "Palestine", "sesiones": 1, "mes": 5, "year": 2020 },
   { "pais": "Réunion", "sesiones": 1, "mes": 5, "year": 2020 },
   { "pais": "St. Vincent & Grenadines", "sesiones": 1, "mes": 5, "year": 2020 },
+  
   {"pais": "Colombia", "sesiones": 63874, "mes": 6, "year" :2020},
-{"pais": "Peru", "sesiones": 18170, "mes": 6, "year" :2020},
+  {"pais": "Peru", "sesiones": 18170, "mes": 6, "year" :2020},
 {"pais": "Mexico", "sesiones": 10659, "mes": 6, "year" :2020},
 {"pais": "Uruguay", "sesiones": 10001, "mes": 6, "year" :2020},
 {"pais": "Argentina", "sesiones": 6746, "mes": 6, "year" :2020},
@@ -26035,7 +26036,7 @@
 {"pais": "Nicaragua", "sesiones": 110, "mes": 6, "year" :2020},
 {"pais": "Switzerland", "sesiones": 99, "mes": 6, "year" :2020},
 {"pais": "Sweden", "sesiones": 93, "mes": 6, "year" :2020},
-{"pais": "(not set)", "sesiones": 80, "mes": 6, "year" :2020},
+
 {"pais": "Japan", "sesiones": 74, "mes": 6, "year" :2020},
 {"pais": "Russia", "sesiones": 73, "mes": 6, "year" :2020},
 {"pais": "Belgium", "sesiones": 64, "mes": 6, "year" :2020},
