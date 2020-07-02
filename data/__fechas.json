@@ -1097,7 +1097,7 @@
   {
     "PeliculaId": 220,
     "entrada": "2018-06-15",
-    "salida": null
+    "salida": "2020-06-15"
   },
   {
     "PeliculaId": 221,
@@ -1829,7 +1829,7 @@
   {
     "PeliculaId": 137,
     "entrada": "2019-06-13",
-    "salida": null
+    "salida": "2020-06-13"
   },
   {
     "PeliculaId": 17,
@@ -2335,14 +2335,76 @@
   { "PeliculaId": 464, "entrada": "2020-05-19", "salida": null },
   { "PeliculaId": 465, "entrada": "2020-05-19", "salida": null },
   { "PeliculaId": 466, "entrada": "2020-05-21", "salida": null },
-  { "PeliculaId": 467, "entrada": "2020-05-26", "salida": null },
-  { "PeliculaId": 468, "entrada": "2020-05-26", "salida": null },
-  { "PeliculaId": 469, "entrada": "2020-05-26", "salida": null },
-  { "PeliculaId": 470, "entrada": "2020-05-28", "salida": null },
-  { "PeliculaId": 471, "entrada": "2020-05-29", "salida": null },
+  { "PeliculaId": 467, "entrada": "2020-05-26", "salida": "2020-06-01" },
+  { "PeliculaId": 468, "entrada": "2020-05-26", "salida": "2020-06-01" },
+  { "PeliculaId": 469, "entrada": "2020-05-26", "salida": "2020-06-01" },
+  { "PeliculaId": 470, "entrada": "2020-05-28", "salida": "2020-06-28" },
+  { "PeliculaId": 471, "entrada": "2020-05-29", "salida": "2020-06-28" },
   {
     "PeliculaId": 392,
     "entrada": "2020-05-15",
     "salida": "2020-05-31"
-  }
+  },
+  {"PeliculaId":472,"entrada":"2020-06-01","salida":"2020-06-14"},
+{"PeliculaId":473,"entrada":"2020-06-01","salida":"2020-06-14"},
+{"PeliculaId":474,"entrada":"2020-06-01","salida":"2020-06-14"},
+{"PeliculaId":475,"entrada":"2020-06-01","salida":"2020-06-14"},
+{"PeliculaId":476,"entrada":"2020-06-01","salida":"2020-06-14"},
+{"PeliculaId":477,"entrada":"2020-06-02","salida":"2020-06-09"},
+{"PeliculaId":478,"entrada":"2020-06-04","salida":null},
+{"PeliculaId":479,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":480,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":481,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":482,"entrada":"2020-06-15","salida":"2020-03-30"},
+{"PeliculaId":483,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":484,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":485,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":486,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":487,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":488,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":489,"entrada":"2020-06-15","salida":null},
+{"PeliculaId":490,"entrada":"2020-06-15","salida":"2020-06-19"},
+{"PeliculaId":491,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":492,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":493,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":494,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":495,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":496,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":497,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":498,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":499,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":500,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":501,"entrada":"2020-06-18","salida":"2020-06-25"},
+{"PeliculaId":502,"entrada":"2020-06-19","salida":null},
+{"PeliculaId":503,"entrada":"2020-06-19","salida":null},
+{"PeliculaId":504,"entrada":"2020-03-23","salida":null},
+{"PeliculaId":505,"entrada":"2020-06-25","salida":null},
+{"PeliculaId":506,"entrada":"2020-06-25","salida":null},
+{"PeliculaId":507,"entrada":"2020-06-30","salida":null},
+{"PeliculaId":508,"entrada":"2020-06-30","salida":null},
+{"PeliculaId":509,"entrada":"2020-06-30","salida":null},
+{"PeliculaId":510,"entrada":"2020-06-30","salida":null},
+
+{
+  "PeliculaId": 142,
+  "entrada": "2020-06-02",
+  "salida": "2020-06-09"
+},
+{
+  "PeliculaId": 204,
+  "entrada": "2020-06-02",
+  "salida": "2020-06-09"
+},
+{
+  "PeliculaId": 392,
+  "entrada": "2020-06-18",
+  "salida": "2020-06-25"
+},
+
+{
+  "PeliculaId": 396,
+  "entrada": "2020-06-11",
+  "salida": "2020-06-18"
+}
+
 ]

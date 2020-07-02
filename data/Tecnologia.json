@@ -355,5 +355,13 @@
     "id": "51",
     "movil": "37.45",
     "tablet": "4.57"
+  },
+  
+  {
+    "EstadisticaId": "52",
+    "escritorio": "60.92",
+    "id": "52",
+    "movil": "34",
+    "tablet": "5.08"
   }
 ]
