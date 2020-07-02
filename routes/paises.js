@@ -7,8 +7,8 @@ router.get('/', function(req, res){
     Pais.findAll({
       attributes: ['id', 'pais', 'sesiones', 'year', 'mes']
   }).then(pais => {
-        res.status(200).json(pais);
-        /* res.status(200).json({"PAISES": "ppaissssess"}); */
+        /* res.status(200).json(pais); */
+        res.status(200).json({"PAISES": "ppaissssess"});
     });
 });
 
