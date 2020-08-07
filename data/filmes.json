@@ -3812,8 +3812,8 @@
   {"titulo":"Hasta los huesos", "year":2000,"genero":"Ficción","formato":"Cortometraje","duracion":12,"pais":"México"},
   {"titulo":"ÉGUN - Os mistérios do Mar", "year":2015,"genero":"Ficción","formato":"Cortometraje","duracion":13,"pais":"Brasil"},
   
-  {"titulo":"Ella", "year":2015,"genero":"Ficción","formato":"Largotraje","duracion":104,"pais":"Colombia"},
-  {"titulo":"Otra historia del mundo", "year":2017,"genero":"Ficción","formato":"Largotraje","duracion":112,"pais":"Uruguay"},
+  {"titulo":"Ella", "year":2015,"genero":"Ficción","formato":"Largometraje","duracion":104,"pais":"Colombia"},
+  {"titulo":"Otra historia del mundo", "year":2017,"genero":"Ficción","formato":"Largometraje","duracion":112,"pais":"Uruguay"},
   {"titulo":"Interior bajo izquierda", "year":2008,"genero":"Ficción","formato":"Cortometraje","duracion":10,"pais":"Perú"},
   {"titulo":"Islamanta", "year":2019,"genero":"Documental","formato":"Cortometraje","duracion":6,"pais":"Perú"},
   {"titulo":"Jallawita", "year":2019,"genero":"Documental","formato":"Cortometraje","duracion":4,"pais":"Perú"},
