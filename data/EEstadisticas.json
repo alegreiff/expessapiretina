@@ -634,5 +634,17 @@
     "visitas_paginas": 302975,
     "year": 2020,
     "kaltura": 26242
+  },
+  {
+    "duracion_media": 199,
+    "mes": 8,
+    "nuevas_sesiones": 57.79,
+    "rebote": 52.9,
+    "sesiones": 82136,
+    "usuarios_analytics": 54760,
+    "usuarios_wp": 6136,
+    "visitas_paginas": 259278,
+    "year": 2020,
+    "kaltura": 38234
   }
 ]

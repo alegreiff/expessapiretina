@@ -1,3409 +1,2948 @@
-[   {
-  "PeliculaId":1,
-  "entrada":"2016-03-04",
-  "salida":"2017-12-07"
-
-},
-{
-  "PeliculaId":2,
-  "entrada":"2016-03-04",
-  "salida":"2018-02-19"
-
-},
-{
-  "PeliculaId":3,
-  "entrada":"2016-03-04",
-  "salida":"2017-12-07"
-
-},
-{
-  "PeliculaId":4,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":5,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":6,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":7,
-  "entrada":"2016-03-04",
-  "salida":"2018-11-21"
-
-},
-{
-  "PeliculaId":8,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":9,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":10,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":11,
-  "entrada":"2016-03-04",
-  "salida":"2018-09-07"
-
-},
-{
-  "PeliculaId":12,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":13,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":14,
-  "entrada":"2016-03-04",
-  "salida":"2018-11-11"
-
-},
-{
-  "PeliculaId":15,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":16,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":17,
-  "entrada":"2016-03-04",
-  "salida":"2017-12-10"
-
-},
-{
-  "PeliculaId":18,
-  "entrada":"2016-03-04",
-  "salida":"2017-11-20"
-
-},
-{
-  "PeliculaId":19,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":20,
-  "entrada":"2016-03-04",
-  "salida":"2017-12-04"
-
-},
-{
-  "PeliculaId":21,
-  "entrada":"2016-03-04",
-  "salida":"2017-12-10"
-
-},
-{
-  "PeliculaId":22,
-  "entrada":"2016-03-04",
-  "salida":"2018-02-12"
-
-},
-{
-  "PeliculaId":23,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":24,
-  "entrada":"2016-03-04",
-  "salida":"2019-12-18"
-
-},
-{
-  "PeliculaId":25,
-  "entrada":"2016-03-04",
-  "salida":"2019-12-18"
-
-},
-{
-  "PeliculaId":26,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":27,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":28,
-  "entrada":"2016-03-04",
-  "salida":"2019-12-08"
-
-},
-{
-  "PeliculaId":29,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":30,
-  "entrada":"2016-03-04",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":31,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":32,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":33,
-  "entrada":"2016-03-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":34,
-  "entrada":"2016-03-04",
-  "salida":"2019-04-17"
-
-},
-{
-  "PeliculaId":35,
-  "entrada":"2016-03-04",
-  "salida":"2020-04-09"
-
-},
-{
-  "PeliculaId":36,
-  "entrada":"2016-03-04",
-  "salida":"2019-09-04"
-
-},
-{
-  "PeliculaId":37,
-  "entrada":"2016-03-04",
-  "salida":"2017-11-20"
-
-},
-{
-  "PeliculaId":38,
-  "entrada":"2016-03-04",
-  "salida":"2019-09-04"
-
-},
-{
-  "PeliculaId":39,
-  "entrada":"2016-04-08",
-  "salida":"2017-06-12"
-
-},
-{
-  "PeliculaId":40,
-  "entrada":"2016-04-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":41,
-  "entrada":"2016-04-08",
-  "salida":"2019-12-18"
-
-},
-{
-  "PeliculaId":42,
-  "entrada":"2016-04-08",
-  "salida":"2018-02-12"
-
-},
-{
-  "PeliculaId":43,
-  "entrada":"2016-04-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":44,
-  "entrada":"2016-04-08",
-  "salida":"2019-12-18"
-
-},
-{
-  "PeliculaId":45,
-  "entrada":"2016-04-11",
-  "salida":"2019-02-22"
-
-},
-{
-  "PeliculaId":46,
-  "entrada":"2016-04-11",
-  "salida":"2019-02-24"
-
-},
-{
-  "PeliculaId":47,
-  "entrada":"2016-05-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":48,
-  "entrada":"2016-05-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":49,
-  "entrada":"2016-05-13",
-  "salida":"2018-03-07"
-
-},
-{
-  "PeliculaId":50,
-  "entrada":"2016-05-13",
-  "salida":"2018-02-22"
-
-},
-{
-  "PeliculaId":51,
-  "entrada":"2016-05-13",
-  "salida":"2017-12-03"
-
-},
-{
-  "PeliculaId":52,
-  "entrada":"2016-05-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":53,
-  "entrada":"2016-05-13",
-  "salida":"2017-12-17"
-
-},
-{
-  "PeliculaId":54,
-  "entrada":"2016-05-13",
-  "salida":"2017-11-20"
-
-},
-{
-  "PeliculaId":55,
-  "entrada":"2016-05-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":56,
-  "entrada":"2016-06-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":57,
-  "entrada":"2016-06-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":58,
-  "entrada":"2016-06-16",
-  "salida":"2017-12-07"
-
-},
-{
-  "PeliculaId":59,
-  "entrada":"2016-06-16",
-  "salida":"2018-06-15"
-
-},
-{
-  "PeliculaId":60,
-  "entrada":"2016-06-16",
-  "salida":"2017-12-22"
-
-},
-{
-  "PeliculaId":61,
-  "entrada":"2016-06-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":62,
-  "entrada":"2016-07-15",
-  "salida":"2018-04-27"
-
-},
-{
-  "PeliculaId":63,
-  "entrada":"2016-07-15",
-  "salida":"2018-07-16"
-
-},
-{
-  "PeliculaId":64,
-  "entrada":"2016-07-15",
-  "salida":"2018-05-16"
-
-},
-{
-  "PeliculaId":65,
-  "entrada":"2016-07-15",
-  "salida":"2018-03-07"
-
-},
-{
-  "PeliculaId":66,
-  "entrada":"2016-07-15",
-  "salida":"2016-12-01"
-
-},
-{
-  "PeliculaId":67,
-  "entrada":"2016-07-15",
-  "salida":"2018-06-06"
-
-},
-{
-  "PeliculaId":68,
-  "entrada":"2016-07-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":69,
-  "entrada":"2016-07-15",
-  "salida":"2018-03-04"
-
-},
-{
-  "PeliculaId":70,
-  "entrada":"2016-07-15",
-  "salida":"2017-12-04"
-
-},
-{
-  "PeliculaId":71,
-  "entrada":"2016-07-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":72,
-  "entrada":"2016-07-15",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":73,
-  "entrada":"2016-08-18",
-  "salida":"2016-09-16"
-
-},
-{
-  "PeliculaId":74,
-  "entrada":"2016-08-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":75,
-  "entrada":"2016-08-18",
-  "salida":"2016-09-16"
-
-},
-{
-  "PeliculaId":76,
-  "entrada":"2016-08-18",
-  "salida":"2018-06-17"
-
-},
-{
-  "PeliculaId":77,
-  "entrada":"2016-08-18",
-  "salida":"2016-09-16"
-
-},
-{
-  "PeliculaId":78,
-  "entrada":"2016-08-18",
-  "salida":"2019-08-11"
-
-},
-{
-  "PeliculaId":79,
-  "entrada":"2016-08-18",
-  "salida":"2017-12-03"
-
-},
-{
-  "PeliculaId":80,
-  "entrada":"2016-08-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":81,
-  "entrada":"2016-08-18",
-  "salida":"2017-12-17"
-
-},
-{
-  "PeliculaId":82,
-  "entrada":"2016-08-18",
-  "salida":"2016-09-16"
-
-},
-{
-  "PeliculaId":83,
-  "entrada":"2016-09-16",
-  "salida":"2018-07-21"
-
-},
-{
-  "PeliculaId":84,
-  "entrada":"2016-09-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":85,
-  "entrada":"2016-09-16",
-  "salida":"2018-09-19"
-
-},
-{
-  "PeliculaId":86,
-  "entrada":"2016-09-16",
-  "salida":"2018-09-03"
-
-},
-{
-  "PeliculaId":87,
-  "entrada":"2016-10-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":88,
-  "entrada":"2016-10-20",
-  "salida":"2018-10-20"
-
-},
-{
-  "PeliculaId":89,
-  "entrada":"2016-10-20",
-  "salida":"2018-09-29"
-
-},
-{
-  "PeliculaId":90,
-  "entrada":"2016-10-20",
-  "salida":"2017-08-24"
-
-},
-{
-  "PeliculaId":91,
-  "entrada":"2016-10-20",
-  "salida":"2018-10-10"
-
-},
-{
-  "PeliculaId":92,
-  "entrada":"2016-10-20",
-  "salida":"2018-08-03"
-
-},
-{
-  "PeliculaId":93,
-  "entrada":"2016-10-27",
-  "salida":"2018-10-27"
-
-},
-{
-  "PeliculaId":94,
-  "entrada":"2016-10-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":95,
-  "entrada":"2016-10-27",
-  "salida":"2016-11-13"
-
-},
-{
-  "PeliculaId":96,
-  "entrada":"2016-11-17",
-  "salida":"2018-09-19"
-
-},
-{
-  "PeliculaId":97,
-  "entrada":"2016-11-17",
-  "salida":"2018-10-10"
-
-},
-{
-  "PeliculaId":98,
-  "entrada":"2016-11-17",
-  "salida":"2018-11-17"
-
-},
-{
-  "PeliculaId":99,
-  "entrada":"2016-11-17",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":100,
-  "entrada":"2016-11-17",
-  "salida":"2018-05-10"
-
-},
-{
-  "PeliculaId":101,
-  "entrada":"2016-11-17",
-  "salida":"2018-10-10"
-
-},
-{
-  "PeliculaId":102,
-  "entrada":"2016-11-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":103,
-  "entrada":"2016-11-24",
-  "salida":"2017-01-24"
-
-},
-{
-  "PeliculaId":104,
-  "entrada":"2016-11-24",
-  "salida":null
-
-},
-{
-  "PeliculaId":105,
-  "entrada":"2016-11-24",
-  "salida":null
-
-},
-{
-  "PeliculaId":106,
-  "entrada":"2016-11-24",
-  "salida":"2017-01-24"
-
-},
-{
-  "PeliculaId":107,
-  "entrada":"2016-11-24",
-  "salida":"2017-01-24"
-
-},
-{
-  "PeliculaId":108,
-  "entrada":"2016-11-24",
-  "salida":null
-
-},
-{
-  "PeliculaId":109,
-  "entrada":"2016-12-14",
-  "salida":"2017-12-03"
-
-},
-{
-  "PeliculaId":110,
-  "entrada":"2016-12-14",
-  "salida":"2018-12-14"
-
-},
-{
-  "PeliculaId":111,
-  "entrada":"2016-12-14",
-  "salida":null
-
-},
-{
-  "PeliculaId":112,
-  "entrada":"2016-12-14",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":113,
-  "entrada":"2017-02-02",
-  "salida":"2019-01-19"
-
-},
-{
-  "PeliculaId":114,
-  "entrada":"2017-02-02",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":115,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":116,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":117,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":118,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":119,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":120,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":121,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":122,
-  "entrada":"2017-03-03",
-  "salida":"2019-03-03"
-
-},
-{
-  "PeliculaId":123,
-  "entrada":"2017-03-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":124,
-  "entrada":"2017-03-03",
-  "salida":"2019-03-15"
-
-},
-{
-  "PeliculaId":125,
-  "entrada":"2017-03-03",
-  "salida":"2017-05-04"
-
-},
-{
-  "PeliculaId":126,
-  "entrada":"2017-03-03",
-  "salida":"2019-03-03"
-
-},
-{
-  "PeliculaId":127,
-  "entrada":"2017-03-03",
-  "salida":"2017-03-17"
-
-},
-{
-  "PeliculaId":128,
-  "entrada":"2017-03-17",
-  "salida":"2017-04-06"
-
-},
-{
-  "PeliculaId":129,
-  "entrada":"2017-04-06",
-  "salida":"2017-05-09"
-
-},
-{
-  "PeliculaId":130,
-  "entrada":"2017-04-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":131,
-  "entrada":"2017-04-06",
-  "salida":"2019-04-06"
-
-},
-{
-  "PeliculaId":132,
-  "entrada":"2017-04-06",
-  "salida":"2019-05-29"
-
-},
-{
-  "PeliculaId":133,
-  "entrada":"2017-04-06",
-  "salida":"2019-04-06"
-
-},
-{
-  "PeliculaId":134,
-  "entrada":"2017-04-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":135,
-  "entrada":"2017-04-06",
-  "salida":"2019-04-06"
-
-},
-{
-  "PeliculaId":136,
-  "entrada":"2017-04-06",
-  "salida":"2019-04-06"
-
-},
-{
-  "PeliculaId":137,
-  "entrada":"2017-05-11",
-  "salida":"2018-05-12"
-
-},
-{
-  "PeliculaId":138,
-  "entrada":"2017-05-11",
-  "salida":"2017-06-08"
-
-},
-{
-  "PeliculaId":139,
-  "entrada":"2017-05-11",
-  "salida":null
-
-},
-{
-  "PeliculaId":140,
-  "entrada":"2017-05-11",
-  "salida":"2017-06-08"
-
-},
-{
-  "PeliculaId":141,
-  "entrada":"2017-05-11",
-  "salida":"2019-05-12"
-
-},
-{
-  "PeliculaId":142,
-  "entrada":"2017-05-11",
-  "salida":"2017-05-19"
-
-},
-{
-  "PeliculaId":143,
-  "entrada":"2017-05-11",
-  "salida":"2019-05-11"
-
-},
-{
-  "PeliculaId":144,
-  "entrada":"2017-05-11",
-  "salida":"2018-09-06"
-
-},
-{
-  "PeliculaId":145,
-  "entrada":"2017-06-08",
-  "salida":"2019-11-21"
-
-},
-{
-  "PeliculaId":146,
-  "entrada":"2017-06-08",
-  "salida":"2019-06-08"
-
-},
-{
-  "PeliculaId":147,
-  "entrada":"2017-06-08",
-  "salida":"2017-06-17"
-
-},
-{
-  "PeliculaId":148,
-  "entrada":"2017-06-08",
-  "salida":"2018-10-18"
-
-},
-{
-  "PeliculaId":149,
-  "entrada":"2017-06-08",
-  "salida":"2018-01-08"
-
-},
-{
-  "PeliculaId":150,
-  "entrada":"2017-06-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":151,
-  "entrada":"2017-06-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":152,
-  "entrada":"2017-06-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":153,
-  "entrada":"2017-06-08",
-  "salida":"2019-05-17"
-
-},
-{
-  "PeliculaId":154,
-  "entrada":"2017-07-13",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":155,
-  "entrada":"2017-07-13",
-  "salida":"2019-07-13"
-
-},
-{
-  "PeliculaId":156,
-  "entrada":"2017-07-13",
-  "salida":"2017-11-13"
-
-},
-{
-  "PeliculaId":157,
-  "entrada":"2017-07-13",
-  "salida":"2018-06-29"
-
-},
-{
-  "PeliculaId":158,
-  "entrada":"2017-07-13",
-  "salida":"2019-07-14"
-
-},
-{
-  "PeliculaId":159,
-  "entrada":"2017-07-13",
-  "salida":"2019-07-14"
-
-},
-{
-  "PeliculaId":160,
-  "entrada":"2017-07-13",
-  "salida":"2019-07-14"
-
-},
-{
-  "PeliculaId":161,
-  "entrada":"2017-07-13",
-  "salida":"2019-07-13"
-
-},
-{
-  "PeliculaId":162,
-  "entrada":"2017-07-13",
-  "salida":"2017-12-31"
-
-},
-{
-  "PeliculaId":163,
-  "entrada":"2017-07-13",
-  "salida":"2019-05-29"
-
-},
-{
-  "PeliculaId":164,
-  "entrada":"2017-07-13",
-  "salida":"2017-09-13"
-
-},
-{
-  "PeliculaId":165,
-  "entrada":"2017-08-11",
-  "salida":null
-
-},
-{
-  "PeliculaId":166,
-  "entrada":"2017-08-11",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":167,
-  "entrada":"2017-08-11",
-  "salida":"2019-08-11"
-
-},
-{
-  "PeliculaId":168,
-  "entrada":"2017-08-11",
-  "salida":"2019-08-11"
-
-},
-{
-  "PeliculaId":169,
-  "entrada":"2017-08-11",
-  "salida":"2018-05-03"
-
-},
-{
-  "PeliculaId":170,
-  "entrada":"2017-09-15",
-  "salida":"2019-09-15"
-
-},
-{
-  "PeliculaId":171,
-  "entrada":"2017-09-15",
-  "salida":"2019-08-14"
-
-},
-{
-  "PeliculaId":172,
-  "entrada":"2017-09-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":173,
-  "entrada":"2017-09-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":174,
-  "entrada":"2017-09-15",
-  "salida":"2018-09-21"
-
-},
-{
-  "PeliculaId":175,
-  "entrada":"2017-09-15",
-  "salida":"2019-09-15"
-
-},
-{
-  "PeliculaId":176,
-  "entrada":"2017-09-15",
-  "salida":"2019-09-15"
-
-},
-{
-  "PeliculaId":177,
-  "entrada":"2017-10-13",
-  "salida":"2017-11-20"
-
-},
-{
-  "PeliculaId":178,
-  "entrada":"2017-10-13",
-  "salida":"2017-10-19"
-
-},
-{
-  "PeliculaId":179,
-  "entrada":"2017-10-13",
-  "salida":"2019-09-27"
-
-},
-{
-  "PeliculaId":180,
-  "entrada":"2017-10-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":181,
-  "entrada":"2017-10-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":182,
-  "entrada":"2017-10-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":183,
-  "entrada":"2017-11-04",
-  "salida":"2019-10-11"
-
-},
-{
-  "PeliculaId":184,
-  "entrada":"2017-11-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":185,
-  "entrada":"2017-11-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":186,
-  "entrada":"2017-11-17",
-  "salida":"2017-12-15"
-
-},
-{
-  "PeliculaId":187,
-  "entrada":"2017-11-17",
-  "salida":"2017-12-15"
-
-},
-{
-  "PeliculaId":188,
-  "entrada":"2017-11-17",
-  "salida":"2019-11-17"
-
-},
-{
-  "PeliculaId":189,
-  "entrada":"2017-11-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":190,
-  "entrada":"2017-11-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":191,
-  "entrada":"2017-11-17",
-  "salida":"2017-12-15"
-
-},
-{
-  "PeliculaId":192,
-  "entrada":"2017-12-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":193,
-  "entrada":"2017-12-15",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":194,
-  "entrada":"2017-12-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":195,
-  "entrada":"2017-12-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":196,
-  "entrada":"2017-12-15",
-  "salida":"2018-09-21"
-
-},
-{
-  "PeliculaId":197,
-  "entrada":"2018-02-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":198,
-  "entrada":"2018-02-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":199,
-  "entrada":"2018-03-02",
-  "salida":"2018-03-10"
-
-},
-{
-  "PeliculaId":200,
-  "entrada":"2018-03-09",
-  "salida":"2020-03-10"
-
-},
-{
-  "PeliculaId":201,
-  "entrada":"2018-03-16",
-  "salida":"2019-10-05"
-
-},
-{
-  "PeliculaId":202,
-  "entrada":"2018-03-23",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":203,
-  "entrada":"2018-03-30",
-  "salida":"2020-04-26"
-
-},
-{
-  "PeliculaId":204,
-  "entrada":"2018-03-25",
-  "salida":"2018-04-01"
-
-},
-{
-  "PeliculaId":205,
-  "entrada":"2018-03-25",
-  "salida":"2018-04-01"
-
-},
-{
-  "PeliculaId":206,
-  "entrada":"2018-03-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":207,
-  "entrada":"2018-03-25",
-  "salida":"2018-04-01"
-
-},
-{
-  "PeliculaId":208,
-  "entrada":"2018-03-25",
-  "salida":"2018-04-01"
-
-},
-{
-  "PeliculaId":209,
-  "entrada":"2018-04-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":210,
-  "entrada":"2018-04-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":211,
-  "entrada":"2018-04-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":212,
-  "entrada":"2018-04-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":213,
-  "entrada":"2018-04-27",
-  "salida":"2018-05-27"
-
-},
-{
-  "PeliculaId":214,
-  "entrada":"2018-05-04",
-  "salida":"2020-05-04"
-
-},
-{
-  "PeliculaId":215,
-  "entrada":"2018-05-11",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":216,
-  "entrada":"2018-05-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":217,
-  "entrada":"2018-05-25",
-  "salida":"2018-06-25"
-
-},
-{
-  "PeliculaId":218,
-  "entrada":"2018-06-01",
-  "salida":null
-
-},
-{
-  "PeliculaId":219,
-  "entrada":"2018-06-08",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":220,
-  "entrada":"2018-06-15",
-  "salida":"2020-06-15"
-
-},
-{
-  "PeliculaId":221,
-  "entrada":"2018-06-22",
-  "salida":null
-
-},
-{
-  "PeliculaId":222,
-  "entrada":"2018-06-29",
-  "salida":"2018-08-29"
-
-},
-{
-  "PeliculaId":223,
-  "entrada":"2018-06-29",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":224,
-  "entrada":"2018-07-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":225,
-  "entrada":"2018-07-13",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":226,
-  "entrada":"2018-07-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":227,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":228,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":229,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":230,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":231,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":232,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":233,
-  "entrada":"2018-07-26",
-  "salida":"2018-08-01"
-
-},
-{
-  "PeliculaId":234,
-  "entrada":"2018-07-26",
-  "salida":"2020-07-26"
-
-},
-{
-  "PeliculaId":235,
-  "entrada":"2018-07-27",
-  "salida":"2020-07-27"
-
-},
-{
-  "PeliculaId":236,
-  "entrada":"2018-07-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":237,
-  "entrada":"2018-08-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":238,
-  "entrada":"2018-08-09",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":239,
-  "entrada":"2018-08-16",
-  "salida":"2018-09-16"
-
-},
-{
-  "PeliculaId":240,
-  "entrada":"2018-08-16",
-  "salida":"2018-09-16"
-
-},
-{
-  "PeliculaId":241,
-  "entrada":"2018-08-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":242,
-  "entrada":"2018-08-16",
-  "salida":"2018-09-16"
-
-},
-{
-  "PeliculaId":243,
-  "entrada":"2018-08-16",
-  "salida":"2018-09-16"
-
-},
-{
-  "PeliculaId":244,
-  "entrada":"2018-08-16",
-  "salida":"2018-09-15"
-
-},
-{
-  "PeliculaId":245,
-  "entrada":"2018-08-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":246,
-  "entrada":"2018-08-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":247,
-  "entrada":"2018-08-23",
-  "salida":"2018-09-23"
-
-},
-{
-  "PeliculaId":248,
-  "entrada":"2018-08-23",
-  "salida":"2018-09-23"
-
-},
-{
-  "PeliculaId":249,
-  "entrada":"2018-08-30",
-  "salida":null
-
-},
-{
-  "PeliculaId":250,
-  "entrada":"2018-09-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":251,
-  "entrada":"2018-09-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":252,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":253,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":254,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":255,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":256,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":257,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":258,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":259,
-  "entrada":"2018-09-14",
-  "salida":"2018-10-15"
-
-},
-{
-  "PeliculaId":260,
-  "entrada":"2018-09-22",
-  "salida":null
-
-},
-{
-  "PeliculaId":261,
-  "entrada":"2018-09-22",
-  "salida":null
-
-},
-{
-  "PeliculaId":262,
-  "entrada":"2018-09-21",
-  "salida":"2018-09-23"
-
-},
-{
-  "PeliculaId":263,
-  "entrada":"2018-09-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":264,
-  "entrada":"2018-09-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":265,
-  "entrada":"2018-10-04",
-  "salida":"2020-03-08"
-
-},
-{
-  "PeliculaId":266,
-  "entrada":"2018-10-04",
-  "salida":"2020-03-31"
-
-},
-{
-  "PeliculaId":267,
-  "entrada":"2018-10-11",
-  "salida":"2018-11-09"
-
-},
-{
-  "PeliculaId":268,
-  "entrada":"2018-10-11",
-  "salida":"2018-11-09"
-
-},
-{
-  "PeliculaId":269,
-  "entrada":"2018-10-11",
-  "salida":"2018-11-09"
-
-},
-{
-  "PeliculaId":270,
-  "entrada":"2018-10-11",
-  "salida":"2018-11-09"
-
-},
-{
-  "PeliculaId":271,
-  "entrada":"2018-10-11",
-  "salida":"2018-11-09"
-
-},
-{
-  "PeliculaId":272,
-  "entrada":"2018-10-11",
-  "salida":"2018-11-09"
-
-},
-{
-  "PeliculaId":273,
-  "entrada":"2018-10-11",
-  "salida":"2018-12-27"
-
-},
-{
-  "PeliculaId":274,
-  "entrada":"2018-10-11",
-  "salida":"2019-10-11"
-
-},
-{
-  "PeliculaId":275,
-  "entrada":"2018-10-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":276,
-  "entrada":"2018-10-19",
-  "salida":"2019-10-19"
-
-},
-{
-  "PeliculaId":277,
-  "entrada":"2018-10-25",
-  "salida":"2019-10-11"
-
-},
-{
-  "PeliculaId":278,
-  "entrada":"2018-10-25",
-  "salida":"2018-11-25"
-
-},
-{
-  "PeliculaId":279,
-  "entrada":"2018-11-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":280,
-  "entrada":"2018-11-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":281,
-  "entrada":"2018-11-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":282,
-  "entrada":"2018-11-10",
-  "salida":null
-
-},
-{
-  "PeliculaId":283,
-  "entrada":"2018-11-10",
-  "salida":null
-
-},
-{
-  "PeliculaId":284,
-  "entrada":"2018-11-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":285,
-  "entrada":"2018-11-22",
-  "salida":null
-
-},
-{
-  "PeliculaId":286,
-  "entrada":"2018-11-29",
-  "salida":"2018-12-02"
-
-},
-{
-  "PeliculaId":287,
-  "entrada":"2018-11-29",
-  "salida":"2018-12-02"
-
-},
-{
-  "PeliculaId":288,
-  "entrada":"2018-11-29",
-  "salida":null
-
-},
-{
-  "PeliculaId":289,
-  "entrada":"2018-11-29",
-  "salida":null
-
-},
-{
-  "PeliculaId":290,
-  "entrada":"2018-11-30",
-  "salida":"2018-12-01"
-
-},
-{
-  "PeliculaId":291,
-  "entrada":"2018-12-07",
-  "salida":"2018-12-09"
-
-},
-{
-  "PeliculaId":292,
-  "entrada":"2018-12-07",
-  "salida":"2018-12-09"
-
-},
-{
-  "PeliculaId":293,
-  "entrada":"2018-12-07",
-  "salida":"2018-12-09"
-
-},
-{
-  "PeliculaId":294,
-  "entrada":"2018-12-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":295,
-  "entrada":"2018-12-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":296,
-  "entrada":"2018-12-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":297,
-  "entrada":"2018-12-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":298,
-  "entrada":"2018-12-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":299,
-  "entrada":"2018-12-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":300,
-  "entrada":"2019-01-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":301,
-  "entrada":"2019-01-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":302,
-  "entrada":"2019-01-10",
-  "salida":null
-
-},
-{
-  "PeliculaId":303,
-  "entrada":"2019-01-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":304,
-  "entrada":"2019-01-24",
-  "salida":"2019-10-15"
-
-},
-{
-  "PeliculaId":305,
-  "entrada":"2019-01-31",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":82,
-  "entrada":"2019-02-07",
-  "salida":null
-
-},
-{
-  "PeliculaId":109,
-  "entrada":"2018-09-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":100,
-  "entrada":"2018-09-27",
-  "salida":"2020-04-14"
-
-},
-{
-  "PeliculaId":169,
-  "entrada":"2019-01-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":162,
-  "entrada":"2018-02-26",
-  "salida":"2020-03-03"
-
-},
-{
-  "PeliculaId":127,
-  "entrada":"2019-03-01",
-  "salida":"2019-03-08"
-
-},
-{
-  "PeliculaId":128,
-  "entrada":"2019-03-01",
-  "salida":"2019-03-08"
-
-},
-{
-  "PeliculaId":306,
-  "entrada":"2019-02-14",
-  "salida":"2019-10-05"
-
-},
-{
-  "PeliculaId":307,
-  "entrada":"2019-02-21",
-  "salida":"2019-08-17"
-
-},
-{
-  "PeliculaId":308,
-  "entrada":"2019-03-01",
-  "salida":"2019-03-08"
-
-},
-{
-  "PeliculaId":309,
-  "entrada":"2019-03-07",
-  "salida":null
-
-},
-{
-  "PeliculaId":310,
-  "entrada":"2019-03-10",
-  "salida":null
-
-},
-{
-  "PeliculaId":311,
-  "entrada":"2019-03-10",
-  "salida":"2020-03-10"
-
-},
-{
-  "PeliculaId":312,
-  "entrada":"2019-03-12",
-  "salida":null
-
-},
-{
-  "PeliculaId":313,
-  "entrada":"2019-03-14",
-  "salida":null
-
-},
-{
-  "PeliculaId":314,
-  "entrada":"2019-03-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":315,
-  "entrada":"2019-03-19",
-  "salida":"2019-08-17"
-
-},
-{
-  "PeliculaId":316,
-  "entrada":"2019-03-20",
-  "salida":"2019-03-25"
-
-},
-{
-  "PeliculaId":317,
-  "entrada":"2019-03-21",
-  "salida":null
-
-},
-{
-  "PeliculaId":318,
-  "entrada":"2019-03-26",
-  "salida":"2019-04-26"
-
-},
-{
-  "PeliculaId":319,
-  "entrada":"2019-03-28",
-  "salida":null
-
-},
-{
-  "PeliculaId":124,
-  "entrada":"2019-03-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":320,
-  "entrada":"2019-04-03",
-  "salida":"2019-05-03"
-
-},
-{
-  "PeliculaId":321,
-  "entrada":"2019-04-03",
-  "salida":"2019-05-03"
-
-},
-{
-  "PeliculaId":322,
-  "entrada":"2019-04-09",
-  "salida":null
-
-},
-{
-  "PeliculaId":323,
-  "entrada":"2019-04-10",
-  "salida":"2019-05-10"
-
-},
-{
-  "PeliculaId":324,
-  "entrada":"2019-04-10",
-  "salida":"2019-05-10"
-
-},
-{
-  "PeliculaId":325,
-  "entrada":"2019-04-11",
-  "salida":null
-
-},
-{
-  "PeliculaId":326,
-  "entrada":"2019-04-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":327,
-  "entrada":"2019-04-17",
-  "salida":"2019-05-17"
-
-},
-{
-  "PeliculaId":328,
-  "entrada":"2019-04-17",
-  "salida":"2019-05-17"
-
-},
-{
-  "PeliculaId":329,
-  "entrada":"2019-04-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":330,
-  "entrada":"2019-04-23",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":331,
-  "entrada":"2019-04-24",
-  "salida":"2019-05-24"
-
-},
-{
-  "PeliculaId":332,
-  "entrada":"2019-04-25",
-  "salida":"2019-10-01"
-
-},
-{
-  "PeliculaId":333,
-  "entrada":"2019-05-01",
-  "salida":null
-
-},
-{
-  "PeliculaId":334,
-  "entrada":"2019-05-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":244,
-  "entrada":"2019-05-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":335,
-  "entrada":"2019-05-07",
-  "salida":"2020-05-07"
-
-},
-{
-  "PeliculaId":336,
-  "entrada":"2019-05-09",
-  "salida":null
-
-},
-{
-  "PeliculaId":337,
-  "entrada":"2019-05-14",
-  "salida":"2020-05-14"
-
-},
-{
-  "PeliculaId":338,
-  "entrada":"2019-05-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":339,
-  "entrada":"2019-05-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":340,
-  "entrada":"2019-05-21",
-  "salida":"2020-05-21"
-
-},
-{
-  "PeliculaId":341,
-  "entrada":"2019-05-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":342,
-  "entrada":"2019-05-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":343,
-  "entrada":"2019-05-28",
-  "salida":null
-
-},
-{
-  "PeliculaId":344,
-  "entrada":"2019-05-30",
-  "salida":null
-
-},
-{
-  "PeliculaId":345,
-  "entrada":"2019-05-30",
-  "salida":null
-
-},
-{
-  "PeliculaId":346,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":347,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":348,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":349,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":350,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":351,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":352,
-  "entrada":"2019-06-05",
-  "salida":"2019-07-05"
-
-},
-{
-  "PeliculaId":353,
-  "entrada":"2019-06-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":354,
-  "entrada":"2019-06-25",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":355,
-  "entrada":"2019-06-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":356,
-  "entrada":"2019-06-28",
-  "salida":null
-
-},
-{
-  "PeliculaId":137,
-  "entrada":"2019-06-13",
-  "salida":"2020-06-13"
-
-},
-{
-  "PeliculaId":17,
-  "entrada":"2019-06-13",
-  "salida":"2019-06-16"
-
-},
-{
-  "PeliculaId":45,
-  "entrada":"2019-04-01",
-  "salida":null
-
-},
-{
-  "PeliculaId":357,
-  "entrada":"2019-07-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":358,
-  "entrada":"2019-07-07",
-  "salida":null
-
-},
-{
-  "PeliculaId":359,
-  "entrada":"2019-07-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":360,
-  "entrada":"2019-07-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":361,
-  "entrada":"2019-07-18",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":362,
-  "entrada":"2019-07-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":363,
-  "entrada":"2019-07-25",
-  "salida":"2019-08-20"
-
-},
-{
-  "PeliculaId":161,
-  "entrada":"2019-07-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":157,
-  "entrada":"2019-08-13",
-  "salida":"2020-01-08"
-
-},
-{
-  "PeliculaId":364,
-  "entrada":"2019-08-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":365,
-  "entrada":"2019-08-06",
-  "salida":"2019-08-31"
-
-},
-{
-  "PeliculaId":366,
-  "entrada":"2019-08-08",
-  "salida":"2019-08-14"
-
-},
-{
-  "PeliculaId":367,
-  "entrada":"2019-08-09",
-  "salida":null
-
-},
-{
-  "PeliculaId":368,
-  "entrada":"2019-08-12",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":369,
-  "entrada":"2019-08-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":370,
-  "entrada":"2019-08-15",
-  "salida":"2019-08-21"
-
-},
-{
-  "PeliculaId":371,
-  "entrada":"2019-08-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":372,
-  "entrada":"2019-08-22",
-  "salida":"2019-08-28"
-
-},
-{
-  "PeliculaId":373,
-  "entrada":"2019-08-27",
-  "salida":null
-
-},
-{
-  "PeliculaId":374,
-  "entrada":"2019-08-29",
-  "salida":"2019-09-04"
-
-},
-{
-  "PeliculaId":375,
-  "entrada":"2019-09-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":376,
-  "entrada":"2019-09-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":377,
-  "entrada":"2019-09-05",
-  "salida":"2019-09-30"
-
-},
-{
-  "PeliculaId":378,
-  "entrada":"2019-09-10",
-  "salida":null
-
-},
-{
-  "PeliculaId":379,
-  "entrada":"2019-09-12",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":380,
-  "entrada":"2019-09-16",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":381,
-  "entrada":"2019-09-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":382,
-  "entrada":"2019-09-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":383,
-  "entrada":"2019-09-24",
-  "salida":null
-
-},
-{
-  "PeliculaId":384,
-  "entrada":"2019-09-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":168,
-  "entrada":"2019-09-05",
-  "salida":null
-
-},
-{
-  "PeliculaId":110,
-  "entrada":"2019-09-05",
-  "salida":null
-
-},
-{
-  "PeliculaId":49,
-  "entrada":"2019-09-05",
-  "salida":null
-
-},
-{
-  "PeliculaId":143,
-  "entrada":"2019-09-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":63,
-  "entrada":"2019-09-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":133,
-  "entrada":"2019-09-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":135,
-  "entrada":"2019-09-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":69,
-  "entrada":"2019-09-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":385,
-  "entrada":"2019-10-03",
-  "salida":"2019-10-09"
-
-},
-{
-  "PeliculaId":386,
-  "entrada":"2019-10-10",
-  "salida":"2019-10-16"
-
-},
-{
-  "PeliculaId":387,
-  "entrada":"2019-10-11",
-  "salida":"2019-11-30"
-
-},
-{
-  "PeliculaId":388,
-  "entrada":"2019-10-14",
-  "salida":"2019-10-31"
-
-},
-{
-  "PeliculaId":389,
-  "entrada":"2019-10-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":390,
-  "entrada":"2019-10-17",
-  "salida":"2019-10-23"
-
-},
-{
-  "PeliculaId":391,
-  "entrada":"2019-10-22",
-  "salida":null
-
-},
-{
-  "PeliculaId":392,
-  "entrada":"2019-10-24",
-  "salida":"2019-10-30"
-
-},
-{
-  "PeliculaId":393,
-  "entrada":"2019-10-26",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":394,
-  "entrada":"2019-10-29",
-  "salida":"2019-11-05"
-
-},
-{
-  "PeliculaId":395,
-  "entrada":"2019-10-29",
-  "salida":null
-
-},
-{
-  "PeliculaId":396,
-  "entrada":"2019-10-31",
-  "salida":"2019-11-06"
-
-},
-{
-  "PeliculaId":171,
-  "entrada":"2019-10-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":62,
-  "entrada":"2019-10-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":153,
-  "entrada":"2019-10-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":85,
-  "entrada":"2019-10-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":89,
-  "entrada":"2019-10-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":179,
-  "entrada":"2019-10-15",
-  "salida":null
-
-},
-{
-  "PeliculaId":174,
-  "entrada":"2019-10-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":146,
-  "entrada":"2019-10-29",
-  "salida":null
-
-},
-{
-  "PeliculaId":397,
-  "entrada":"2019-11-07",
-  "salida":"2019-11-13"
-
-},
-{
-  "PeliculaId":398,
-  "entrada":"2019-11-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":399,
-  "entrada":"2019-11-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":400,
-  "entrada":"2019-11-13",
-  "salida":"2019-12-06"
-
-},
-{
-  "PeliculaId":401,
-  "entrada":"2019-11-13",
-  "salida":"2019-11-20"
-
-},
-{
-  "PeliculaId":402,
-  "entrada":"2019-11-13",
-  "salida":"2019-11-21"
-
-},
-{
-  "PeliculaId":403,
-  "entrada":"2019-11-13",
-  "salida":"2019-12-13"
-
-},
-{
-  "PeliculaId":404,
-  "entrada":"2019-11-14",
-  "salida":"2019-11-20"
-
-},
-{
-  "PeliculaId":405,
-  "entrada":"2019-11-18",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":406,
-  "entrada":"2019-11-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":407,
-  "entrada":"2019-11-21",
-  "salida":null
-
-},
-{
-  "PeliculaId":408,
-  "entrada":"2019-11-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":409,
-  "entrada":"2019-11-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":410,
-  "entrada":"2019-11-28",
-  "salida":"2020-02-02"
-
-},
-{
-  "PeliculaId":411,
-  "entrada":"2019-11-28",
-  "salida":"2019-12-04"
-
-},
-{
-  "PeliculaId":412,
-  "entrada":"2019-12-05",
-  "salida":"2019-12-18"
-
-},
-{
-  "PeliculaId":413,
-  "entrada":"2019-12-09",
-  "salida":null
-
-},
-{
-  "PeliculaId":414,
-  "entrada":"2019-12-10",
-  "salida":"2019-12-31"
-
-},
-{
-  "PeliculaId":415,
-  "entrada":"2019-12-10",
-  "salida":"2019-12-31"
-
-},
-{
-  "PeliculaId":416,
-  "entrada":"2019-12-12",
-  "salida":"2019-12-18"
-
-},
-{
-  "PeliculaId":417,
-  "entrada":"2019-12-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":418,
-  "entrada":"2019-12-18",
-  "salida":null
-
-},
-{
-  "PeliculaId":419,
-  "entrada":"2019-12-19",
-  "salida":"2019-12-27"
-
-},
-{
-  "PeliculaId":420,
-  "entrada":"2019-12-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":421,
-  "entrada":"2019-12-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":422,
-  "entrada":"2019-12-30",
-  "salida":null
-
-},
-{
-  "PeliculaId":107,
-  "entrada":"2019-12-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":103,
-  "entrada":"2019-12-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":423,
-  "entrada":"2020-01-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":424,
-  "entrada":"2020-01-07",
-  "salida":null
-
-},
-{
-  "PeliculaId":425,
-  "entrada":"2020-01-09",
-  "salida":null
-
-},
-{
-  "PeliculaId":426,
-  "entrada":"2020-01-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":427,
-  "entrada":"2020-01-21",
-  "salida":null
-
-},
-{
-  "PeliculaId":428,
-  "entrada":"2020-01-24",
-  "salida":null
-
-},
-{
-  "PeliculaId":429,
-  "entrada":"2020-01-28",
-  "salida":null
-
-},
-{
-  "PeliculaId":430,
-  "entrada":"2020-01-31",
-  "salida":null
-
-},
-{
-  "PeliculaId":431,
-  "entrada":"2020-02-14",
-  "salida":null
-
-},
-{
-  "PeliculaId":432,
-  "entrada":"2020-02-21",
-  "salida":null
-
-},
-{
-  "PeliculaId":46,
-  "entrada":"2019-04-12",
-  "salida":"2020-02-24"
-
-},
-{
-  "PeliculaId":88,
-  "entrada":"2020-01-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":243,
-  "entrada":"2020-01-14",
-  "salida":null
-
-},
-{
-  "PeliculaId":240,
-  "entrada":"2019-10-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":262,
-  "entrada":"2020-03-24",
-  "salida":"2020-04-08"
-
-},
-{
-  "PeliculaId":397,
-  "entrada":"2020-03-29",
-  "salida":"2020-04-20"
-
-},
-{
-  "PeliculaId":308,
-  "entrada":"2020-03-17",
-  "salida":"2020-03-31"
-
-},
-{
-  "PeliculaId":433,
-  "entrada":"2020-03-05",
-  "salida":null
-
-},
-{
-  "PeliculaId":434,
-  "entrada":"2020-03-10",
-  "salida":"2020-04-10"
-
-},
-{
-  "PeliculaId":435,
-  "entrada":"2020-03-11",
-  "salida":"2020-04-22"
-
-},
-{
-  "PeliculaId":436,
-  "entrada":"2020-03-13",
-  "salida":null
-
-},
-{
-  "PeliculaId":437,
-  "entrada":"2020-03-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":438,
-  "entrada":"2020-03-20",
-  "salida":null
-
-},
-{
-  "PeliculaId":439,
-  "entrada":"2020-03-26",
-  "salida":null
-
-},
-{
-  "PeliculaId":440,
-  "entrada":"2020-03-28",
-  "salida":null
-
-},
-{
-  "PeliculaId":441,
-  "entrada":"2020-03-31",
-  "salida":"2020-04-15"
-
-},
-{
-  "PeliculaId":232,
-  "entrada":"2019-07-11",
-  "salida":null
-
-},
-{
-  "PeliculaId":385,
-  "entrada":"2020-04-07",
-  "salida":"2020-04-30"
-
-},
-{
-  "PeliculaId":290,
-  "entrada":"2020-04-05",
-  "salida":"2020-04-05"
-
-},
-{
-  "PeliculaId":286,
-  "entrada":"2020-04-02",
-  "salida":null
-
-},
-{
-  "PeliculaId":442,
-  "entrada":"2020-04-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":443,
-  "entrada":"2020-04-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":444,
-  "entrada":"2020-04-03",
-  "salida":null
-
-},
-{
-  "PeliculaId":445,
-  "entrada":"2020-04-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":446,
-  "entrada":"2020-04-08",
-  "salida":null
-
-},
-{
-  "PeliculaId":447,
-  "entrada":"2020-04-14",
-  "salida":"2020-04-28"
-
-},
-{
-  "PeliculaId":448,
-  "entrada":"2020-04-15",
-  "salida":"2020-04-30"
-
-},
-{
-  "PeliculaId":449,
-  "entrada":"2020-04-17",
-  "salida":null
-
-},
-{
-  "PeliculaId":450,
-  "entrada":"2020-04-21",
-  "salida":"2020-05-05"
-
-},
-{
-  "PeliculaId":451,
-  "entrada":"2020-04-22",
-  "salida":null
-
-},
-{
-  "PeliculaId":452,
-  "entrada":"2020-04-28",
-  "salida":"2020-05-11"
-
-},
-{
-  "PeliculaId":453,
-  "entrada":"2020-04-30",
-  "salida":null
-
-},
-{
-  "PeliculaId":454,
-  "entrada":"2020-05-01",
-  "salida":"2020-05-15"
-
-},
-{
-  "PeliculaId":455,
-  "entrada":"2020-05-01",
-  "salida":"2020-05-15"
-
-},
-{
-  "PeliculaId":456,
-  "entrada":"2020-05-07",
-  "salida":null
-
-},
-{
-  "PeliculaId":457,
-  "entrada":"2020-05-12",
-  "salida":"2020-05-18"
-
-},
-{
-  "PeliculaId":458,
-  "entrada":"2020-05-12",
-  "salida":"2020-05-18"
-
-},
-{
-  "PeliculaId":459,
-  "entrada":"2020-05-12",
-  "salida":"2020-05-18"
-
-},
-{
-  "PeliculaId":460,
-  "entrada":"2020-05-14",
-  "salida":null
-
-},
-{
-  "PeliculaId":461,
-  "entrada":"2020-05-15",
-  "salida":"2020-05-31"
-
-},
-{
-  "PeliculaId":462,
-  "entrada":"2020-05-15",
-  "salida":"2020-05-31"
-
-},
-{
-  "PeliculaId":463,
-  "entrada":"2020-05-15",
-  "salida":"2020-05-31"
-
-},
-{
-  "PeliculaId":464,
-  "entrada":"2020-05-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":465,
-  "entrada":"2020-05-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":466,
-  "entrada":"2020-05-21",
-  "salida":null
-
-},
-{
-  "PeliculaId":467,
-  "entrada":"2020-05-26",
-  "salida":"2020-06-01"
-
-},
-{
-  "PeliculaId":468,
-  "entrada":"2020-05-26",
-  "salida":"2020-06-01"
-
-},
-{
-  "PeliculaId":469,
-  "entrada":"2020-05-26",
-  "salida":"2020-06-01"
-
-},
-{
-  "PeliculaId":470,
-  "entrada":"2020-05-28",
-  "salida":"2020-06-28"
-
-},
-{
-  "PeliculaId":471,
-  "entrada":"2020-05-29",
-  "salida":"2020-06-28"
-
-},
-{
-  "PeliculaId":392,
-  "entrada":"2020-05-15",
-  "salida":"2020-05-31"
-
-},
-{
-  "PeliculaId":472,
-  "entrada":"2020-06-01",
-  "salida":"2020-06-14"
-
-},
-{
-  "PeliculaId":473,
-  "entrada":"2020-06-01",
-  "salida":"2020-06-14"
-
-},
-{
-  "PeliculaId":474,
-  "entrada":"2020-06-01",
-  "salida":"2020-06-14"
-
-},
-{
-  "PeliculaId":475,
-  "entrada":"2020-06-01",
-  "salida":"2020-06-14"
-
-},
-{
-  "PeliculaId":476,
-  "entrada":"2020-06-01",
-  "salida":"2020-06-14"
-
-},
-{
-  "PeliculaId":477,
-  "entrada":"2020-06-02",
-  "salida":"2020-06-09"
-
-},
-{
-  "PeliculaId":478,
-  "entrada":"2020-06-04",
-  "salida":null
-
-},
-{
-  "PeliculaId":479,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":480,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":481,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":482,
-  "entrada":"2020-06-15",
-  "salida":"2020-03-30"
-
-},
-{
-  "PeliculaId":483,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":484,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":485,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":486,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":487,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":488,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":489,
-  "entrada":"2020-06-15",
-  "salida":"2020-07-03"
-
-},
-{
-  "PeliculaId":490,
-  "entrada":"2020-06-15",
-  "salida":"2020-06-19"
-
-},
-{
-  "PeliculaId":491,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":492,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":493,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":494,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":495,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":496,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":497,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":498,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":499,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":500,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":501,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":502,
-  "entrada":"2020-06-19",
-  "salida":"2020-07-19"
-
-},
-{
-  "PeliculaId":503,
-  "entrada":"2020-06-19",
-  "salida":null
-
-},
-{
-  "PeliculaId":504,
-  "entrada":"2020-06-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":505,
-  "entrada":"2020-06-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":506,
-  "entrada":"2020-06-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":507,
-  "entrada":"2020-06-30",
-  "salida":"2020-07-30"
-
-},
-{
-  "PeliculaId":508,
-  "entrada":"2020-06-30",
-  "salida":"2020-07-30"
-
-},
-{
-  "PeliculaId":509,
-  "entrada":"2020-06-30",
-  "salida":"2020-07-30"
-
-},
-{
-  "PeliculaId":510,
-  "entrada":"2020-06-30",
-  "salida":null
-
-},
-{
-  "PeliculaId":142,
-  "entrada":"2020-06-02",
-  "salida":"2020-06-09"
-
-},
-{
-  "PeliculaId":204,
-  "entrada":"2020-06-02",
-  "salida":"2020-06-09"
-
-},
-{
-  "PeliculaId":392,
-  "entrada":"2020-06-18",
-  "salida":"2020-06-25"
-
-},
-{
-  "PeliculaId":396,
-  "entrada":"2020-06-11",
-  "salida":"2020-06-18"
-
-},
-{
-  "PeliculaId":511,
-  "entrada":"2020-07-06",
-  "salida":null
-
-},
-{
-  "PeliculaId":512,
-  "entrada":"2020-07-16",
-  "salida":null
-
-},
-{
-  "PeliculaId":513,
-  "entrada":"2020-07-23",
-  "salida":null
-
-},
-{
-  "PeliculaId":514,
-  "entrada":"2020-07-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":515,
-  "entrada":"2020-07-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":516,
-  "entrada":"2020-07-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":517,
-  "entrada":"2020-07-25",
-  "salida":null
-
-},
-{
-  "PeliculaId":518,
-  "entrada":"2020-07-31",
-  "salida":null
-
-},
-{
-  "PeliculaId":217,
-  "entrada":"2020-06-11",
-  "salida":"2018-07-11"
-
-},
-{
-  "PeliculaId":233,
-  "entrada":"2020-07-09",
-  "salida":"2020-07-29"
-
-}
+[
+  {
+    "PeliculaId": 1,
+    "entrada": "2016-03-04",
+    "salida": "2017-12-07"
+  },
+  {
+    "PeliculaId": 2,
+    "entrada": "2016-03-04",
+    "salida": "2018-02-19"
+  },
+  {
+    "PeliculaId": 3,
+    "entrada": "2016-03-04",
+    "salida": "2017-12-07"
+  },
+  {
+    "PeliculaId": 4,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 5,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 6,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 7,
+    "entrada": "2016-03-04",
+    "salida": "2018-11-21"
+  },
+  {
+    "PeliculaId": 8,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 9,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 10,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 11,
+    "entrada": "2016-03-04",
+    "salida": "2018-09-07"
+  },
+  {
+    "PeliculaId": 12,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 13,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 14,
+    "entrada": "2016-03-04",
+    "salida": "2018-11-11"
+  },
+  {
+    "PeliculaId": 15,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 16,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 17,
+    "entrada": "2016-03-04",
+    "salida": "2017-12-10"
+  },
+  {
+    "PeliculaId": 18,
+    "entrada": "2016-03-04",
+    "salida": "2017-11-20"
+  },
+  {
+    "PeliculaId": 19,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 20,
+    "entrada": "2016-03-04",
+    "salida": "2017-12-04"
+  },
+  {
+    "PeliculaId": 21,
+    "entrada": "2016-03-04",
+    "salida": "2017-12-10"
+  },
+  {
+    "PeliculaId": 22,
+    "entrada": "2016-03-04",
+    "salida": "2018-02-12"
+  },
+  {
+    "PeliculaId": 23,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 24,
+    "entrada": "2016-03-04",
+    "salida": "2019-12-18"
+  },
+  {
+    "PeliculaId": 25,
+    "entrada": "2016-03-04",
+    "salida": "2019-12-18"
+  },
+  {
+    "PeliculaId": 26,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 27,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 28,
+    "entrada": "2016-03-04",
+    "salida": "2019-12-08"
+  },
+  {
+    "PeliculaId": 29,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 30,
+    "entrada": "2016-03-04",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 31,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 32,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 33,
+    "entrada": "2016-03-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 34,
+    "entrada": "2016-03-04",
+    "salida": "2019-04-17"
+  },
+  {
+    "PeliculaId": 35,
+    "entrada": "2016-03-04",
+    "salida": "2020-04-09"
+  },
+  {
+    "PeliculaId": 36,
+    "entrada": "2016-03-04",
+    "salida": "2019-09-04"
+  },
+  {
+    "PeliculaId": 37,
+    "entrada": "2016-03-04",
+    "salida": "2017-11-20"
+  },
+  {
+    "PeliculaId": 38,
+    "entrada": "2016-03-04",
+    "salida": "2019-09-04"
+  },
+  {
+    "PeliculaId": 39,
+    "entrada": "2016-04-08",
+    "salida": "2017-06-12"
+  },
+  {
+    "PeliculaId": 40,
+    "entrada": "2016-04-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 41,
+    "entrada": "2016-04-08",
+    "salida": "2019-12-18"
+  },
+  {
+    "PeliculaId": 42,
+    "entrada": "2016-04-08",
+    "salida": "2018-02-12"
+  },
+  {
+    "PeliculaId": 43,
+    "entrada": "2016-04-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 44,
+    "entrada": "2016-04-08",
+    "salida": "2019-12-18"
+  },
+  {
+    "PeliculaId": 45,
+    "entrada": "2016-04-11",
+    "salida": "2019-02-22"
+  },
+  {
+    "PeliculaId": 46,
+    "entrada": "2016-04-11",
+    "salida": "2019-02-24"
+  },
+  {
+    "PeliculaId": 47,
+    "entrada": "2016-05-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 48,
+    "entrada": "2016-05-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 49,
+    "entrada": "2016-05-13",
+    "salida": "2018-03-07"
+  },
+  {
+    "PeliculaId": 50,
+    "entrada": "2016-05-13",
+    "salida": "2018-02-22"
+  },
+  {
+    "PeliculaId": 51,
+    "entrada": "2016-05-13",
+    "salida": "2017-12-03"
+  },
+  {
+    "PeliculaId": 52,
+    "entrada": "2016-05-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 53,
+    "entrada": "2016-05-13",
+    "salida": "2017-12-17"
+  },
+  {
+    "PeliculaId": 54,
+    "entrada": "2016-05-13",
+    "salida": "2017-11-20"
+  },
+  {
+    "PeliculaId": 55,
+    "entrada": "2016-05-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 56,
+    "entrada": "2016-06-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 57,
+    "entrada": "2016-06-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 58,
+    "entrada": "2016-06-16",
+    "salida": "2017-12-07"
+  },
+  {
+    "PeliculaId": 59,
+    "entrada": "2016-06-16",
+    "salida": "2018-06-15"
+  },
+  {
+    "PeliculaId": 60,
+    "entrada": "2016-06-16",
+    "salida": "2017-12-22"
+  },
+  {
+    "PeliculaId": 61,
+    "entrada": "2016-06-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 62,
+    "entrada": "2016-07-15",
+    "salida": "2018-04-27"
+  },
+  {
+    "PeliculaId": 63,
+    "entrada": "2016-07-15",
+    "salida": "2018-07-16"
+  },
+  {
+    "PeliculaId": 64,
+    "entrada": "2016-07-15",
+    "salida": "2018-05-16"
+  },
+  {
+    "PeliculaId": 65,
+    "entrada": "2016-07-15",
+    "salida": "2018-03-07"
+  },
+  {
+    "PeliculaId": 66,
+    "entrada": "2016-07-15",
+    "salida": "2016-12-01"
+  },
+  {
+    "PeliculaId": 67,
+    "entrada": "2016-07-15",
+    "salida": "2018-06-06"
+  },
+  {
+    "PeliculaId": 68,
+    "entrada": "2016-07-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 69,
+    "entrada": "2016-07-15",
+    "salida": "2018-03-04"
+  },
+  {
+    "PeliculaId": 70,
+    "entrada": "2016-07-15",
+    "salida": "2017-12-04"
+  },
+  {
+    "PeliculaId": 71,
+    "entrada": "2016-07-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 72,
+    "entrada": "2016-07-15",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 73,
+    "entrada": "2016-08-18",
+    "salida": "2016-09-16"
+  },
+  {
+    "PeliculaId": 74,
+    "entrada": "2016-08-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 75,
+    "entrada": "2016-08-18",
+    "salida": "2016-09-16"
+  },
+  {
+    "PeliculaId": 76,
+    "entrada": "2016-08-18",
+    "salida": "2018-06-17"
+  },
+  {
+    "PeliculaId": 77,
+    "entrada": "2016-08-18",
+    "salida": "2016-09-16"
+  },
+  {
+    "PeliculaId": 78,
+    "entrada": "2016-08-18",
+    "salida": "2019-08-11"
+  },
+  {
+    "PeliculaId": 79,
+    "entrada": "2016-08-18",
+    "salida": "2017-12-03"
+  },
+  {
+    "PeliculaId": 80,
+    "entrada": "2016-08-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 81,
+    "entrada": "2016-08-18",
+    "salida": "2017-12-17"
+  },
+  {
+    "PeliculaId": 82,
+    "entrada": "2016-08-18",
+    "salida": "2016-09-16"
+  },
+  {
+    "PeliculaId": 83,
+    "entrada": "2016-09-16",
+    "salida": "2018-07-21"
+  },
+  {
+    "PeliculaId": 84,
+    "entrada": "2016-09-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 85,
+    "entrada": "2016-09-16",
+    "salida": "2018-09-19"
+  },
+  {
+    "PeliculaId": 86,
+    "entrada": "2016-09-16",
+    "salida": "2018-09-03"
+  },
+  {
+    "PeliculaId": 87,
+    "entrada": "2016-10-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 88,
+    "entrada": "2016-10-20",
+    "salida": "2018-10-20"
+  },
+  {
+    "PeliculaId": 89,
+    "entrada": "2016-10-20",
+    "salida": "2018-09-29"
+  },
+  {
+    "PeliculaId": 90,
+    "entrada": "2016-10-20",
+    "salida": "2017-08-24"
+  },
+  {
+    "PeliculaId": 91,
+    "entrada": "2016-10-20",
+    "salida": "2018-10-10"
+  },
+  {
+    "PeliculaId": 92,
+    "entrada": "2016-10-20",
+    "salida": "2018-08-03"
+  },
+  {
+    "PeliculaId": 93,
+    "entrada": "2016-10-27",
+    "salida": "2018-10-27"
+  },
+  {
+    "PeliculaId": 94,
+    "entrada": "2016-10-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 95,
+    "entrada": "2016-10-27",
+    "salida": "2016-11-13"
+  },
+  {
+    "PeliculaId": 96,
+    "entrada": "2016-11-17",
+    "salida": "2018-09-19"
+  },
+  {
+    "PeliculaId": 97,
+    "entrada": "2016-11-17",
+    "salida": "2018-10-10"
+  },
+  {
+    "PeliculaId": 98,
+    "entrada": "2016-11-17",
+    "salida": "2018-11-17"
+  },
+  {
+    "PeliculaId": 99,
+    "entrada": "2016-11-17",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 100,
+    "entrada": "2016-11-17",
+    "salida": "2018-05-10"
+  },
+  {
+    "PeliculaId": 101,
+    "entrada": "2016-11-17",
+    "salida": "2018-10-10"
+  },
+  {
+    "PeliculaId": 102,
+    "entrada": "2016-11-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 103,
+    "entrada": "2016-11-24",
+    "salida": "2017-01-24"
+  },
+  {
+    "PeliculaId": 104,
+    "entrada": "2016-11-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 105,
+    "entrada": "2016-11-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 106,
+    "entrada": "2016-11-24",
+    "salida": "2017-01-24"
+  },
+  {
+    "PeliculaId": 107,
+    "entrada": "2016-11-24",
+    "salida": "2017-01-24"
+  },
+  {
+    "PeliculaId": 108,
+    "entrada": "2016-11-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 109,
+    "entrada": "2016-12-14",
+    "salida": "2017-12-03"
+  },
+  {
+    "PeliculaId": 110,
+    "entrada": "2016-12-14",
+    "salida": "2018-12-14"
+  },
+  {
+    "PeliculaId": 111,
+    "entrada": "2016-12-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 112,
+    "entrada": "2016-12-14",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 113,
+    "entrada": "2017-02-02",
+    "salida": "2019-01-19"
+  },
+  {
+    "PeliculaId": 114,
+    "entrada": "2017-02-02",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 115,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 116,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 117,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 118,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 119,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 120,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 121,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 122,
+    "entrada": "2017-03-03",
+    "salida": "2019-03-03"
+  },
+  {
+    "PeliculaId": 123,
+    "entrada": "2017-03-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 124,
+    "entrada": "2017-03-03",
+    "salida": "2019-03-15"
+  },
+  {
+    "PeliculaId": 125,
+    "entrada": "2017-03-03",
+    "salida": "2017-05-04"
+  },
+  {
+    "PeliculaId": 126,
+    "entrada": "2017-03-03",
+    "salida": "2019-03-03"
+  },
+  {
+    "PeliculaId": 127,
+    "entrada": "2017-03-03",
+    "salida": "2017-03-17"
+  },
+  {
+    "PeliculaId": 128,
+    "entrada": "2017-03-17",
+    "salida": "2017-04-06"
+  },
+  {
+    "PeliculaId": 129,
+    "entrada": "2017-04-06",
+    "salida": "2017-05-09"
+  },
+  {
+    "PeliculaId": 130,
+    "entrada": "2017-04-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 131,
+    "entrada": "2017-04-06",
+    "salida": "2019-04-06"
+  },
+  {
+    "PeliculaId": 132,
+    "entrada": "2017-04-06",
+    "salida": "2019-05-29"
+  },
+  {
+    "PeliculaId": 133,
+    "entrada": "2017-04-06",
+    "salida": "2019-04-06"
+  },
+  {
+    "PeliculaId": 134,
+    "entrada": "2017-04-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 135,
+    "entrada": "2017-04-06",
+    "salida": "2019-04-06"
+  },
+  {
+    "PeliculaId": 136,
+    "entrada": "2017-04-06",
+    "salida": "2019-04-06"
+  },
+  {
+    "PeliculaId": 137,
+    "entrada": "2017-05-11",
+    "salida": "2018-05-12"
+  },
+  {
+    "PeliculaId": 138,
+    "entrada": "2017-05-11",
+    "salida": "2017-06-08"
+  },
+  {
+    "PeliculaId": 139,
+    "entrada": "2017-05-11",
+    "salida": null
+  },
+  {
+    "PeliculaId": 140,
+    "entrada": "2017-05-11",
+    "salida": "2017-06-08"
+  },
+  {
+    "PeliculaId": 141,
+    "entrada": "2017-05-11",
+    "salida": "2019-05-12"
+  },
+  {
+    "PeliculaId": 142,
+    "entrada": "2017-05-11",
+    "salida": "2017-05-19"
+  },
+  {
+    "PeliculaId": 143,
+    "entrada": "2017-05-11",
+    "salida": "2019-05-11"
+  },
+  {
+    "PeliculaId": 144,
+    "entrada": "2017-05-11",
+    "salida": "2018-09-06"
+  },
+  {
+    "PeliculaId": 145,
+    "entrada": "2017-06-08",
+    "salida": "2019-11-21"
+  },
+  {
+    "PeliculaId": 146,
+    "entrada": "2017-06-08",
+    "salida": "2019-06-08"
+  },
+  {
+    "PeliculaId": 147,
+    "entrada": "2017-06-08",
+    "salida": "2017-06-17"
+  },
+  {
+    "PeliculaId": 148,
+    "entrada": "2017-06-08",
+    "salida": "2018-10-18"
+  },
+  {
+    "PeliculaId": 149,
+    "entrada": "2017-06-08",
+    "salida": "2018-01-08"
+  },
+  {
+    "PeliculaId": 150,
+    "entrada": "2017-06-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 151,
+    "entrada": "2017-06-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 152,
+    "entrada": "2017-06-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 153,
+    "entrada": "2017-06-08",
+    "salida": "2019-05-17"
+  },
+  {
+    "PeliculaId": 154,
+    "entrada": "2017-07-13",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 155,
+    "entrada": "2017-07-13",
+    "salida": "2019-07-13"
+  },
+  {
+    "PeliculaId": 156,
+    "entrada": "2017-07-13",
+    "salida": "2017-11-13"
+  },
+  {
+    "PeliculaId": 157,
+    "entrada": "2017-07-13",
+    "salida": "2018-06-29"
+  },
+  {
+    "PeliculaId": 158,
+    "entrada": "2017-07-13",
+    "salida": "2019-07-14"
+  },
+  {
+    "PeliculaId": 159,
+    "entrada": "2017-07-13",
+    "salida": "2019-07-14"
+  },
+  {
+    "PeliculaId": 160,
+    "entrada": "2017-07-13",
+    "salida": "2019-07-14"
+  },
+  {
+    "PeliculaId": 161,
+    "entrada": "2017-07-13",
+    "salida": "2019-07-13"
+  },
+  {
+    "PeliculaId": 162,
+    "entrada": "2017-07-13",
+    "salida": "2017-12-31"
+  },
+  {
+    "PeliculaId": 163,
+    "entrada": "2017-07-13",
+    "salida": "2019-05-29"
+  },
+  {
+    "PeliculaId": 164,
+    "entrada": "2017-07-13",
+    "salida": "2017-09-13"
+  },
+  {
+    "PeliculaId": 165,
+    "entrada": "2017-08-11",
+    "salida": null
+  },
+  {
+    "PeliculaId": 166,
+    "entrada": "2017-08-11",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 167,
+    "entrada": "2017-08-11",
+    "salida": "2019-08-11"
+  },
+  {
+    "PeliculaId": 168,
+    "entrada": "2017-08-11",
+    "salida": "2019-08-11"
+  },
+  {
+    "PeliculaId": 169,
+    "entrada": "2017-08-11",
+    "salida": "2018-05-03"
+  },
+  {
+    "PeliculaId": 170,
+    "entrada": "2017-09-15",
+    "salida": "2019-09-15"
+  },
+  {
+    "PeliculaId": 171,
+    "entrada": "2017-09-15",
+    "salida": "2019-08-14"
+  },
+  {
+    "PeliculaId": 172,
+    "entrada": "2017-09-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 173,
+    "entrada": "2017-09-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 174,
+    "entrada": "2017-09-15",
+    "salida": "2018-09-21"
+  },
+  {
+    "PeliculaId": 175,
+    "entrada": "2017-09-15",
+    "salida": "2019-09-15"
+  },
+  {
+    "PeliculaId": 176,
+    "entrada": "2017-09-15",
+    "salida": "2019-09-15"
+  },
+  {
+    "PeliculaId": 177,
+    "entrada": "2017-10-13",
+    "salida": "2017-11-20"
+  },
+  {
+    "PeliculaId": 178,
+    "entrada": "2017-10-13",
+    "salida": "2017-10-19"
+  },
+  {
+    "PeliculaId": 179,
+    "entrada": "2017-10-13",
+    "salida": "2019-09-27"
+  },
+  {
+    "PeliculaId": 180,
+    "entrada": "2017-10-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 181,
+    "entrada": "2017-10-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 182,
+    "entrada": "2017-10-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 183,
+    "entrada": "2017-11-04",
+    "salida": "2019-10-11"
+  },
+  {
+    "PeliculaId": 184,
+    "entrada": "2017-11-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 185,
+    "entrada": "2017-11-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 186,
+    "entrada": "2017-11-17",
+    "salida": "2017-12-15"
+  },
+  {
+    "PeliculaId": 187,
+    "entrada": "2017-11-17",
+    "salida": "2017-12-15"
+  },
+  {
+    "PeliculaId": 188,
+    "entrada": "2017-11-17",
+    "salida": "2019-11-17"
+  },
+  {
+    "PeliculaId": 189,
+    "entrada": "2017-11-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 190,
+    "entrada": "2017-11-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 191,
+    "entrada": "2017-11-17",
+    "salida": "2017-12-15"
+  },
+  {
+    "PeliculaId": 192,
+    "entrada": "2017-12-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 193,
+    "entrada": "2017-12-15",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 194,
+    "entrada": "2017-12-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 195,
+    "entrada": "2017-12-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 196,
+    "entrada": "2017-12-15",
+    "salida": "2018-09-21"
+  },
+  {
+    "PeliculaId": 197,
+    "entrada": "2018-02-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 198,
+    "entrada": "2018-02-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 199,
+    "entrada": "2018-03-02",
+    "salida": "2018-03-10"
+  },
+  {
+    "PeliculaId": 200,
+    "entrada": "2018-03-09",
+    "salida": "2020-03-10"
+  },
+  {
+    "PeliculaId": 201,
+    "entrada": "2018-03-16",
+    "salida": "2019-10-05"
+  },
+  {
+    "PeliculaId": 202,
+    "entrada": "2018-03-23",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 203,
+    "entrada": "2018-03-30",
+    "salida": "2020-04-26"
+  },
+  {
+    "PeliculaId": 204,
+    "entrada": "2018-03-25",
+    "salida": "2018-04-01"
+  },
+  {
+    "PeliculaId": 205,
+    "entrada": "2018-03-25",
+    "salida": "2018-04-01"
+  },
+  {
+    "PeliculaId": 206,
+    "entrada": "2018-03-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 207,
+    "entrada": "2018-03-25",
+    "salida": "2018-04-01"
+  },
+  {
+    "PeliculaId": 208,
+    "entrada": "2018-03-25",
+    "salida": "2018-04-01"
+  },
+  {
+    "PeliculaId": 209,
+    "entrada": "2018-04-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 210,
+    "entrada": "2018-04-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 211,
+    "entrada": "2018-04-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 212,
+    "entrada": "2018-04-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 213,
+    "entrada": "2018-04-27",
+    "salida": "2018-05-27"
+  },
+  {
+    "PeliculaId": 214,
+    "entrada": "2018-05-04",
+    "salida": "2020-05-04"
+  },
+  {
+    "PeliculaId": 215,
+    "entrada": "2018-05-11",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 216,
+    "entrada": "2018-05-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 217,
+    "entrada": "2018-05-25",
+    "salida": "2018-06-25"
+  },
+  {
+    "PeliculaId": 218,
+    "entrada": "2018-06-01",
+    "salida": null
+  },
+  {
+    "PeliculaId": 219,
+    "entrada": "2018-06-08",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 220,
+    "entrada": "2018-06-15",
+    "salida": "2020-06-15"
+  },
+  {
+    "PeliculaId": 221,
+    "entrada": "2018-06-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 222,
+    "entrada": "2018-06-29",
+    "salida": "2018-08-29"
+  },
+  {
+    "PeliculaId": 223,
+    "entrada": "2018-06-29",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 224,
+    "entrada": "2018-07-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 225,
+    "entrada": "2018-07-13",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 226,
+    "entrada": "2018-07-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 227,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 228,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 229,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 230,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 231,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 232,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 233,
+    "entrada": "2018-07-26",
+    "salida": "2018-08-01"
+  },
+  {
+    "PeliculaId": 234,
+    "entrada": "2018-07-26",
+    "salida": "2020-07-26"
+  },
+  {
+    "PeliculaId": 235,
+    "entrada": "2018-07-27",
+    "salida": "2020-07-27"
+  },
+  {
+    "PeliculaId": 236,
+    "entrada": "2018-07-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 237,
+    "entrada": "2018-08-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 238,
+    "entrada": "2018-08-09",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 239,
+    "entrada": "2018-08-16",
+    "salida": "2018-09-16"
+  },
+  {
+    "PeliculaId": 240,
+    "entrada": "2018-08-16",
+    "salida": "2018-09-16"
+  },
+  {
+    "PeliculaId": 241,
+    "entrada": "2018-08-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 242,
+    "entrada": "2018-08-16",
+    "salida": "2018-09-16"
+  },
+  {
+    "PeliculaId": 243,
+    "entrada": "2018-08-16",
+    "salida": "2018-09-16"
+  },
+  {
+    "PeliculaId": 244,
+    "entrada": "2018-08-16",
+    "salida": "2018-09-15"
+  },
+  {
+    "PeliculaId": 245,
+    "entrada": "2018-08-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 246,
+    "entrada": "2018-08-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 247,
+    "entrada": "2018-08-23",
+    "salida": "2018-09-23"
+  },
+  {
+    "PeliculaId": 248,
+    "entrada": "2018-08-23",
+    "salida": "2018-09-23"
+  },
+  {
+    "PeliculaId": 249,
+    "entrada": "2018-08-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 250,
+    "entrada": "2018-09-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 251,
+    "entrada": "2018-09-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 252,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 253,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 254,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 255,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 256,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 257,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 258,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 259,
+    "entrada": "2018-09-14",
+    "salida": "2018-10-15"
+  },
+  {
+    "PeliculaId": 260,
+    "entrada": "2018-09-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 261,
+    "entrada": "2018-09-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 262,
+    "entrada": "2018-09-21",
+    "salida": "2018-09-23"
+  },
+  {
+    "PeliculaId": 263,
+    "entrada": "2018-09-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 264,
+    "entrada": "2018-09-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 265,
+    "entrada": "2018-10-04",
+    "salida": "2020-03-08"
+  },
+  {
+    "PeliculaId": 266,
+    "entrada": "2018-10-04",
+    "salida": "2020-03-31"
+  },
+  {
+    "PeliculaId": 267,
+    "entrada": "2018-10-11",
+    "salida": "2018-11-09"
+  },
+  {
+    "PeliculaId": 268,
+    "entrada": "2018-10-11",
+    "salida": "2018-11-09"
+  },
+  {
+    "PeliculaId": 269,
+    "entrada": "2018-10-11",
+    "salida": "2018-11-09"
+  },
+  {
+    "PeliculaId": 270,
+    "entrada": "2018-10-11",
+    "salida": "2018-11-09"
+  },
+  {
+    "PeliculaId": 271,
+    "entrada": "2018-10-11",
+    "salida": "2018-11-09"
+  },
+  {
+    "PeliculaId": 272,
+    "entrada": "2018-10-11",
+    "salida": "2018-11-09"
+  },
+  {
+    "PeliculaId": 273,
+    "entrada": "2018-10-11",
+    "salida": "2018-12-27"
+  },
+  {
+    "PeliculaId": 274,
+    "entrada": "2018-10-11",
+    "salida": "2019-10-11"
+  },
+  {
+    "PeliculaId": 275,
+    "entrada": "2018-10-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 276,
+    "entrada": "2018-10-19",
+    "salida": "2019-10-19"
+  },
+  {
+    "PeliculaId": 277,
+    "entrada": "2018-10-25",
+    "salida": "2019-10-11"
+  },
+  {
+    "PeliculaId": 278,
+    "entrada": "2018-10-25",
+    "salida": "2018-11-25"
+  },
+  {
+    "PeliculaId": 279,
+    "entrada": "2018-11-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 280,
+    "entrada": "2018-11-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 281,
+    "entrada": "2018-11-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 282,
+    "entrada": "2018-11-10",
+    "salida": null
+  },
+  {
+    "PeliculaId": 283,
+    "entrada": "2018-11-10",
+    "salida": null
+  },
+  {
+    "PeliculaId": 284,
+    "entrada": "2018-11-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 285,
+    "entrada": "2018-11-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 286,
+    "entrada": "2018-11-29",
+    "salida": "2018-12-02"
+  },
+  {
+    "PeliculaId": 287,
+    "entrada": "2018-11-29",
+    "salida": "2018-12-02"
+  },
+  {
+    "PeliculaId": 288,
+    "entrada": "2018-11-29",
+    "salida": null
+  },
+  {
+    "PeliculaId": 289,
+    "entrada": "2018-11-29",
+    "salida": null
+  },
+  {
+    "PeliculaId": 290,
+    "entrada": "2018-11-30",
+    "salida": "2018-12-01"
+  },
+  {
+    "PeliculaId": 291,
+    "entrada": "2018-12-07",
+    "salida": "2018-12-09"
+  },
+  {
+    "PeliculaId": 292,
+    "entrada": "2018-12-07",
+    "salida": "2018-12-09"
+  },
+  {
+    "PeliculaId": 293,
+    "entrada": "2018-12-07",
+    "salida": "2018-12-09"
+  },
+  {
+    "PeliculaId": 294,
+    "entrada": "2018-12-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 295,
+    "entrada": "2018-12-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 296,
+    "entrada": "2018-12-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 297,
+    "entrada": "2018-12-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 298,
+    "entrada": "2018-12-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 299,
+    "entrada": "2018-12-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 300,
+    "entrada": "2019-01-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 301,
+    "entrada": "2019-01-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 302,
+    "entrada": "2019-01-10",
+    "salida": null
+  },
+  {
+    "PeliculaId": 303,
+    "entrada": "2019-01-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 304,
+    "entrada": "2019-01-24",
+    "salida": "2019-10-15"
+  },
+  {
+    "PeliculaId": 305,
+    "entrada": "2019-01-31",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 82,
+    "entrada": "2019-02-07",
+    "salida": null
+  },
+  {
+    "PeliculaId": 109,
+    "entrada": "2018-09-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 100,
+    "entrada": "2018-09-27",
+    "salida": "2020-04-14"
+  },
+  {
+    "PeliculaId": 169,
+    "entrada": "2019-01-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 162,
+    "entrada": "2018-02-26",
+    "salida": "2020-03-03"
+  },
+  {
+    "PeliculaId": 127,
+    "entrada": "2019-03-01",
+    "salida": "2019-03-08"
+  },
+  {
+    "PeliculaId": 128,
+    "entrada": "2019-03-01",
+    "salida": "2019-03-08"
+  },
+  {
+    "PeliculaId": 306,
+    "entrada": "2019-02-14",
+    "salida": "2019-10-05"
+  },
+  {
+    "PeliculaId": 307,
+    "entrada": "2019-02-21",
+    "salida": "2019-08-17"
+  },
+  {
+    "PeliculaId": 308,
+    "entrada": "2019-03-01",
+    "salida": "2019-03-08"
+  },
+  {
+    "PeliculaId": 309,
+    "entrada": "2019-03-07",
+    "salida": null
+  },
+  {
+    "PeliculaId": 310,
+    "entrada": "2019-03-10",
+    "salida": null
+  },
+  {
+    "PeliculaId": 311,
+    "entrada": "2019-03-10",
+    "salida": "2020-03-10"
+  },
+  {
+    "PeliculaId": 312,
+    "entrada": "2019-03-12",
+    "salida": null
+  },
+  {
+    "PeliculaId": 313,
+    "entrada": "2019-03-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 314,
+    "entrada": "2019-03-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 315,
+    "entrada": "2019-03-19",
+    "salida": "2019-08-17"
+  },
+  {
+    "PeliculaId": 316,
+    "entrada": "2019-03-20",
+    "salida": "2019-03-25"
+  },
+  {
+    "PeliculaId": 317,
+    "entrada": "2019-03-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 318,
+    "entrada": "2019-03-26",
+    "salida": "2019-04-26"
+  },
+  {
+    "PeliculaId": 319,
+    "entrada": "2019-03-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 124,
+    "entrada": "2019-03-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 320,
+    "entrada": "2019-04-03",
+    "salida": "2019-05-03"
+  },
+  {
+    "PeliculaId": 321,
+    "entrada": "2019-04-03",
+    "salida": "2019-05-03"
+  },
+  {
+    "PeliculaId": 322,
+    "entrada": "2019-04-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 323,
+    "entrada": "2019-04-10",
+    "salida": "2019-05-10"
+  },
+  {
+    "PeliculaId": 324,
+    "entrada": "2019-04-10",
+    "salida": "2019-05-10"
+  },
+  {
+    "PeliculaId": 325,
+    "entrada": "2019-04-11",
+    "salida": null
+  },
+  {
+    "PeliculaId": 326,
+    "entrada": "2019-04-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 327,
+    "entrada": "2019-04-17",
+    "salida": "2019-05-17"
+  },
+  {
+    "PeliculaId": 328,
+    "entrada": "2019-04-17",
+    "salida": "2019-05-17"
+  },
+  {
+    "PeliculaId": 329,
+    "entrada": "2019-04-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 330,
+    "entrada": "2019-04-23",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 331,
+    "entrada": "2019-04-24",
+    "salida": "2019-05-24"
+  },
+  {
+    "PeliculaId": 332,
+    "entrada": "2019-04-25",
+    "salida": "2019-10-01"
+  },
+  {
+    "PeliculaId": 333,
+    "entrada": "2019-05-01",
+    "salida": null
+  },
+  {
+    "PeliculaId": 334,
+    "entrada": "2019-05-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 244,
+    "entrada": "2019-05-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 335,
+    "entrada": "2019-05-07",
+    "salida": "2020-05-07"
+  },
+  {
+    "PeliculaId": 336,
+    "entrada": "2019-05-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 337,
+    "entrada": "2019-05-14",
+    "salida": "2020-05-14"
+  },
+  {
+    "PeliculaId": 338,
+    "entrada": "2019-05-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 339,
+    "entrada": "2019-05-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 340,
+    "entrada": "2019-05-21",
+    "salida": "2020-05-21"
+  },
+  {
+    "PeliculaId": 341,
+    "entrada": "2019-05-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 342,
+    "entrada": "2019-05-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 343,
+    "entrada": "2019-05-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 344,
+    "entrada": "2019-05-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 345,
+    "entrada": "2019-05-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 346,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 347,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 348,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 349,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 350,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 351,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 352,
+    "entrada": "2019-06-05",
+    "salida": "2019-07-05"
+  },
+  {
+    "PeliculaId": 353,
+    "entrada": "2019-06-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 354,
+    "entrada": "2019-06-25",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 355,
+    "entrada": "2019-06-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 356,
+    "entrada": "2019-06-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 137,
+    "entrada": "2019-06-13",
+    "salida": "2020-06-13"
+  },
+  {
+    "PeliculaId": 17,
+    "entrada": "2019-06-13",
+    "salida": "2019-06-16"
+  },
+  {
+    "PeliculaId": 45,
+    "entrada": "2019-04-01",
+    "salida": null
+  },
+  {
+    "PeliculaId": 357,
+    "entrada": "2019-07-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 358,
+    "entrada": "2019-07-07",
+    "salida": null
+  },
+  {
+    "PeliculaId": 359,
+    "entrada": "2019-07-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 360,
+    "entrada": "2019-07-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 361,
+    "entrada": "2019-07-18",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 362,
+    "entrada": "2019-07-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 363,
+    "entrada": "2019-07-25",
+    "salida": "2019-08-20"
+  },
+  {
+    "PeliculaId": 161,
+    "entrada": "2019-07-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 157,
+    "entrada": "2019-08-13",
+    "salida": "2020-01-08"
+  },
+  {
+    "PeliculaId": 364,
+    "entrada": "2019-08-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 365,
+    "entrada": "2019-08-06",
+    "salida": "2019-08-31"
+  },
+  {
+    "PeliculaId": 366,
+    "entrada": "2019-08-08",
+    "salida": "2019-08-14"
+  },
+  {
+    "PeliculaId": 367,
+    "entrada": "2019-08-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 368,
+    "entrada": "2019-08-12",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 369,
+    "entrada": "2019-08-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 370,
+    "entrada": "2019-08-15",
+    "salida": "2019-08-21"
+  },
+  {
+    "PeliculaId": 371,
+    "entrada": "2019-08-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 372,
+    "entrada": "2019-08-22",
+    "salida": "2019-08-28"
+  },
+  {
+    "PeliculaId": 373,
+    "entrada": "2019-08-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 374,
+    "entrada": "2019-08-29",
+    "salida": "2019-09-04"
+  },
+  {
+    "PeliculaId": 375,
+    "entrada": "2019-09-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 376,
+    "entrada": "2019-09-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 377,
+    "entrada": "2019-09-05",
+    "salida": "2019-09-30"
+  },
+  {
+    "PeliculaId": 378,
+    "entrada": "2019-09-10",
+    "salida": null
+  },
+  {
+    "PeliculaId": 379,
+    "entrada": "2019-09-12",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 380,
+    "entrada": "2019-09-16",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 381,
+    "entrada": "2019-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 382,
+    "entrada": "2019-09-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 383,
+    "entrada": "2019-09-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 384,
+    "entrada": "2019-09-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 168,
+    "entrada": "2019-09-05",
+    "salida": null
+  },
+  {
+    "PeliculaId": 110,
+    "entrada": "2019-09-05",
+    "salida": null
+  },
+  {
+    "PeliculaId": 49,
+    "entrada": "2019-09-05",
+    "salida": null
+  },
+  {
+    "PeliculaId": 143,
+    "entrada": "2019-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 63,
+    "entrada": "2019-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 133,
+    "entrada": "2019-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 135,
+    "entrada": "2019-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 69,
+    "entrada": "2019-09-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 385,
+    "entrada": "2019-10-03",
+    "salida": "2019-10-09"
+  },
+  {
+    "PeliculaId": 386,
+    "entrada": "2019-10-10",
+    "salida": "2019-10-16"
+  },
+  {
+    "PeliculaId": 387,
+    "entrada": "2019-10-11",
+    "salida": "2019-11-30"
+  },
+  {
+    "PeliculaId": 388,
+    "entrada": "2019-10-14",
+    "salida": "2019-10-31"
+  },
+  {
+    "PeliculaId": 389,
+    "entrada": "2019-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 390,
+    "entrada": "2019-10-17",
+    "salida": "2019-10-23"
+  },
+  {
+    "PeliculaId": 391,
+    "entrada": "2019-10-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 392,
+    "entrada": "2019-10-24",
+    "salida": "2019-10-30"
+  },
+  {
+    "PeliculaId": 393,
+    "entrada": "2019-10-26",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 394,
+    "entrada": "2019-10-29",
+    "salida": "2019-11-05"
+  },
+  {
+    "PeliculaId": 395,
+    "entrada": "2019-10-29",
+    "salida": null
+  },
+  {
+    "PeliculaId": 396,
+    "entrada": "2019-10-31",
+    "salida": "2019-11-06"
+  },
+  {
+    "PeliculaId": 171,
+    "entrada": "2019-10-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 62,
+    "entrada": "2019-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 153,
+    "entrada": "2019-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 85,
+    "entrada": "2019-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 89,
+    "entrada": "2019-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 179,
+    "entrada": "2019-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 174,
+    "entrada": "2019-10-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 146,
+    "entrada": "2019-10-29",
+    "salida": null
+  },
+  {
+    "PeliculaId": 397,
+    "entrada": "2019-11-07",
+    "salida": "2019-11-13"
+  },
+  {
+    "PeliculaId": 398,
+    "entrada": "2019-11-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 399,
+    "entrada": "2019-11-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 400,
+    "entrada": "2019-11-13",
+    "salida": "2019-12-06"
+  },
+  {
+    "PeliculaId": 401,
+    "entrada": "2019-11-13",
+    "salida": "2019-11-20"
+  },
+  {
+    "PeliculaId": 402,
+    "entrada": "2019-11-13",
+    "salida": "2019-11-21"
+  },
+  {
+    "PeliculaId": 403,
+    "entrada": "2019-11-13",
+    "salida": "2019-12-13"
+  },
+  {
+    "PeliculaId": 404,
+    "entrada": "2019-11-14",
+    "salida": "2019-11-20"
+  },
+  {
+    "PeliculaId": 405,
+    "entrada": "2019-11-18",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 406,
+    "entrada": "2019-11-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 407,
+    "entrada": "2019-11-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 408,
+    "entrada": "2019-11-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 409,
+    "entrada": "2019-11-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 410,
+    "entrada": "2019-11-28",
+    "salida": "2020-02-02"
+  },
+  {
+    "PeliculaId": 411,
+    "entrada": "2019-11-28",
+    "salida": "2019-12-04"
+  },
+  {
+    "PeliculaId": 412,
+    "entrada": "2019-12-05",
+    "salida": "2019-12-18"
+  },
+  {
+    "PeliculaId": 413,
+    "entrada": "2019-12-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 414,
+    "entrada": "2019-12-10",
+    "salida": "2019-12-31"
+  },
+  {
+    "PeliculaId": 415,
+    "entrada": "2019-12-10",
+    "salida": "2019-12-31"
+  },
+  {
+    "PeliculaId": 416,
+    "entrada": "2019-12-12",
+    "salida": "2019-12-18"
+  },
+  {
+    "PeliculaId": 417,
+    "entrada": "2019-12-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 418,
+    "entrada": "2019-12-18",
+    "salida": null
+  },
+  {
+    "PeliculaId": 419,
+    "entrada": "2019-12-19",
+    "salida": "2019-12-27"
+  },
+  {
+    "PeliculaId": 420,
+    "entrada": "2019-12-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 421,
+    "entrada": "2019-12-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 422,
+    "entrada": "2019-12-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 107,
+    "entrada": "2019-12-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 103,
+    "entrada": "2019-12-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 423,
+    "entrada": "2020-01-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 424,
+    "entrada": "2020-01-07",
+    "salida": null
+  },
+  {
+    "PeliculaId": 425,
+    "entrada": "2020-01-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 426,
+    "entrada": "2020-01-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 427,
+    "entrada": "2020-01-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 428,
+    "entrada": "2020-01-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 429,
+    "entrada": "2020-01-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 430,
+    "entrada": "2020-01-31",
+    "salida": null
+  },
+  {
+    "PeliculaId": 431,
+    "entrada": "2020-02-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 432,
+    "entrada": "2020-02-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 46,
+    "entrada": "2019-04-12",
+    "salida": "2020-02-24"
+  },
+  {
+    "PeliculaId": 88,
+    "entrada": "2020-01-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 243,
+    "entrada": "2020-01-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 240,
+    "entrada": "2019-10-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 262,
+    "entrada": "2020-03-24",
+    "salida": "2020-04-08"
+  },
+  {
+    "PeliculaId": 397,
+    "entrada": "2020-03-29",
+    "salida": "2020-04-20"
+  },
+  {
+    "PeliculaId": 308,
+    "entrada": "2020-03-17",
+    "salida": "2020-03-31"
+  },
+  {
+    "PeliculaId": 433,
+    "entrada": "2020-03-05",
+    "salida": null
+  },
+  {
+    "PeliculaId": 434,
+    "entrada": "2020-03-10",
+    "salida": "2020-04-10"
+  },
+  {
+    "PeliculaId": 435,
+    "entrada": "2020-03-11",
+    "salida": "2020-04-22"
+  },
+  {
+    "PeliculaId": 436,
+    "entrada": "2020-03-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 437,
+    "entrada": "2020-03-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 438,
+    "entrada": "2020-03-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 439,
+    "entrada": "2020-03-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 440,
+    "entrada": "2020-03-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 441,
+    "entrada": "2020-03-31",
+    "salida": "2020-04-15"
+  },
+  {
+    "PeliculaId": 232,
+    "entrada": "2019-07-11",
+    "salida": null
+  },
+  {
+    "PeliculaId": 385,
+    "entrada": "2020-04-07",
+    "salida": "2020-04-30"
+  },
+  {
+    "PeliculaId": 290,
+    "entrada": "2020-04-05",
+    "salida": "2020-04-05"
+  },
+  {
+    "PeliculaId": 286,
+    "entrada": "2020-04-02",
+    "salida": null
+  },
+  {
+    "PeliculaId": 442,
+    "entrada": "2020-04-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 443,
+    "entrada": "2020-04-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 444,
+    "entrada": "2020-04-03",
+    "salida": null
+  },
+  {
+    "PeliculaId": 445,
+    "entrada": "2020-04-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 446,
+    "entrada": "2020-04-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 447,
+    "entrada": "2020-04-14",
+    "salida": "2020-04-28"
+  },
+  {
+    "PeliculaId": 448,
+    "entrada": "2020-04-15",
+    "salida": "2020-04-30"
+  },
+  {
+    "PeliculaId": 449,
+    "entrada": "2020-04-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 450,
+    "entrada": "2020-04-21",
+    "salida": "2020-05-05"
+  },
+  {
+    "PeliculaId": 451,
+    "entrada": "2020-04-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 452,
+    "entrada": "2020-04-28",
+    "salida": "2020-05-11"
+  },
+  {
+    "PeliculaId": 453,
+    "entrada": "2020-04-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 454,
+    "entrada": "2020-05-01",
+    "salida": "2020-05-15"
+  },
+  {
+    "PeliculaId": 455,
+    "entrada": "2020-05-01",
+    "salida": "2020-05-15"
+  },
+  {
+    "PeliculaId": 456,
+    "entrada": "2020-05-07",
+    "salida": null
+  },
+  {
+    "PeliculaId": 457,
+    "entrada": "2020-05-12",
+    "salida": "2020-05-18"
+  },
+  {
+    "PeliculaId": 458,
+    "entrada": "2020-05-12",
+    "salida": "2020-05-18"
+  },
+  {
+    "PeliculaId": 459,
+    "entrada": "2020-05-12",
+    "salida": "2020-05-18"
+  },
+  {
+    "PeliculaId": 460,
+    "entrada": "2020-05-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 461,
+    "entrada": "2020-05-15",
+    "salida": "2020-05-31"
+  },
+  {
+    "PeliculaId": 462,
+    "entrada": "2020-05-15",
+    "salida": "2020-05-31"
+  },
+  {
+    "PeliculaId": 463,
+    "entrada": "2020-05-15",
+    "salida": "2020-05-31"
+  },
+  {
+    "PeliculaId": 464,
+    "entrada": "2020-05-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 465,
+    "entrada": "2020-05-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 466,
+    "entrada": "2020-05-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 467,
+    "entrada": "2020-05-26",
+    "salida": "2020-06-01"
+  },
+  {
+    "PeliculaId": 468,
+    "entrada": "2020-05-26",
+    "salida": "2020-06-01"
+  },
+  {
+    "PeliculaId": 469,
+    "entrada": "2020-05-26",
+    "salida": "2020-06-01"
+  },
+  {
+    "PeliculaId": 470,
+    "entrada": "2020-05-28",
+    "salida": "2020-06-28"
+  },
+  {
+    "PeliculaId": 471,
+    "entrada": "2020-05-29",
+    "salida": "2020-06-28"
+  },
+  {
+    "PeliculaId": 392,
+    "entrada": "2020-05-15",
+    "salida": "2020-05-31"
+  },
+  {
+    "PeliculaId": 472,
+    "entrada": "2020-06-01",
+    "salida": "2020-06-14"
+  },
+  {
+    "PeliculaId": 473,
+    "entrada": "2020-06-01",
+    "salida": "2020-06-14"
+  },
+  {
+    "PeliculaId": 474,
+    "entrada": "2020-06-01",
+    "salida": "2020-06-14"
+  },
+  {
+    "PeliculaId": 475,
+    "entrada": "2020-06-01",
+    "salida": "2020-06-14"
+  },
+  {
+    "PeliculaId": 476,
+    "entrada": "2020-06-01",
+    "salida": "2020-06-14"
+  },
+  {
+    "PeliculaId": 477,
+    "entrada": "2020-06-02",
+    "salida": "2020-06-09"
+  },
+  {
+    "PeliculaId": 478,
+    "entrada": "2020-06-04",
+    "salida": null
+  },
+  {
+    "PeliculaId": 479,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 480,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 481,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 482,
+    "entrada": "2020-06-15",
+    "salida": "2020-03-30"
+  },
+  {
+    "PeliculaId": 483,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 484,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 485,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 486,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 487,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 488,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 489,
+    "entrada": "2020-06-15",
+    "salida": "2020-07-03"
+  },
+  {
+    "PeliculaId": 490,
+    "entrada": "2020-06-15",
+    "salida": "2020-06-19"
+  },
+  {
+    "PeliculaId": 491,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 492,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 493,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 494,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 495,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 496,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 497,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 498,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 499,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 500,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 501,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 502,
+    "entrada": "2020-06-19",
+    "salida": "2020-07-19"
+  },
+  {
+    "PeliculaId": 503,
+    "entrada": "2020-06-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 504,
+    "entrada": "2020-06-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 505,
+    "entrada": "2020-06-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 506,
+    "entrada": "2020-06-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 507,
+    "entrada": "2020-06-30",
+    "salida": "2020-07-30"
+  },
+  {
+    "PeliculaId": 508,
+    "entrada": "2020-06-30",
+    "salida": "2020-07-30"
+  },
+  {
+    "PeliculaId": 509,
+    "entrada": "2020-06-30",
+    "salida": "2020-07-30"
+  },
+  {
+    "PeliculaId": 510,
+    "entrada": "2020-06-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 142,
+    "entrada": "2020-06-02",
+    "salida": "2020-06-09"
+  },
+  {
+    "PeliculaId": 204,
+    "entrada": "2020-06-02",
+    "salida": "2020-06-09"
+  },
+  {
+    "PeliculaId": 392,
+    "entrada": "2020-06-18",
+    "salida": "2020-06-25"
+  },
+  {
+    "PeliculaId": 396,
+    "entrada": "2020-06-11",
+    "salida": "2020-06-18"
+  },
+  {
+    "PeliculaId": 511,
+    "entrada": "2020-07-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 512,
+    "entrada": "2020-07-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 513,
+    "entrada": "2020-07-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 514,
+    "entrada": "2020-07-25",
+    "salida": "2020-08-01"
+  },
+  {
+    "PeliculaId": 515,
+    "entrada": "2020-07-25",
+    "salida": "2020-08-01"
+  },
+  {
+    "PeliculaId": 516,
+    "entrada": "2020-07-25",
+    "salida": "2020-08-01"
+  },
+  {
+    "PeliculaId": 517,
+    "entrada": "2020-07-25",
+    "salida": "2020-08-01"
+  },
+  {
+    "PeliculaId": 518,
+    "entrada": "2020-07-31",
+    "salida": "2020-08-31"
+  },
+  {
+    "PeliculaId": 217,
+    "entrada": "2020-06-11",
+    "salida": "2018-07-11"
+  },
+  {
+    "PeliculaId": 233,
+    "entrada": "2020-07-09",
+    "salida": "2020-07-29"
+  },
+  {
+    "PeliculaId": 519,
+    "entrada": "2020-08-06",
+    "salida": null
+  },
+  {
+    "PeliculaId": 520,
+    "entrada": "2020-08-07",
+    "salida": null
+  },
+  {
+    "PeliculaId": 521,
+    "entrada": "2020-08-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 522,
+    "entrada": "2020-08-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 523,
+    "entrada": "2020-08-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 524,
+    "entrada": "2020-08-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 525,
+    "entrada": "2020-08-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 526,
+    "entrada": "2020-08-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 527,
+    "entrada": "2020-08-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 528,
+    "entrada": "2020-08-14",
+    "salida": "2020-08-22"
+  },
+  {
+    "PeliculaId": 529,
+    "entrada": "2020-08-15",
+    "salida": "2020-08-22"
+  },
+  {
+    "PeliculaId": 530,
+    "entrada": "2020-08-15",
+    "salida": "2020-08-22"
+  },
+  {
+    "PeliculaId": 531,
+    "entrada": "2020-08-15",
+    "salida": "2020-08-22"
+  },
+  {
+    "PeliculaId": 532,
+    "entrada": "2020-08-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 533,
+    "entrada": "2020-08-21",
+    "salida": null
+  },
+  {
+    "PeliculaId": 534,
+    "entrada": "2020-08-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 535,
+    "entrada": "2020-08-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 536,
+    "entrada": "2020-08-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 537,
+    "entrada": "2020-08-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 538,
+    "entrada": "2020-08-27",
+    "salida": null
+  }
+  ,
+  {
+    "PeliculaId": 363,
+    "entrada": "2020-08-15",
+    "salida": "2020-08-22"
+  }
 ]
