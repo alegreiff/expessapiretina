@@ -3843,181 +3843,181 @@
 {"titulo":"Medias blancas", "year":2017,"genero":"Ficción","formato":"Cortometraje","duracion":15,"pais":"Colombia"},
 {"titulo":"Desde el sonido", "year":2011,"genero":"Documental","formato":"Largometraje","duracion":50,"pais":"Perú"},
 {
-  "titulo": "El gran líder",
-  "year": 2014,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 10,
-  "pais": "México"
-},
-{
-  "titulo": "Maten al león",
-  "year": 1975,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 122,
-  "pais": "México"
-},
-{
-  "titulo": "El último comandante de los quintines",
-  "year": 2018,
-  "genero": "Documental",
-  "formato": "Cortometraje",
-  "duracion": 30,
-  "pais": "Colombia"
-},
-{
-  "titulo": "Vera",
-  "year": 2003,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 84,
-  "pais": "México"
-},
-{
-  "titulo": "Tres Gatos",
-  "year": 2014,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 13,
-  "pais": "Chile"
-},
-{
-  "titulo": "Fantasía Dubois",
-  "year": 2020,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 15,
-  "pais": "Chile"
-},
-{
-  "titulo": "Medea",
-  "year": 2019,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 75,
-  "pais": "Chile"
-},
-{
-  "titulo": "Nadar de noche",
-  "year": 2019,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 20,
-  "pais": "Chile"
-},
-{
-  "titulo": "Roslik y el pueblo de las caras sospechosamente rusas",
-  "year": 2017,
-  "genero": "Documental",
-  "formato": "Largometraje",
-  "duracion": 87,
-  "pais": "Uruguay"
-},
-{
-  "titulo": "El Destello de la Luna",
-  "year": 2018,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 93,
-  "pais": "Chile"
-},
-{
-  "titulo": "Estrellas fijas",
-  "year": 2016,
-  "genero": "Documental",
-  "formato": "Largometraje",
-  "duracion": 60,
-  "pais": "Chile"
-},
-{
-  "titulo": "El verano del León eléctrico",
-  "year": 2018,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 22,
-  "pais": "chile"
-},
-{
-  "titulo": "Las zonas grises",
-  "year": 2018,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 17,
-  "pais": "Colombia"
-},
-{
-  "titulo": "Ausencia",
-  "year": 2018,
-  "genero": "Ficción",
-  "formato": "Cortometraje",
-  "duracion": 17,
-  "pais": "Colombia"
-},
-{
-  "titulo": "El sueño de Sonia",
-  "year": 2015,
-  "genero": "Documental",
-  "formato": "Cortometraje",
-  "duracion": 25,
-  "pais": "Perú"
-},
-{
-  "titulo": "Amenaza Nuclear",
-  "year": 1981,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 102,
-  "pais": "Colombia"
-},
-{
-  "titulo": "La historia del Baúl Rosado",
-  "year": 2005,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 97,
-  "pais": "Colombia"
-},
-{
-  "titulo": "El mal de los siete días",
-  "year": 2017,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 65,
-  "pais": "Colombia"
-},
-{
-  "titulo": "Solo te puedo mostrar el color",
-  "year": 2014,
-  "genero": "Documental",
-  "formato": "Cortometraje",
-  "duracion": 26,
-  "pais": "Perú"
-},
-{
-  "titulo": "Funeral siniestro",
-  "year": 1977,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 101,
-  "pais": "Colombia"
-},
-{
-  "titulo": "Bogotá 2016",
-  "year": 2001,
-  "genero": "Ficción",
-  "formato": "Largometraje",
-  "duracion": 82,
-  "pais": "Colombia"
-},
-{
-  "titulo": "El corral",
-  "year": 2019,
-  "genero": "Documental",
-  "formato": "Cortometraje",
-  "duracion": 22,
-  "pais": "Colombia"
-}
+   "titulo": "El gran líder",
+   "year": 2014,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 10,
+   "pais": "México"
+ },
+ {
+   "titulo": "Maten al león",
+   "year": 1975,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 122,
+   "pais": "México"
+ },
+ {
+   "titulo": "El último comandante de los quintines",
+   "year": 2018,
+   "genero": "Documental",
+   "formato": "Cortometraje",
+   "duracion": 30,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "Vera",
+   "year": 2003,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 84,
+   "pais": "México"
+ },
+ {
+   "titulo": "Tres Gatos",
+   "year": 2014,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 13,
+   "pais": "Chile"
+ },
+ {
+   "titulo": "Fantasía Dubois",
+   "year": 2020,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 15,
+   "pais": "Chile"
+ },
+ {
+   "titulo": "Medea",
+   "year": 2019,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 75,
+   "pais": "Chile"
+ },
+ {
+   "titulo": "Nadar de noche",
+   "year": 2019,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 20,
+   "pais": "Chile"
+ },
+ {
+   "titulo": "Roslik y el pueblo de las caras sospechosamente rusas",
+   "year": 2017,
+   "genero": "Documental",
+   "formato": "Largometraje",
+   "duracion": 87,
+   "pais": "Uruguay"
+ },
+ {
+   "titulo": "El Destello de la Luna",
+   "year": 2018,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 93,
+   "pais": "Chile"
+ },
+ {
+   "titulo": "Estrellas fijas",
+   "year": 2016,
+   "genero": "Documental",
+   "formato": "Largometraje",
+   "duracion": 60,
+   "pais": "Chile"
+ },
+ {
+   "titulo": "El verano del León eléctrico",
+   "year": 2018,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 22,
+   "pais": "chile"
+ },
+ {
+   "titulo": "Las zonas grises",
+   "year": 2018,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 17,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "Ausencia",
+   "year": 2018,
+   "genero": "Ficción",
+   "formato": "Cortometraje",
+   "duracion": 17,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "El sueño de Sonia",
+   "year": 2015,
+   "genero": "Documental",
+   "formato": "Cortometraje",
+   "duracion": 25,
+   "pais": "Perú"
+ },
+ {
+   "titulo": "Amenaza Nuclear",
+   "year": 1981,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 102,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "La historia del Baúl Rosado",
+   "year": 2005,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 97,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "El mal de los siete días",
+   "year": 2017,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 65,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "Solo te puedo mostrar el color",
+   "year": 2014,
+   "genero": "Documental",
+   "formato": "Cortometraje",
+   "duracion": 26,
+   "pais": "Perú"
+ },
+ {
+   "titulo": "Funeral siniestro",
+   "year": 1977,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 101,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "Bogotá 2016",
+   "year": 2001,
+   "genero": "Ficción",
+   "formato": "Largometraje",
+   "duracion": 82,
+   "pais": "Colombia"
+ },
+ {
+   "titulo": "El corral",
+   "year": 2019,
+   "genero": "Documental",
+   "formato": "Cortometraje",
+   "duracion": 22,
+   "pais": "Colombia"
+ }
 
 ]
 

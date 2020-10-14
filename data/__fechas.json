@@ -2949,5 +2949,115 @@
     "PeliculaId": 363,
     "entrada": "2020-08-15",
     "salida": "2020-08-22"
+  },
+  {
+    "PeliculaId": 539,
+    "entrada": "2020-09-03",
+    "salida": "2020-10-03"
+  },
+  {
+    "PeliculaId": 540,
+    "entrada": "2020-09-04",
+    "salida": "2020-10-04"
+  },
+  {
+    "PeliculaId": 541,
+    "entrada": "2020-09-10",
+    "salida": null
+  },
+  {
+    "PeliculaId": 542,
+    "entrada": "2020-09-14",
+    "salida": null
+  },
+  {
+    "PeliculaId": 543,
+    "entrada": "2020-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 544,
+    "entrada": "2020-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 545,
+    "entrada": "2020-09-17",
+    "salida": "2020-09-21"
+  },
+  {
+    "PeliculaId": 546,
+    "entrada": "2020-09-17",
+    "salida": "2020-09-20"
+  },
+  {
+    "PeliculaId": 547,
+    "entrada": "2020-09-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 548,
+    "entrada": "2020-09-17",
+    "salida": "2020-09-18"
+  },
+  {
+    "PeliculaId": 549,
+    "entrada": "2020-09-17",
+    "salida": "2020-09-20"
+  },
+  {
+    "PeliculaId": 550,
+    "entrada": "2020-09-22",
+    "salida": "2020-09-29"
+  },
+  {
+    "PeliculaId": 551,
+    "entrada": "2020-09-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 552,
+    "entrada": "2020-09-22",
+    "salida": null
+  },
+  {
+    "PeliculaId": 553,
+    "entrada": "2020-09-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 554,
+    "entrada": "2020-09-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 555,
+    "entrada": "2020-09-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 556,
+    "entrada": "2020-09-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 557,
+    "entrada": "2020-09-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 558,
+    "entrada": "2020-09-29",
+    "salida": "2020-10-05"
+  },
+  {
+    "PeliculaId": 559,
+    "entrada": "2020-09-29",
+    "salida": "2020-10-05"
+  },
+  {
+    "PeliculaId": 560,
+    "entrada": "2020-09-29",
+    "salida": null
   }
 ]
