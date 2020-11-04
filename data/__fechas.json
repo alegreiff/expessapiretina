@@ -1102,7 +1102,7 @@
   {
     "PeliculaId": 221,
     "entrada": "2018-06-22",
-    "salida": null
+    "salida": "2020-10-27"
   },
   {
     "PeliculaId": 222,
@@ -1372,7 +1372,7 @@
   {
     "PeliculaId": 275,
     "entrada": "2018-10-18",
-    "salida": null
+    "salida": "2020-09-27"
   },
   {
     "PeliculaId": 276,
@@ -2968,7 +2968,7 @@
   {
     "PeliculaId": 542,
     "entrada": "2020-09-14",
-    "salida": null
+    "salida": "2020-10-14"
   },
   {
     "PeliculaId": 543,
@@ -3028,12 +3028,12 @@
   {
     "PeliculaId": 554,
     "entrada": "2020-09-25",
-    "salida": null
+    "salida": "2020-10-25"
   },
   {
     "PeliculaId": 555,
     "entrada": "2020-09-26",
-    "salida": null
+    "salida": "2020-10-01"
   },
   {
     "PeliculaId": 556,
@@ -3064,5 +3064,282 @@
     "PeliculaId": 233,
     "entrada": "2020-09-27",
     "salida": "2020-10-02"
+  },
+
+
+
+
+  {
+    "PeliculaId": 561,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 562,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 563,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 564,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 565,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 566,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 567,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 568,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 569,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 570,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 571,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 572,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 573,
+    "estreno": "2020-10-06",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 574,
+    "estreno": "2020-10-06",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 575,
+    "estreno": "2020-10-08",
+    "salida": "2020-10-10"
+  },
+  {
+    "PeliculaId": 576,
+    "estreno": "2020-10-08",
+    "salida": "2020-10-10"
+  },
+  {
+    "PeliculaId": 577,
+    "estreno": "2020-10-08",
+    "salida": null
+  },
+  {
+    "PeliculaId": 578,
+    "estreno": "2020-10-08",
+    "salida": "2020-10-10"
+  },
+  {
+    "PeliculaId": 579,
+    "estreno": "2020-10-08",
+    "salida": "2020-10-10"
+  },
+  {
+    "PeliculaId": 580,
+    "estreno": "2020-10-08",
+    "salida": "2020-10-13"
+  },
+  {
+    "PeliculaId": 581,
+    "estreno": "2020-10-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 582,
+    "estreno": "2020-10-12",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 583,
+    "estreno": "2020-10-12",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 584,
+    "estreno": "2020-10-13",
+    "salida": null
+  },
+  {
+    "PeliculaId": 585,
+    "estreno": "2020-10-13",
+    "salida": "2020-10-19"
+  },
+  {
+    "PeliculaId": 586,
+    "estreno": "2020-10-13",
+    "salida": "2020-10-13"
+  },
+  {
+    "PeliculaId": 587,
+    "estreno": "2020-10-13",
+    "salida": "2020-10-13"
+  },
+  {
+    "PeliculaId": 588,
+    "estreno": "2020-10-14",
+    "salida": "2020-10-14"
+  },
+  {
+    "PeliculaId": 589,
+    "estreno": "2020-10-14",
+    "salida": "2020-10-14"
+  },
+  {
+    "PeliculaId": 590,
+    "estreno": "2020-10-15",
+    "salida": "2020-10-15"
+  },
+  {
+    "PeliculaId": 591,
+    "estreno": "2020-10-15",
+    "salida": "2020-10-15"
+  },
+  {
+    "PeliculaId": 592,
+    "estreno": "2020-10-15",
+    "salida": null
+  },
+  {
+    "PeliculaId": 593,
+    "estreno": "2020-10-16",
+    "salida": "2020-10-16"
+  },
+  {
+    "PeliculaId": 594,
+    "estreno": "2020-10-16",
+    "salida": "2020-10-16"
+  },
+  {
+    "PeliculaId": 595,
+    "estreno": "2020-10-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 596,
+    "estreno": "2020-10-16",
+    "salida": null
+  },
+  {
+    "PeliculaId": 597,
+    "estreno": "2020-10-20",
+    "salida": "2020-10-26"
+  },
+  {
+    "PeliculaId": 598,
+    "estreno": "2020-10-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 599,
+    "estreno": "2020-10-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 600,
+    "estreno": "2020-10-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 601,
+    "estreno": "2020-10-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 602,
+    "estreno": "2020-10-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 603,
+    "estreno": "2020-10-20",
+    "salida": "2020-10-26"
+  },
+  {
+    "PeliculaId": 604,
+    "estreno": "2020-10-22",
+    "salida": "2020-10-29"
+  },
+  {
+    "PeliculaId": 605,
+    "estreno": "2020-10-23",
+    "salida": null
+  },
+  {
+    "PeliculaId": 606,
+    "estreno": "2020-10-28",
+    "salida": null
+  },
+  {
+    "PeliculaId": 607,
+    "estreno": "2020-10-29",
+    "salida": null
+  },
+  {
+    "PeliculaId": 608,
+    "estreno": "2020-10-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 609,
+    "estreno": "2020-10-30",
+    "salida": null
+  },
+  {
+    "PeliculaId": 125,
+    "estreno": "2020-10-02",
+    "salida": "2020-10-12"
+  },
+  {
+    "PeliculaId": 412,
+    "estreno": "2020-10-22",
+    "salida": "2020-10-29"
+  },
+  {
+    "PeliculaId": 583,
+    "estreno": "2020-10-17",
+    "salida": "2020-10-17"
+  },
+  {
+    "PeliculaId": 275,
+    "entrada": "2020-10-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 573,
+    "estreno": "2020-10-28",
+    "salida": null
   }
+
+
+
 ]

@@ -4017,7 +4017,401 @@
    "formato": "Cortometraje",
    "duracion": 22,
    "pais": "Colombia"
- }
+ },
+
+
+ {
+  "titulo": "Amalia",
+  "year": 1914,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 81,
+  "pais": "Argentina"
+},
+{
+  "titulo": "La Nación Clandestina",
+  "year": 1989,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 122,
+  "pais": "Bolivia"
+},
+{
+  "titulo": "Mares de pasión",
+  "year": 1961,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 94,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Mariposas S.A.",
+  "year": 1986,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 90,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Nitrato argentino, una historia del cine de los primeros tiempos",
+  "year": 2016,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 46,
+  "pais": "Argentina"
+},
+{
+  "titulo": "Pixote - A lei do mais fraco",
+  "year": 1980,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 129,
+  "pais": "Brasil"
+},
+{
+  "titulo": "Tres cuentos Colombianos",
+  "year": 1963,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 85,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Tepeyac",
+  "year": 1917,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 64,
+  "pais": "México"
+},
+{
+  "titulo": "Acabarom-se os otários",
+  "year": 1929,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 19,
+  "pais": "Brasil"
+},
+{
+  "titulo": "Yuruparí – Bienvenidos a la vieja Providencia",
+  "year": 1984,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 28,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Yuruparí – Buscando el camino a …",
+  "year": 1984,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 27,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Yuruparí – Lo que nos dejó el pasado",
+  "year": 1984,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 27,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Tropic Pocket",
+  "year": 2011,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 10,
+  "pais": "Colombia"
+},
+{
+  "titulo": "San Antonio",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 30,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Fin de Campaña",
+  "year": 2018,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 12,
+  "pais": "Perú"
+},
+{
+  "titulo": "Herencia sin culpa",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 15,
+  "pais": "Perú"
+},
+{
+  "titulo": "La Película",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 9,
+  "pais": "Perú"
+},
+{
+  "titulo": "Perro",
+  "year": 2019,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 15,
+  "pais": "Perú"
+},
+{
+  "titulo": "Las cintas de mi madre",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 20,
+  "pais": "Perú"
+},
+{
+  "titulo": "El Águila del ciclón",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 18,
+  "pais": "Perú"
+},
+{
+  "titulo": "Ñankara: Tras la mirada Awá",
+  "year": 2017,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 63,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Identidad",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 83,
+  "pais": "Perú"
+},
+{
+  "titulo": "La Bronca",
+  "year": 2019,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 103,
+  "pais": "Perú"
+},
+{
+  "titulo": "Contaminación es ...",
+  "year": 1975,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 10,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Nuestra voz de tierra, memoria y futuro",
+  "year": 1981,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 110,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Teloneras",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 81,
+  "pais": "Perú"
+},
+{
+  "titulo": "Casos complejos",
+  "year": 2018,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 82,
+  "pais": "Perú"
+},
+{
+  "titulo": "Vivir ilesos",
+  "year": 2019,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 80,
+  "pais": "Perú"
+},
+{
+  "titulo": "El viaje de Javier Heraud",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 96,
+  "pais": "Perú"
+},
+{
+  "titulo": "Frontera azul",
+  "year": 2018,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 86,
+  "pais": "Perú"
+},
+{
+  "titulo": "Prueba de fondo",
+  "year": 2018,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 88,
+  "pais": "Perú"
+},
+{
+  "titulo": "El monopolio de la memoria",
+  "year": 2018,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 48,
+  "pais": "México"
+},
+{
+  "titulo": "Las colmenas",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 99,
+  "pais": "Perú"
+},
+{
+  "titulo": "Con el nombre de Tania",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 85,
+  "pais": "Perú"
+},
+{
+  "titulo": "Ushui, la luna y el trueno",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 72,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Anku Tupue: ofrenda a los muertos",
+  "year": 2018,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 24,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Viaje en tierra otrora contada",
+  "year": 2011,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 22,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Bambú",
+  "year": 2018,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 15,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Amor 95 veces",
+  "year": 2016,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 9,
+  "pais": "Colombia"
+},
+{
+  "titulo": "La Favorita",
+  "year": 2015,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 12,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Menguante",
+  "year": 2017,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 11,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Preludio",
+  "year": 2019,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 10,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Expedición al Caquetá",
+  "year": 1930,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 7,
+  "pais": "Colombia"
+},
+{
+  "titulo": "La impresión de una guerra",
+  "year": 2015,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 27,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Yu' Luuçx",
+  "year": 2017,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 24,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Clever",
+  "year": 2015,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 84,
+  "pais": "Uruguay"
+},
+{
+  "titulo": "La casa del recuerdo",
+  "year": 1988,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 14,
+  "pais": "Perú"
+},
+{
+  "titulo": "Vecinos inesperados",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 79,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Sincrónico",
+  "year": 2016,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 14,
+  "pais": "Colombia"
+}
 
 ]
 
