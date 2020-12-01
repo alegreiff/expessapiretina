@@ -4411,7 +4411,256 @@
   "formato": "Cortometraje",
   "duracion": 14,
   "pais": "Colombia"
-}
+},
+{
+  "titulo": "Raíces de piedra",
+  "year": 1963,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 82,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Idea",
+  "year": 1997,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 36,
+  "pais": "Uruguay"
+},
+{
+  "titulo": "Palabras verdaderas",
+  "year": 2004,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 55,
+  "pais": "Uruguay"
+},
+{
+  "titulo": "Bajo la tierra",
+  "year": 1968,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 82,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Meteorito",
+  "year": 2018,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 15,
+  "pais": "México"
+},
+{
+  "titulo": "Cuando cierro los ojos",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 63,
+  "pais": "México"
+},
+{
+  "titulo": "El Sembrador",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 86,
+  "pais": "México"
+},
+{
+  "titulo": "Bankilal (El hermano mayor)",
+  "year": 2014,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 53,
+  "pais": "México"
+},
+{
+  "titulo": "El Amparo",
+  "year": 2019,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 99,
+  "pais": "Colombia"
+},
+{
+  "titulo": "### – Michi, michi, michi",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 4,
+  "pais": "Perú"
+},
+{
+  "titulo": "Alba",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 8,
+  "pais": "Perú"
+},
+{
+  "titulo": "Cara de Ángel",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 1,
+  "pais": "Perú"
+},
+{
+  "titulo": "Hombre de neón",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 9,
+  "pais": "Perú"
+},
+{
+  "titulo": "Merenguito",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 7,
+  "pais": "Perú"
+},
+{
+  "titulo": "Recuerdos de arcilla",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 7,
+  "pais": "Perú"
+},
+{
+  "titulo": "Ukhupacha",
+  "year": 2020,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 2,
+  "pais": "Perú"
+},
+{
+  "titulo": "Corteza",
+  "year": 2016,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 15,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Señoritas",
+  "year": 2013,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 86,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Selección de Cine Mexicano Experimental 2019",
+  "year": 2020,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 83,
+  "pais": "México"
+},
+{
+  "titulo": "Lo que no pude contar",
+  "year": 2020,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 30,
+  "pais": "Perú"
+},
+{
+  "titulo": "Mamapara",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 18,
+  "pais": "Perú"
+},
+{
+  "titulo": "Ginger's Paradise",
+  "year": 2020,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 70,
+  "pais": "Bolivia"
+},
+{
+  "titulo": "La película infinita",
+  "year": 2018,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 58,
+  "pais": "Argentina"
+},
+{
+  "titulo": "Fordlandia Malaise",
+  "year": 2019,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 41,
+  "pais": "Portugal"
+},
+{
+  "titulo": "María, de Enrique Grau",
+  "year": 1966,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 38,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Nelsa",
+  "year": 2014,
+  "genero": "Ficción",
+  "formato": "Cortometraje",
+  "duracion": 14,
+  "pais": "Colombia"
+},
+{
+  "titulo": "La primavera trans",
+  "year": 2018,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 25,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Sin Voz",
+  "year": 2018,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 90,
+  "pais": "Panamá"
+},
+{
+  "titulo": "Alias María",
+  "year": 2015,
+  "genero": "Ficción",
+  "formato": "Largometraje",
+  "duracion": 92,
+  "pais": "Colombia"
+},
+{
+  "titulo": "Las pérdidas",
+  "year": 2016,
+  "genero": "Documental",
+  "formato": "Cortometraje",
+  "duracion": 8,
+  "pais": "Uruguay"
+},
+{
+  "titulo": "Atentamente",
+  "year": 2016,
+  "genero": "Documental",
+  "formato": "Largometraje",
+  "duracion": 80,
+  "pais": "Colombia"
+},
+
 
 ]
 

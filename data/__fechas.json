@@ -37,7 +37,7 @@
   {
     "PeliculaId": 8,
     "entrada": "2016-03-04",
-    "salida": null
+    "salida": "2020-11-16"
   },
   {
     "PeliculaId": 9,
@@ -1397,22 +1397,22 @@
   {
     "PeliculaId": 280,
     "entrada": "2018-11-02",
-    "salida": null
+    "salida": "2020-11-02"
   },
   {
     "PeliculaId": 281,
     "entrada": "2018-11-08",
-    "salida": null
+    "salida": "2020-11-08"
   },
   {
     "PeliculaId": 282,
     "entrada": "2018-11-10",
-    "salida": null
+    "salida": "2020-11-10"
   },
   {
     "PeliculaId": 283,
     "entrada": "2018-11-10",
-    "salida": null
+    "salida": "2020-11-10"
   },
   {
     "PeliculaId": 284,
@@ -3152,7 +3152,7 @@
   {
     "PeliculaId": 577,
     "entrada": "2020-10-08",
-    "salida": null
+    "salida": "2020-11-08"
   },
   {
     "PeliculaId": 578,
@@ -3227,7 +3227,7 @@
   {
     "PeliculaId": 592,
     "entrada": "2020-10-15",
-    "salida": null
+    "salida": "2020-11-15"
   },
   {
     "PeliculaId": 593,
@@ -3272,12 +3272,12 @@
   {
     "PeliculaId": 601,
     "entrada": "2020-10-20",
-    "salida": null
+    "salida": "2020-11-01"
   },
   {
     "PeliculaId": 602,
     "entrada": "2020-10-20",
-    "salida": null
+    "salida": "2020-11-01"
   },
   {
     "PeliculaId": 603,
@@ -3302,7 +3302,7 @@
   {
     "PeliculaId": 607,
     "entrada": "2020-10-29",
-    "salida": null
+    "salida": "2020-11-26"
   },
   {
     "PeliculaId": 608,
@@ -3332,13 +3332,192 @@
   {
     "PeliculaId": 275,
     "entrada": "2020-10-26",
-    "salida": null
+    "salida": "2020-11-26"
   },
   {
     "PeliculaId": 573,
     "entrada": "2020-10-28",
+    "salida": "2020-11-05"
+  },
+  {
+    "PeliculaId": 610,
+    "entrada": "2020-11-03",
+    "salida": "2020-11-09"
+  },
+  {
+    "PeliculaId": 611,
+    "entrada": "2020-11-04",
+    "salida": "2020-11-30"
+  },
+  {
+    "PeliculaId": 612,
+    "entrada": "2020-11-04",
+    "salida": "2020-11-30"
+  },
+  {
+    "PeliculaId": 613,
+    "entrada": "2020-11-06",
+    "salida": "2020-11-12"
+  },
+  {
+    "PeliculaId": 614,
+    "entrada": "2020-11-09",
     "salida": null
-  }
+  },
+  {
+    "PeliculaId": 615,
+    "entrada": "2020-11-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 616,
+    "entrada": "2020-11-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 617,
+    "entrada": "2020-11-09",
+    "salida": null
+  },
+  {
+    "PeliculaId": 618,
+    "entrada": "2020-11-10",
+    "salida": "2020-11-16"
+  },
+  {
+    "PeliculaId": 619,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 620,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 621,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 622,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 623,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 624,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 625,
+    "entrada": "2020-11-11",
+    "salida": "2020-11-15"
+  },
+  {
+    "PeliculaId": 626,
+    "entrada": "2020-11-12",
+    "salida": null
+  },
+  {
+    "PeliculaId": 627,
+    "entrada": "2020-11-17",
+    "salida": null
+  },
+  {
+    "PeliculaId": 628,
+    "entrada": "2020-11-19",
+    "salida": null
+  },
+  {
+    "PeliculaId": 629,
+    "entrada": "2020-11-20",
+    "salida": "2020-11-28"
+  },
+  {
+    "PeliculaId": 630,
+    "entrada": "2020-11-20",
+    "salida": "2020-11-28"
+  },
+  {
+    "PeliculaId": 631,
+    "entrada": "2020-11-20",
+    "salida": null
+  },
+  {
+    "PeliculaId": 632,
+    "entrada": "2020-11-20",
+    "salida": "2020-11-27"
+  },
+  {
+    "PeliculaId": 633,
+    "entrada": "2020-11-20",
+    "salida": "2020-11-27"
+  },
+  {
+    "PeliculaId": 634,
+    "entrada": "2020-11-20",
+    "salida": "2020-10-26"
+  },
+  {
+    "PeliculaId": 635,
+    "entrada": "2020-11-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 636,
+    "entrada": "2020-11-24",
+    "salida": null
+  },
+  {
+    "PeliculaId": 637,
+    "entrada": "2020-11-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 638,
+    "entrada": "2020-11-25",
+    "salida": null
+  },
+  {
+    "PeliculaId": 639,
+    "entrada": "2020-11-26",
+    "salida": null
+  },
+  {
+    "PeliculaId": 640,
+    "entrada": "2020-11-27",
+    "salida": null
+  },
+  {
+    "PeliculaId": 308,
+    "entrada": "2020-11-10",
+    "salida": "2020-11-17"
+  },
+  {
+    "PeliculaId": 496,
+    "entrada": "2020-11-20",
+    "salida": "2020-11-28"
+  },
+  {
+    "PeliculaId": 586,
+    "entrada": "2020-11-20",
+    "salida": "2020-11-28"
+  },
+  {
+    "PeliculaId": 280,
+    "entrada": "2020-11-11",
+    "salida": null
+  },{
+    "PeliculaId": 277,
+    "entrada": "2020-11-20",
+    "salida": null
+  },
   
 
 

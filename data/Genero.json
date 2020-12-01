@@ -1,342 +1,344 @@
 [
   {
-    "EstadisticaId": "1",
-    "hombres": "57.77",
-    "id": "1",
-    "mujeres": "42.23"
+    "EstadisticaId": 1,
+    "hombres": 57.77,
+    "id": 1,
+    "mujeres": 42.23
   },
   {
-    "EstadisticaId": "2",
-    "hombres": "59.46",
-    "id": "2",
-    "mujeres": "40.54"
+    "EstadisticaId": 2,
+    "hombres": 59.46,
+    "id": 2,
+    "mujeres": 40.54
   },
   {
-    "EstadisticaId": "3",
-    "hombres": "60.75",
-    "id": "3",
-    "mujeres": "39.25"
+    "EstadisticaId": 3,
+    "hombres": 60.75,
+    "id": 3,
+    "mujeres": 39.25
   },
   {
-    "EstadisticaId": "4",
-    "hombres": "56.68",
-    "id": "4",
-    "mujeres": "43.32"
+    "EstadisticaId": 4,
+    "hombres": 56.68,
+    "id": 4,
+    "mujeres": 43.32
   },
   {
-    "EstadisticaId": "5",
-    "hombres": "56.52",
-    "id": "5",
-    "mujeres": "43.48"
+    "EstadisticaId": 5,
+    "hombres": 56.52,
+    "id": 5,
+    "mujeres": 43.48
   },
   {
-    "EstadisticaId": "6",
-    "hombres": "54.13",
-    "id": "6",
-    "mujeres": "45.87"
+    "EstadisticaId": 6,
+    "hombres": 54.13,
+    "id": 6,
+    "mujeres": 45.87
   },
   {
-    "EstadisticaId": "7",
-    "hombres": "55.04",
-    "id": "7",
-    "mujeres": "44.96"
+    "EstadisticaId": 7,
+    "hombres": 55.04,
+    "id": 7,
+    "mujeres": 44.96
   },
   {
-    "EstadisticaId": "8",
-    "hombres": "56.2",
-    "id": "8",
-    "mujeres": "43.8"
+    "EstadisticaId": 8,
+    "hombres": 56.2,
+    "id": 8,
+    "mujeres": 43.8
   },
   {
-    "EstadisticaId": "9",
-    "hombres": "55.1",
-    "id": "9",
-    "mujeres": "44.9"
+    "EstadisticaId": 9,
+    "hombres": 55.1,
+    "id": 9,
+    "mujeres": 44.9
   },
   {
-    "EstadisticaId": "10",
-    "hombres": "57.02",
-    "id": "10",
-    "mujeres": "42.98"
+    "EstadisticaId": 10,
+    "hombres": 57.02,
+    "id": 10,
+    "mujeres": 42.98
   },
   {
-    "EstadisticaId": "11",
-    "hombres": "56.12",
-    "id": "11",
-    "mujeres": "43.88"
+    "EstadisticaId": 11,
+    "hombres": 56.12,
+    "id": 11,
+    "mujeres": 43.88
   },
   {
-    "EstadisticaId": "12",
-    "hombres": "56.42",
-    "id": "12",
-    "mujeres": "43.58"
+    "EstadisticaId": 12,
+    "hombres": 56.42,
+    "id": 12,
+    "mujeres": 43.58
   },
   {
-    "EstadisticaId": "13",
-    "hombres": "55.5",
-    "id": "13",
-    "mujeres": "44.5"
+    "EstadisticaId": 13,
+    "hombres": 55.5,
+    "id": 13,
+    "mujeres": 44.5
   },
   {
-    "EstadisticaId": "14",
-    "hombres": "55.43",
-    "id": "14",
-    "mujeres": "44.57"
+    "EstadisticaId": 14,
+    "hombres": 55.43,
+    "id": 14,
+    "mujeres": 44.57
   },
   {
-    "EstadisticaId": "15",
-    "hombres": "51.93",
-    "id": "15",
-    "mujeres": "48.07"
+    "EstadisticaId": 15,
+    "hombres": 51.93,
+    "id": 15,
+    "mujeres": 48.07
   },
   {
-    "EstadisticaId": "16",
-    "hombres": "56.78",
-    "id": "16",
-    "mujeres": "42.92"
+    "EstadisticaId": 16,
+    "hombres": 56.78,
+    "id": 16,
+    "mujeres": 42.92
   },
   {
-    "EstadisticaId": "17",
-    "hombres": "52.92",
-    "id": "17",
-    "mujeres": "47.08"
+    "EstadisticaId": 17,
+    "hombres": 52.92,
+    "id": 17,
+    "mujeres": 47.08
   },
   {
-    "EstadisticaId": "18",
-    "hombres": "54.01",
-    "id": "18",
-    "mujeres": "45.99"
+    "EstadisticaId": 18,
+    "hombres": 54.01,
+    "id": 18,
+    "mujeres": 45.99
   },
   {
-    "EstadisticaId": "19",
-    "hombres": "53.22",
-    "id": "19",
-    "mujeres": "46.78"
+    "EstadisticaId": 19,
+    "hombres": 53.22,
+    "id": 19,
+    "mujeres": 46.78
   },
   {
-    "EstadisticaId": "20",
-    "hombres": "51.63",
-    "id": "20",
-    "mujeres": "48.37"
+    "EstadisticaId": 20,
+    "hombres": 51.63,
+    "id": 20,
+    "mujeres": 48.37
   },
   {
-    "EstadisticaId": "21",
-    "hombres": "51.99",
-    "id": "21",
-    "mujeres": "48.01"
+    "EstadisticaId": 21,
+    "hombres": 51.99,
+    "id": 21,
+    "mujeres": 48.01
   },
   {
-    "EstadisticaId": "22",
-    "hombres": "58.77",
-    "id": "22",
-    "mujeres": "41.23"
+    "EstadisticaId": 22,
+    "hombres": 58.77,
+    "id": 22,
+    "mujeres": 41.23
   },
   {
-    "EstadisticaId": "23",
-    "hombres": "51.82",
-    "id": "23",
-    "mujeres": "48.18"
+    "EstadisticaId": 23,
+    "hombres": 51.82,
+    "id": 23,
+    "mujeres": 48.18
   },
   {
-    "EstadisticaId": "24",
-    "hombres": "52.24",
-    "id": "24",
-    "mujeres": "47.76"
+    "EstadisticaId": 24,
+    "hombres": 52.24,
+    "id": 24,
+    "mujeres": 47.76
   },
   {
-    "EstadisticaId": "25",
-    "hombres": "53.78",
-    "id": "25",
-    "mujeres": "46.22"
+    "EstadisticaId": 25,
+    "hombres": 53.78,
+    "id": 25,
+    "mujeres": 46.22
   },
   {
-    "EstadisticaId": "26",
-    "hombres": "49.77",
-    "id": "26",
-    "mujeres": "50.23"
+    "EstadisticaId": 26,
+    "hombres": 49.77,
+    "id": 26,
+    "mujeres": 50.23
   },
   {
-    "EstadisticaId": "27",
-    "hombres": "49.48",
-    "id": "27",
-    "mujeres": "50.52"
+    "EstadisticaId": 27,
+    "hombres": 49.48,
+    "id": 27,
+    "mujeres": 50.52
   },
   {
-    "EstadisticaId": "28",
-    "hombres": "50.94",
-    "id": "28",
-    "mujeres": "49.06"
+    "EstadisticaId": 28,
+    "hombres": 50.94,
+    "id": 28,
+    "mujeres": 49.06
   },
   {
-    "EstadisticaId": "29",
-    "hombres": "52.72",
-    "id": "29",
-    "mujeres": "47.28"
+    "EstadisticaId": 29,
+    "hombres": 52.72,
+    "id": 29,
+    "mujeres": 47.28
   },
   {
-    "EstadisticaId": "30",
-    "hombres": "52.06",
-    "id": "30",
-    "mujeres": "47.94"
+    "EstadisticaId": 30,
+    "hombres": 52.06,
+    "id": 30,
+    "mujeres": 47.94
   },
   {
-    "EstadisticaId": "31",
-    "hombres": "51.83",
-    "id": "31",
-    "mujeres": "48.17"
+    "EstadisticaId": 31,
+    "hombres": 51.83,
+    "id": 31,
+    "mujeres": 48.17
   },
   {
-    "EstadisticaId": "32",
-    "hombres": "51.32",
-    "id": "32",
-    "mujeres": "48.68"
+    "EstadisticaId": 32,
+    "hombres": 51.32,
+    "id": 32,
+    "mujeres": 48.68
   },
   {
-    "EstadisticaId": "33",
-    "hombres": "53.9",
-    "id": "33",
-    "mujeres": "46.1"
+    "EstadisticaId": 33,
+    "hombres": 53.9,
+    "id": 33,
+    "mujeres": 46.1
   },
   {
-    "EstadisticaId": "34",
-    "hombres": "51.44",
-    "id": "34",
-    "mujeres": "48.56"
+    "EstadisticaId": 34,
+    "hombres": 51.44,
+    "id": 34,
+    "mujeres": 48.56
   },
   {
-    "EstadisticaId": "35",
-    "hombres": "51.9",
-    "id": "35",
-    "mujeres": "48.1"
+    "EstadisticaId": 35,
+    "hombres": 51.9,
+    "id": 35,
+    "mujeres": 48.1
   },
   {
-    "EstadisticaId": "36",
-    "hombres": "51.35",
-    "id": "36",
-    "mujeres": "48.65"
+    "EstadisticaId": 36,
+    "hombres": 51.35,
+    "id": 36,
+    "mujeres": 48.65
   },
   {
-    "EstadisticaId": "37",
-    "hombres": "50.53",
-    "id": "37",
-    "mujeres": "49.47"
+    "EstadisticaId": 37,
+    "hombres": 50.53,
+    "id": 37,
+    "mujeres": 49.47
   },
   {
-    "EstadisticaId": "38",
-    "hombres": "50.82",
-    "id": "38",
-    "mujeres": "49.18"
+    "EstadisticaId": 38,
+    "hombres": 50.82,
+    "id": 38,
+    "mujeres": 49.18
   },
   {
-    "EstadisticaId": "39",
-    "hombres": "50.91",
-    "id": "39",
-    "mujeres": "49.09"
+    "EstadisticaId": 39,
+    "hombres": 50.91,
+    "id": 39,
+    "mujeres": 49.09
   },
   {
-    "EstadisticaId": "40",
-    "hombres": "51.71",
-    "id": "40",
-    "mujeres": "48.29"
+    "EstadisticaId": 40,
+    "hombres": 51.71,
+    "id": 40,
+    "mujeres": 48.29
   },
   {
-    "EstadisticaId": "41",
-    "hombres": "50.38",
-    "id": "41",
-    "mujeres": "49.62"
+    "EstadisticaId": 41,
+    "hombres": 50.38,
+    "id": 41,
+    "mujeres": 49.62
   },
   {
-    "EstadisticaId": "42",
-    "hombres": "52.74",
-    "id": "42",
-    "mujeres": "47.26"
+    "EstadisticaId": 42,
+    "hombres": 52.74,
+    "id": 42,
+    "mujeres": 47.26
   },
   {
-    "EstadisticaId": "43",
-    "hombres": "51.56",
-    "id": "43",
-    "mujeres": "48.44"
+    "EstadisticaId": 43,
+    "hombres": 51.56,
+    "id": 43,
+    "mujeres": 48.44
   },
   {
-    "EstadisticaId": "44",
-    "hombres": "55.25",
-    "id": "44",
-    "mujeres": "47.75"
+    "EstadisticaId": 44,
+    "hombres": 55.25,
+    "id": 44,
+    "mujeres": 47.75
   },
   {
-    "EstadisticaId": "45",
-    "hombres": "51.26",
-    "id": "45",
-    "mujeres": "48.74"
+    "EstadisticaId": 45,
+    "hombres": 51.26,
+    "id": 45,
+    "mujeres": 48.74
   },
   {
-    "EstadisticaId": "46",
-    "hombres": "54.65",
-    "id": "46",
-    "mujeres": "45.35"
+    "EstadisticaId": 46,
+    "hombres": 54.65,
+    "id": 46,
+    "mujeres": 45.35
   },
   {
-    "EstadisticaId": "47",
-    "hombres": "44.71",
-    "id": "47",
-    "mujeres": "55.29"
+    "EstadisticaId": 47,
+    "hombres": 44.71,
+    "id": 47,
+    "mujeres": 55.29
   },
   {
-    "EstadisticaId": "48",
-    "hombres": "42.98",
-    "id": "48",
-    "mujeres": "57.02"
+    "EstadisticaId": 48,
+    "hombres": 42.98,
+    "id": 48,
+    "mujeres": 57.02
   },
   {
-    "EstadisticaId": "49",
-    "hombres": "44.13",
-    "id": "49",
-    "mujeres": "55.87"
+    "EstadisticaId": 49,
+    "hombres": 44.13,
+    "id": 49,
+    "mujeres": 55.87
   },
   {
-    "EstadisticaId": "50",
-    "hombres": "42.69",
-    "id": "50",
-    "mujeres": "57.13"
+    "EstadisticaId": 50,
+    "hombres": 42.69,
+    "id": 50,
+    "mujeres": 57.13
   },
   {
-    "EstadisticaId": "51",
-    "hombres": "43.74",
-    "id": "51",
-    "mujeres": "56.26"
+    "EstadisticaId": 51,
+    "hombres": 43.74,
+    "id": 51,
+    "mujeres": 56.26
   },
   {
-    "EstadisticaId": "52",
-    "hombres": "43.49",
-    "id": "52",
-    "mujeres": "56.51"
-  }
-  ,
+    "EstadisticaId": 52,
+    "hombres": 43.49,
+    "id": 52,
+    "mujeres": 56.51
+  },
   {
-    "EstadisticaId": "53",
-    "hombres": "43.46",
-    "id": "53",
-    "mujeres": "56.54"
-  }
-  ,
+    "EstadisticaId": 53,
+    "hombres": 43.46,
+    "id": 53,
+    "mujeres": 56.54
+  },
   {
-    "EstadisticaId": "54",
-    "hombres": "43.29",
-    "id": "54",
-    "mujeres": "56.71"
-  }
-  ,
+    "EstadisticaId": 54,
+    "hombres": 43.29,
+    "id": 54,
+    "mujeres": 56.71
+  },
   {
-    "EstadisticaId": "55",
-    "hombres": "40.87",
-    "id": "55",
-    "mujeres": "59.13"
-  }
-  ,
+    "EstadisticaId": 55,
+    "hombres": 40.87,
+    "id": 55,
+    "mujeres": 59.13
+  },
   {
-    "EstadisticaId": "56",
-    "hombres": "49.42",
-    "id": "56",
-    "mujeres": "50.58"
+    "EstadisticaId": 56,
+    "hombres": 49.42,
+    "id": 56,
+    "mujeres": 50.58
+  },
+  {
+    "EstadisticaId": 57,
+    "hombres": 53.41,
+    "id": 57,
+    "mujeres": 46.59
   }
 ]

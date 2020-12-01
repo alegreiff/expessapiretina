@@ -1,403 +1,401 @@
 [
   {
-    "EstadisticaId": "1",
-    "escritorio": "74.43",
-    "id": "1",
-    "movil": "19.06",
-    "tablet": "6.51"
+    "EstadisticaId": 1,
+    "escritorio": 74.43,
+    "id": 1,
+    "movil": 19.06,
+    "tablet": 6.51
   },
   {
-    "EstadisticaId": "2",
-    "escritorio": "76.46",
-    "id": "2",
-    "movil": "17.4",
-    "tablet": "6.13"
+    "EstadisticaId": 2,
+    "escritorio": 76.46,
+    "id": 2,
+    "movil": 17.4,
+    "tablet": 6.13
   },
   {
-    "EstadisticaId": "3",
-    "escritorio": "76.56",
-    "id": "3",
-    "movil": "17.53",
-    "tablet": "5.91"
+    "EstadisticaId": 3,
+    "escritorio": 76.56,
+    "id": 3,
+    "movil": 17.53,
+    "tablet": 5.91
   },
   {
-    "EstadisticaId": "4",
-    "escritorio": "78.72",
-    "id": "4",
-    "movil": "16.58",
-    "tablet": "4.7"
+    "EstadisticaId": 4,
+    "escritorio": 78.72,
+    "id": 4,
+    "movil": 16.58,
+    "tablet": 4.7
   },
   {
-    "EstadisticaId": "5",
-    "escritorio": "77.19",
-    "id": "5",
-    "movil": "18.15",
-    "tablet": "4.66"
+    "EstadisticaId": 5,
+    "escritorio": 77.19,
+    "id": 5,
+    "movil": 18.15,
+    "tablet": 4.66
   },
   {
-    "EstadisticaId": "6",
-    "escritorio": "69.63",
-    "id": "6",
-    "movil": "26.11",
-    "tablet": "4.25"
+    "EstadisticaId": 6,
+    "escritorio": 69.63,
+    "id": 6,
+    "movil": 26.11,
+    "tablet": 4.25
   },
   {
-    "EstadisticaId": "7",
-    "escritorio": "71.51",
-    "id": "7",
-    "movil": "22.28",
-    "tablet": "6.21"
+    "EstadisticaId": 7,
+    "escritorio": 71.51,
+    "id": 7,
+    "movil": 22.28,
+    "tablet": 6.21
   },
   {
-    "EstadisticaId": "8",
-    "escritorio": "70.91",
-    "id": "8",
-    "movil": "25.14",
-    "tablet": "3.96"
+    "EstadisticaId": 8,
+    "escritorio": 70.91,
+    "id": 8,
+    "movil": 25.14,
+    "tablet": 3.96
   },
   {
-    "EstadisticaId": "9",
-    "escritorio": "75.02",
-    "id": "9",
-    "movil": "20.37",
-    "tablet": "4.61"
+    "EstadisticaId": 9,
+    "escritorio": 75.02,
+    "id": 9,
+    "movil": 20.37,
+    "tablet": 4.61
   },
   {
-    "EstadisticaId": "10",
-    "escritorio": "65.35",
-    "id": "10",
-    "movil": "30.75",
-    "tablet": "3.91"
+    "EstadisticaId": 10,
+    "escritorio": 65.35,
+    "id": 10,
+    "movil": 30.75,
+    "tablet": 3.91
   },
   {
-    "EstadisticaId": "11",
-    "escritorio": "77.82",
-    "id": "11",
-    "movil": "13.89",
-    "tablet": "3.79"
+    "EstadisticaId": 11,
+    "escritorio": 77.82,
+    "id": 11,
+    "movil": 13.89,
+    "tablet": 3.79
   },
   {
-    "EstadisticaId": "12",
-    "escritorio": "76.66",
-    "id": "12",
-    "movil": "20.33",
-    "tablet": "3.01"
+    "EstadisticaId": 12,
+    "escritorio": 76.66,
+    "id": 12,
+    "movil": 20.33,
+    "tablet": 3.01
   },
   {
-    "EstadisticaId": "13",
-    "escritorio": "76.15",
-    "id": "13",
-    "movil": "19.73",
-    "tablet": "4.12"
+    "EstadisticaId": 13,
+    "escritorio": 76.15,
+    "id": 13,
+    "movil": 19.73,
+    "tablet": 4.12
   },
   {
-    "EstadisticaId": "14",
-    "escritorio": "76.59",
-    "id": "14",
-    "movil": "19.19",
-    "tablet": "4.22"
+    "EstadisticaId": 14,
+    "escritorio": 76.59,
+    "id": 14,
+    "movil": 19.19,
+    "tablet": 4.22
   },
   {
-    "EstadisticaId": "15",
-    "escritorio": "65.27",
-    "id": "15",
-    "movil": "31.64",
-    "tablet": "3.1"
+    "EstadisticaId": 15,
+    "escritorio": 65.27,
+    "id": 15,
+    "movil": 31.64,
+    "tablet": 3.1
   },
   {
-    "EstadisticaId": "16",
-    "escritorio": "72.26",
-    "id": "16",
-    "movil": "24.4",
-    "tablet": "3.35"
+    "EstadisticaId": 16,
+    "escritorio": 72.26,
+    "id": 16,
+    "movil": 24.4,
+    "tablet": 3.35
   },
   {
-    "EstadisticaId": "17",
-    "escritorio": "78.65",
-    "id": "17",
-    "movil": "18.44",
-    "tablet": "2.91"
+    "EstadisticaId": 17,
+    "escritorio": 78.65,
+    "id": 17,
+    "movil": 18.44,
+    "tablet": 2.91
   },
   {
-    "EstadisticaId": "18",
-    "escritorio": "76.51",
-    "id": "18",
-    "movil": "19.93",
-    "tablet": "3.56"
+    "EstadisticaId": 18,
+    "escritorio": 76.51,
+    "id": 18,
+    "movil": 19.93,
+    "tablet": 3.56
   },
   {
-    "EstadisticaId": "19",
-    "escritorio": "74.62",
-    "id": "19",
-    "movil": "22.36",
-    "tablet": "3.03"
+    "EstadisticaId": 19,
+    "escritorio": 74.62,
+    "id": 19,
+    "movil": 22.36,
+    "tablet": 3.03
   },
   {
-    "EstadisticaId": "20",
-    "escritorio": "73.92",
-    "id": "20",
-    "movil": "22.74",
-    "tablet": "3.34"
+    "EstadisticaId": 20,
+    "escritorio": 73.92,
+    "id": 20,
+    "movil": 22.74,
+    "tablet": 3.34
   },
   {
-    "EstadisticaId": "21",
-    "escritorio": "73.15",
-    "id": "21",
-    "movil": "23.03",
-    "tablet": "3.83"
+    "EstadisticaId": 21,
+    "escritorio": 73.15,
+    "id": 21,
+    "movil": 23.03,
+    "tablet": 3.83
   },
   {
-    "EstadisticaId": "22",
-    "escritorio": "66.85",
-    "id": "22",
-    "movil": "29.35",
-    "tablet": "3.79"
+    "EstadisticaId": 22,
+    "escritorio": 66.85,
+    "id": 22,
+    "movil": 29.35,
+    "tablet": 3.79
   },
   {
-    "EstadisticaId": "23",
-    "escritorio": "69.08",
-    "id": "23",
-    "movil": "27.7",
-    "tablet": "3.22"
+    "EstadisticaId": 23,
+    "escritorio": 69.08,
+    "id": 23,
+    "movil": 27.7,
+    "tablet": 3.22
   },
   {
-    "EstadisticaId": "24",
-    "escritorio": "72.57",
-    "id": "24",
-    "movil": "24.57",
-    "tablet": "2.86"
+    "EstadisticaId": 24,
+    "escritorio": 72.57,
+    "id": 24,
+    "movil": 24.57,
+    "tablet": 2.86
   },
   {
-    "EstadisticaId": "25",
-    "escritorio": "73.65",
-    "id": "25",
-    "movil": "23.1",
-    "tablet": "3.25"
+    "EstadisticaId": 25,
+    "escritorio": 73.65,
+    "id": 25,
+    "movil": 23.1,
+    "tablet": 3.25
   },
   {
-    "EstadisticaId": "26",
-    "escritorio": "74.09",
-    "id": "26",
-    "movil": "22.98",
-    "tablet": "2.93"
+    "EstadisticaId": 26,
+    "escritorio": 74.09,
+    "id": 26,
+    "movil": 22.98,
+    "tablet": 2.93
   },
   {
-    "EstadisticaId": "27",
-    "escritorio": "70.83",
-    "id": "27",
-    "movil": "24.92",
-    "tablet": "4.25"
+    "EstadisticaId": 27,
+    "escritorio": 70.83,
+    "id": 27,
+    "movil": 24.92,
+    "tablet": 4.25
   },
   {
-    "EstadisticaId": "28",
-    "escritorio": "67.09",
-    "id": "28",
-    "movil": "26.72",
-    "tablet": "6.19"
+    "EstadisticaId": 28,
+    "escritorio": 67.09,
+    "id": 28,
+    "movil": 26.72,
+    "tablet": 6.19
   },
   {
-    "EstadisticaId": "29",
-    "escritorio": "57.88",
-    "id": "29",
-    "movil": "22.72",
-    "tablet": "19.4"
+    "EstadisticaId": 29,
+    "escritorio": 57.88,
+    "id": 29,
+    "movil": 22.72,
+    "tablet": 19.4
   },
   {
-    "EstadisticaId": "30",
-    "escritorio": "65.16",
-    "id": "30",
-    "movil": "21.51",
-    "tablet": "13.33"
+    "EstadisticaId": 30,
+    "escritorio": 65.16,
+    "id": 30,
+    "movil": 21.51,
+    "tablet": 13.33
   },
   {
-    "EstadisticaId": "31",
-    "escritorio": "49.78",
-    "id": "31",
-    "movil": "46.19",
-    "tablet": "4.03"
+    "EstadisticaId": 31,
+    "escritorio": 49.78,
+    "id": 31,
+    "movil": 46.19,
+    "tablet": 4.03
   },
   {
-    "EstadisticaId": "32",
-    "escritorio": "63.95",
-    "id": "32",
-    "movil": "28.57",
-    "tablet": "8.48"
+    "EstadisticaId": 32,
+    "escritorio": 63.95,
+    "id": 32,
+    "movil": 28.57,
+    "tablet": 8.48
   },
   {
-    "EstadisticaId": "33",
-    "escritorio": "64.26",
-    "id": "33",
-    "movil": "25.97",
-    "tablet": "9.77"
+    "EstadisticaId": 33,
+    "escritorio": 64.26,
+    "id": 33,
+    "movil": 25.97,
+    "tablet": 9.77
   },
   {
-    "EstadisticaId": "34",
-    "escritorio": "62.89",
-    "id": "34",
-    "movil": "26.57",
-    "tablet": "10.54"
+    "EstadisticaId": 34,
+    "escritorio": 62.89,
+    "id": 34,
+    "movil": 26.57,
+    "tablet": 10.54
   },
   {
-    "EstadisticaId": "35",
-    "escritorio": "47.74",
-    "id": "35",
-    "movil": "46.94",
-    "tablet": "5.31"
+    "EstadisticaId": 35,
+    "escritorio": 47.74,
+    "id": 35,
+    "movil": 46.94,
+    "tablet": 5.31
   },
   {
-    "EstadisticaId": "36",
-    "escritorio": "61.3",
-    "id": "36",
-    "movil": "30.99",
-    "tablet": "7.7"
+    "EstadisticaId": 36,
+    "escritorio": 61.3,
+    "id": 36,
+    "movil": 30.99,
+    "tablet": 7.7
   },
   {
-    "EstadisticaId": "37",
-    "escritorio": "63.45",
-    "id": "37",
-    "movil": "28.84",
-    "tablet": "7.71"
+    "EstadisticaId": 37,
+    "escritorio": 63.45,
+    "id": 37,
+    "movil": 28.84,
+    "tablet": 7.71
   },
   {
-    "EstadisticaId": "38",
-    "escritorio": "61.8",
-    "id": "38",
-    "movil": "29.43",
-    "tablet": "8.78"
+    "EstadisticaId": 38,
+    "escritorio": 61.8,
+    "id": 38,
+    "movil": 29.43,
+    "tablet": 8.78
   },
   {
-    "EstadisticaId": "39",
-    "escritorio": "60.38",
-    "id": "39",
-    "movil": "30.43",
-    "tablet": "9.19"
+    "EstadisticaId": 39,
+    "escritorio": 60.38,
+    "id": 39,
+    "movil": 30.43,
+    "tablet": 9.19
   },
   {
-    "EstadisticaId": "40",
-    "escritorio": "52.47",
-    "id": "40",
-    "movil": "38.68",
-    "tablet": "8.85"
+    "EstadisticaId": 40,
+    "escritorio": 52.47,
+    "id": 40,
+    "movil": 38.68,
+    "tablet": 8.85
   },
   {
-    "EstadisticaId": "41",
-    "escritorio": "58.11",
-    "id": "41",
-    "movil": "30.04",
-    "tablet": "11.85"
+    "EstadisticaId": 41,
+    "escritorio": 58.11,
+    "id": 41,
+    "movil": 30.04,
+    "tablet": 11.85
   },
   {
-    "EstadisticaId": "42",
-    "escritorio": "57.78",
-    "id": "42",
-    "movil": "33.75",
-    "tablet": "8.46"
+    "EstadisticaId": 42,
+    "escritorio": 57.78,
+    "id": 42,
+    "movil": 33.75,
+    "tablet": 8.46
   },
   {
-    "EstadisticaId": "43",
-    "escritorio": "46.37",
-    "id": "43",
-    "movil": "48.38",
-    "tablet": "5.25"
+    "EstadisticaId": 43,
+    "escritorio": 46.37,
+    "id": 43,
+    "movil": 48.38,
+    "tablet": 5.25
   },
   {
-    "EstadisticaId": "44",
-    "escritorio": "55.87",
-    "id": "44",
-    "movil": "36.11",
-    "tablet": "8.03"
+    "EstadisticaId": 44,
+    "escritorio": 55.87,
+    "id": 44,
+    "movil": 36.11,
+    "tablet": 8.03
   },
   {
-    "EstadisticaId": "45",
-    "escritorio": "57.34",
-    "id": "45",
-    "movil": "34.05",
-    "tablet": "8.61"
+    "EstadisticaId": 45,
+    "escritorio": 57.34,
+    "id": 45,
+    "movil": 34.05,
+    "tablet": 8.61
   },
   {
-    "EstadisticaId": "46",
-    "escritorio": "50.18",
-    "id": "46",
-    "movil": "42.74",
-    "tablet": "7.08"
+    "EstadisticaId": 46,
+    "escritorio": 50.18,
+    "id": 46,
+    "movil": 42.74,
+    "tablet": 7.08
   },
   {
-    "EstadisticaId": "47",
-    "escritorio": "55.32",
-    "id": "47",
-    "movil": "36.96",
-    "tablet": "7.72"
+    "EstadisticaId": 47,
+    "escritorio": 55.32,
+    "id": 47,
+    "movil": 36.96,
+    "tablet": 7.72
   },
   {
-    "EstadisticaId": "48",
-    "escritorio": "57.23",
-    "id": "48",
-    "movil": "34.7",
-    "tablet": "7.77"
+    "EstadisticaId": 48,
+    "escritorio": 57.23,
+    "id": 48,
+    "movil": 34.7,
+    "tablet": 7.77
   },
   {
-    "EstadisticaId": "49",
-    "escritorio": "46.11",
-    "id": "49",
-    "movil": "50.15",
-    "tablet": "3.74"
+    "EstadisticaId": 49,
+    "escritorio": 46.11,
+    "id": 49,
+    "movil": 50.15,
+    "tablet": 3.74
   },
   {
-    "EstadisticaId": "50",
-    "escritorio": "56",
-    "id": "50",
-    "movil": "39.97",
-    "tablet": "4.03"
+    "EstadisticaId": 50,
+    "escritorio": 56,
+    "id": 50,
+    "movil": 39.97,
+    "tablet": 4.03
   },
   {
-    "EstadisticaId": "51",
-    "escritorio": "57.97",
-    "id": "51",
-    "movil": "37.45",
-    "tablet": "4.57"
+    "EstadisticaId": 51,
+    "escritorio": 57.97,
+    "id": 51,
+    "movil": 37.45,
+    "tablet": 4.57
   },
-  
   {
-    "EstadisticaId": "52",
-    "escritorio": "60.92",
-    "id": "52",
-    "movil": "34",
-    "tablet": "5.08"
-  }
-  ,
-  
+    "EstadisticaId": 52,
+    "escritorio": 60.92,
+    "id": 52,
+    "movil": 34,
+    "tablet": 5.08
+  },
   {
-    "EstadisticaId": "53",
-    "escritorio": "61.05",
-    "id": "53",
-    "movil": "33.29",
-    "tablet": "5.66"
-  }
-  ,
-  
+    "EstadisticaId": 53,
+    "escritorio": 61.05,
+    "id": 53,
+    "movil": 33.29,
+    "tablet": 5.66
+  },
   {
-    "EstadisticaId": "54",
-    "escritorio": "60.76",
-    "id": "54",
-    "movil": "33.57",
-    "tablet": "5.67"
-  }
-  ,
-  
+    "EstadisticaId": 54,
+    "escritorio": 60.76,
+    "id": 54,
+    "movil": 33.57,
+    "tablet": 5.67
+  },
   {
-    "EstadisticaId": "55",
-    "escritorio": "61.28",
-    "id": "55",
-    "movil": "32.79",
-    "tablet": "5.93"
-  }
-  ,
-  
+    "EstadisticaId": 55,
+    "escritorio": 61.28,
+    "id": 55,
+    "movil": 32.79,
+    "tablet": 5.93
+  },
   {
-    "EstadisticaId": "56",
-    "escritorio": "60.51",
-    "id": "56",
-    "movil": "34.25",
-    "tablet": "5.24"
+    "EstadisticaId": 56,
+    "escritorio": 60.51,
+    "id": 56,
+    "movil": 34.25,
+    "tablet": 5.24
+  },
+  {
+    "EstadisticaId": 57,
+    "escritorio": 59.73,
+    "id": 57,
+    "movil": 34.5,
+    "tablet": 5.77
   }
 ]
